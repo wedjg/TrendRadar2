@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T21:36:18.822894+08:00",
-  "total_titles_processed": 2017,
+  "generated_at": "2025-12-12T22:20:56.270413+08:00",
+  "total_titles_processed": 2087,
   "failed_sources": [],
   "trends": [
     {
@@ -32,11 +32,12 @@
             8,
             9,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时31分 ~ 21时36分]"
+          "appearance_count": 10,
+          "time_info": "[13时31分 ~ 22时20分]"
         },
         {
           "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
@@ -86,8 +87,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时26分 ~ 21时36分]"
+          "appearance_count": 7,
+          "time_info": "[17时26分 ~ 22时20分]"
         },
         {
           "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
@@ -97,8 +98,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时26分 ~ 21时36分]"
+          "appearance_count": 7,
+          "time_info": "[17时26分 ~ 22时20分]"
         },
         {
           "title": "特朗普：若和平协议达成 美愿参与欧洲安全安排",
@@ -820,7 +821,7 @@
     },
     {
       "keyword_group": "美股 微软 亚马逊 博通 台积电 AMD",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
@@ -857,8 +858,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时55分 ~ 21时36分]"
+          "appearance_count": 14,
+          "time_info": "[10时55分 ~ 22时20分]"
         },
         {
           "title": "博通财报电话会实录：业绩强劲也撑不起股价？高管强调积压订单量有望再增长",
@@ -906,6 +907,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3020018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
+          "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
+          "url": "https://wallstreetcn.com/articles/3761241",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时21分 ~ 22时20分]"
         },
         {
           "title": "博通：预计AI芯片开支动能将在2026财年增长。 上个季度，第四家客户是Anthropic，从对方获得110亿美元额外的订单。 本公司已经从第五家AI芯片客户锁定10亿美元订单。",
@@ -978,18 +1002,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时43分 ~ 13时31分]"
-        },
-        {
-          "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
-          "url": "https://wallstreetcn.com/articles/3761241",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时21分 ~ 21时36分]"
         },
         {
           "title": "金十图示：2025年12月11日（周四）热门中概股行情一览（美股收盘）",
@@ -1150,6 +1162,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "博通暴跌道指期货创新高 资金撤离AI涌向周期股 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2228432",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "派杰投资：将博通(AVGO.O)目标价从375美元上调至430美元。",
@@ -1321,8 +1344,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时43分 ~ 21时36分]"
+          "appearance_count": 11,
+          "time_info": "[12时43分 ~ 22时20分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -1600,8 +1623,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时55分 ~ 21时36分]"
+          "appearance_count": 14,
+          "time_info": "[10时55分 ~ 22时20分]"
         },
         {
           "title": "TD Cowen：将谷歌母公司Alphabet目标股价从335美元上调至350美元。",
@@ -1656,11 +1679,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             15,
-            8
+            8,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时21分 ~ 21时36分]"
+          "appearance_count": 4,
+          "time_info": "[19时21分 ~ 22时20分]"
         },
         {
           "title": "谷歌母公司Alphabet跌幅扩大至3.5%。 微软涨1.2%，刷新日高。",
@@ -1843,11 +1867,12 @@
           "url": "https://wallstreetcn.com/livenews/3019998",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时20分]"
         },
         {
           "title": "Rivian开发AI芯片，用于取代英伟达的车规级产品",
