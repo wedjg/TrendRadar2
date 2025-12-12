@@ -9,8 +9,17 @@ gemini
 chatgpt
 openai
 
+英伟达
+NVIDIA
+NVDA
+H200
 
 美股
+微软
+亚马逊
+博通
+台积电
+AMD
 
 美元
 +指数
