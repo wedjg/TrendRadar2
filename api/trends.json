@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T14:41:17.017854+08:00",
-  "total_titles_processed": 1360,
+  "generated_at": "2025-12-12T15:28:49.372609+08:00",
+  "total_titles_processed": 1462,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 66,
       "titles": [
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
@@ -35,27 +35,41 @@
           "time_info": "[00时37分 ~ 07时25分]"
         },
         {
-          "title": "白宫：特朗普对俄乌都很失望",
-          "url": "https://news.ifeng.com/c/8p1LpVJOOIe",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时43分 ~ 14时41分]"
-        },
-        {
           "title": "特朗普拉小群,想拿C5替代G7",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
           "source": "贴吧",
           "ranks": [
             3,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时31分 ~ 14时41分]"
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 15时28分]"
+        },
+        {
+          "title": "白宫：特朗普对俄乌都很失望",
+          "url": "https://news.ifeng.com/c/8p1LpVJOOIe",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时43分 ~ 15时28分]"
+        },
+        {
+          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1982382027627073644",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时55分 ~ 15时28分]"
         },
         {
           "title": "特朗普：若和平协议达成 美愿参与欧洲安全安排",
@@ -67,17 +81,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
-        },
-        {
-          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1982382027627073644",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时55分 ~ 14时41分]"
         },
         {
           "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
@@ -388,6 +391,17 @@
           "time_info": "[03时24分 ~ 04时29分]"
         },
         {
+          "title": "特朗普：只有泽连斯基不喜欢和平计划",
+          "url": "https://news.ifeng.com/c/8p1VFhun2fI",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
           "title": "市场消息：美国财政部计划扩大特朗普政府为企业提供的税收减免，该方案将扩大研发企业税收减免的适用范围。",
           "url": "https://flash.jin10.com/detail/20251212032152670800",
           "source": "金十数据",
@@ -625,7 +639,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -661,6 +675,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
+        },
+        {
+          "title": "学者：特朗普想在中日博弈中两头渔利",
+          "url": "https://www.toutiao.com/trending/7582834886818401855/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "美国白宫：美国总统特朗普已了解乌克兰的最新提议。",
@@ -743,7 +768,7 @@
     },
     {
       "keyword_group": "美股 微软 亚马逊 博通 台积电 AMD",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
@@ -767,8 +792,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时24分 ~ 14时41分]"
+          "appearance_count": 10,
+          "time_info": "[07时24分 ~ 15时28分]"
         },
         {
           "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
@@ -778,8 +803,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时55分 ~ 14时41分]"
+          "appearance_count": 7,
+          "time_info": "[10时55分 ~ 15时28分]"
         },
         {
           "title": "博通(AVGO.O)盘后股价跌超5%，公司第一财季毛利润率将因AI产品而收缩1%。预计未来六个季度AI芯片销售至少730亿美元。",
@@ -813,6 +838,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "博通财报电话会实录：业绩强劲也撑不起股价？高管强调积压订单量有望再增长",
+          "url": "https://www.cls.cn/detail/2227393",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时43分 ~ 15时28分]"
         },
         {
           "title": "博通：预计AI芯片开支动能将在2026财年增长。 上个季度，第四家客户是Anthropic，从对方获得110亿美元额外的订单。 本公司已经从第五家AI芯片客户锁定10亿美元订单。",
@@ -885,18 +923,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时43分 ~ 13时31分]"
-        },
-        {
-          "title": "博通财报电话会实录：业绩强劲也撑不起股价？高管强调积压订单量有望再增长",
-          "url": "https://www.cls.cn/detail/2227393",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时43分 ~ 14时41分]"
         },
         {
           "title": "金十图示：2025年12月11日（周四）热门中概股行情一览（美股收盘）",
@@ -1010,7 +1036,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -1021,7 +1047,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -1081,13 +1107,24 @@
           "time_info": "07时25分"
         },
         {
+          "title": "博通股价在法兰克福市场下跌4.7%，此前公司公布财报并称利润率将受人工智能业务影响而下降。",
+          "url": "https://flash.jin10.com/detail/20251212150710366800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
           "title": "台积电日本第二工厂或转向4纳米芯片生产 以应对AI需求",
           "url": "https://wallstreetcn.com/livenews/3019647",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -1199,6 +1236,18 @@
           "time_info": "[08时41分 ~ 14时41分]"
         },
         {
+          "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
+          "url": "https://www.cls.cn/detail/2227268",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时01分 ~ 15时28分]"
+        },
+        {
           "title": "博通：公司并不预计OpenAI会在2026年带来太多的营收。",
           "url": "https://wallstreetcn.com/livenews/3019450",
           "source": "华尔街见闻-快讯",
@@ -1210,18 +1259,6 @@
           "time_info": "07时25分"
         },
         {
-          "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
-          "url": "https://www.cls.cn/detail/2227268",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时01分 ~ 14时41分]"
-        },
-        {
           "title": "ChatGPT5.2有哪些新升级",
           "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
           "source": "bilibili 热搜",
@@ -1229,8 +1266,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时43分 ~ 14时41分]"
+          "appearance_count": 5,
+          "time_info": "[12时43分 ~ 15时28分]"
         },
         {
           "title": "全面解析ChatGPT5.2",
@@ -1472,7 +1509,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
@@ -1483,8 +1520,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时55分 ~ 14时41分]"
+          "appearance_count": 7,
+          "time_info": "[10时55分 ~ 15时28分]"
         },
         {
           "title": "谷歌(GOOG.O)：开源一个新的网络研究代理基准，DEEPSEARCHQA，旨在测试代理在网络研究任务上的全面性。",
@@ -1577,6 +1614,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：宣布与英国国家量子计算中心开展全新合作。",
+          "url": "https://flash.jin10.com/detail/20251212150720006800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "消息人士：谷歌(GOOG.O)为遵守具有里程碑意义的欧盟新规所做的努力仍显不足，其明年将因偏袒自家服务而面临欧盟罚款。",
