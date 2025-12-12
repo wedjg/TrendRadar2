@@ -34,7 +34,7 @@ jobs:
           echo "🔍 检查必需的配置文件..."
 
           if [ ! -f config/config.yaml ]; then
-            echo "❌ 错误: config/config.yaml 文件不存在"
+            echo "❌ 错误: config/config.yaml 文件不存在!"
             echo "请参考项目文档创建配置文件"
             exit 1
           fi
