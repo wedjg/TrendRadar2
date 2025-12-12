@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T06:20:57.330495+08:00",
-  "total_titles_processed": 573,
+  "generated_at": "2025-12-13T07:20:33.696495+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "泽连斯基：特朗普让我们撤离乌东，他要建“自由经济区”",
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 07时20分]"
         },
         {
           "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 07时20分]"
         },
         {
           "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时24分 ~ 06时20分]"
+          "appearance_count": 4,
+          "time_info": "[04时24分 ~ 07时20分]"
         },
         {
           "title": "特朗普拉小群,想拿C5替代G7",
@@ -49,8 +49,41 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 06时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 07时20分]"
+        },
+        {
+          "title": "特朗普称泰柬同意全面停火",
+          "url": "https://news.ifeng.com/c/8p2IYwR0WoN",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "美国总统特朗普：在俄罗斯与乌克兰问题上取得了许多“进展”。",
+          "url": "https://wallstreetcn.com/livenews/3020161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "美国总统特朗普：泰国与柬埔寨处于不错的形势。",
+          "url": "https://wallstreetcn.com/livenews/3020160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         },
         {
           "title": "马来西亚总理Anwar：接到美国总统特朗普的电话。",
@@ -95,6 +128,31 @@
           "time_info": "[01时20分 ~ 04时24分]"
         },
         {
+          "title": "美国部分州宣布起诉特朗普H-1B签证申请费用问题",
+          "url": "https://flash.jin10.com/detail/20251213022744229800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时18分 ~ 07时20分]"
+        },
+        {
+          "title": "美国总统特朗普在办公室表示：倾向于让沃什或哈塞特担任美联储主席。 沃什现在处于美联储主席候选人清单的顶端。 下一任美联储主席应该就利率问题征求我的意见。 今后一年，利率应当在1%或更低。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3020133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时20分 ~ 07时20分]"
+        },
+        {
           "title": "美国白宫官员：美国总统特朗普与泰国和柬埔寨领导人进行了通话。",
           "url": "https://flash.jin10.com/detail/20251213011411174800",
           "source": "金十数据",
@@ -118,18 +176,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时20分 ~ 03时18分]"
-        },
-        {
-          "title": "美国总统特朗普在办公室表示：倾向于让沃什或哈塞特担任美联储主席。 沃什现在处于美联储主席候选人清单的顶端。 下一任美联储主席应该就利率问题征求我的意见。 今后一年，利率应当在1%或更低。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3020133",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时20分]"
         },
         {
           "title": "市场消息：美国一些州将就10万美元H-1B签证申请费起诉特朗普。",
@@ -172,18 +218,6 @@
           "time_info": "[02时33分 ~ 05时20分]"
         },
         {
-          "title": "美国部分州宣布起诉特朗普H-1B签证申请费用问题",
-          "url": "https://flash.jin10.com/detail/20251213022744229800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时18分 ~ 06时20分]"
-        },
-        {
           "title": "白宫“加密和AI沙皇”为特朗普AI法规站场，称其旨在减轻企业合规负担",
           "url": "https://flash.jin10.com/detail/20251213031516659800",
           "source": "金十数据",
@@ -191,8 +225,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时24分 ~ 06时20分]"
+          "appearance_count": 4,
+          "time_info": "[04时24分 ~ 07时20分]"
         },
         {
           "title": "据CNBC：美国总统特朗普预计将于周一签署重新分类大麻的行政令。",
@@ -297,7 +331,7 @@
     },
     {
       "keyword_group": "美股 微软 亚马逊 博通 台积电 AMD",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
@@ -319,8 +353,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 07时20分]"
         },
         {
           "title": "博通暴跌道指期货创新高 资金撤离AI涌向周期股 | 今夜看点",
@@ -331,8 +365,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 07时20分]"
         },
         {
           "title": "美股盘中跌幅扩大，纳指跌超1.5%，博通跌超10%，铜银续创新高，现货黄金重新站上4300美元",
@@ -350,22 +384,59 @@
           "url": "https://wallstreetcn.com/articles/3761241",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 06时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 07时20分]"
+        },
+        {
+          "title": "AI担忧加剧，博通引发科技股抛售潮，标普、道指跌离历史高位，美元跌破98，白银跌",
+          "url": "https://wallstreetcn.com/articles/3761271",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         },
         {
           "title": "（美股）费城金银指数收跌1.07%，报337.73点，本周累涨6.05%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.27%，报2404.74点，本周累涨5.24%。",
           "url": "https://wallstreetcn.com/livenews/3020154",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时20分]"
+        },
+        {
+          "title": "半导体ETF收跌超4.5%，领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3020145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时20分]"
+        },
+        {
+          "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
+          "url": "https://www.cls.cn/detail/2228565",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时20分]"
         },
         {
           "title": "纳斯达克100指数跌幅扩大至1%，半导体指数跌超2.5%。 成分股中，博通跌9.6%，美光科技跌4.5%，Applovin跌3%跌幅第三大，阿斯麦ADR跌1.5%，特斯拉则涨1.8%表现靠前，奈飞涨2.4%，Adobe涨3%，（宣布CEO离职的）露露柠檬涨10.3%领跑。",
@@ -401,28 +472,6 @@
           "time_info": "[00时26分 ~ 00时27分]"
         },
         {
-          "title": "半导体ETF收跌超4.5%，领跌美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3020145",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
-          "url": "https://www.cls.cn/detail/2228565",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
           "title": "金十图示：2025年12月12日（周五）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251213014501940800",
           "source": "金十数据",
@@ -448,7 +497,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -458,8 +507,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 06时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 07时20分]"
         },
         {
           "title": "甲骨文发言人声明：对OpenAI的（数据中心）“合同承诺”并没有推迟。 公司对承诺与项目扩建仍然有信心。",
@@ -469,11 +518,12 @@
             1,
             4,
             9,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时18分 ~ 06时20分]"
+          "appearance_count": 5,
+          "time_info": "[03时18分 ~ 07时20分]"
         },
         {
           "title": "甲骨文(ORCL.N)：在协议签署后，与OpenAI密切协调确定了选址及交付时间表，并达成一致意见。为履行合同义务所需的所有站点均未出现延误，所有里程碑均按计划推进。",
@@ -494,8 +544,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时24分 ~ 06时20分]"
+          "appearance_count": 4,
+          "time_info": "[04时24分 ~ 07时20分]"
         },
         {
           "title": "市场消息：甲骨文(ORCL.N)为 OpenAI建设的数据中心从2027年推迟到了2028年，此次延迟主要归因于劳动力和材料短缺。",
@@ -518,6 +568,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时18分 ~ 04时24分]"
+        },
+        {
+          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
+          "url": "https://www.cls.cn/detail/2228537",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         },
         {
           "title": "AI基础设施概念股普遍下跌，报道称甲骨文与OpenAI相关的某些数据中心完工时间被延后一年。 博通跌12%，甲骨文跌6.5%，英伟达跌2.4%。 费城半导体指数跌4.56%，Astera Labs跌13%，相干公司Coherent跌10%，Rambus跌8.5%，美光科技跌7%。",
@@ -567,8 +628,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 06时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 07时20分]"
         },
         {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
@@ -649,11 +710,12 @@
           "url": "https://wallstreetcn.com/livenews/3020139",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时20分]"
         },
         {
           "title": "英伟达(NVDA.O)跌幅扩大至3%。",
@@ -678,11 +740,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时20分]"
+          "appearance_count": 3,
+          "time_info": "[05时20分 ~ 07时20分]"
         },
         {
           "title": "纳斯达克金龙中国指数盘初涨约1%。 热门中概股逸仙电商涨22.6%，金山云涨4.2%，网易涨3%，中通快递、新东方、阿特斯太阳能、再鼎医药涨超2%，百度则跌0.8%，文远知行跌1%，小马智行跌1.1%，Boss直聘跌1.4%。 此外，九紫新能涨30%，该公司将非公开配售规模扩大至10亿美元，希望满足投资者强劲的需求。 ETF中，KWEB涨0.76%，CQQQ涨0.68%。",
