@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T09:46:51.210973+08:00",
-  "total_titles_processed": 609,
+  "generated_at": "2025-12-15T11:42:54.996425+08:00",
+  "total_titles_processed": 751,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
@@ -106,39 +106,81 @@
           "url": "https://wallstreetcn.com/articles/3761378",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 11时42分]"
+        },
+        {
+          "title": "乌克兰放弃加入北约 特朗普特使称和平谈判取得“重大进展”",
+          "url": "https://www.cls.cn/detail/2229153",
+          "source": "财联社热门",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时46分"
+          "time_info": "11时42分"
         }
       ]
     },
     {
       "keyword_group": "美股 微软 亚马逊 博通 台积电 AMD",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "华尔街的“2026美股主题”是轮动！“老登”胜过Mag 7，高盛高呼“周期股尚未被完全定价”",
           "url": "https://wallstreetcn.com/articles/3761364",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 11时42分]"
         },
         {
           "title": "特朗普各种打压之下，可再生能源板块“意外”成了美股大赢家",
           "url": "https://wallstreetcn.com/articles/3761371",
           "source": "华尔街见闻",
           "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 11时42分]"
+        },
+        {
+          "title": "12月15日投资避雷针：美股AI龙头遭市场抛售 博通跌超11%",
+          "url": "https://www.cls.cn/detail/2229152",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "传联发科拿下两代谷歌TPU定制大单",
+          "url": "https://flash.jin10.com/detail/20251215105959893800",
+          "source": "金十数据",
+          "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时46分"
+          "time_info": "11时42分"
         }
       ]
     }
