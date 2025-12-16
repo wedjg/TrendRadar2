@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T20:45:14.755040+08:00",
-  "total_titles_processed": 1885,
+  "generated_at": "2025-12-16T21:39:41.640897+08:00",
+  "total_titles_processed": 1992,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "日媒：特朗普曾警告高市早苗“别添乱”",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时43分 ~ 20时45分]"
+          "appearance_count": 14,
+          "time_info": "[09时43分 ~ 21时39分]"
         },
         {
           "title": "特朗普签署行政命令，将芬太尼列为大规模杀伤性武器",
@@ -68,8 +68,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时25分 ~ 20时45分]"
+          "appearance_count": 13,
+          "time_info": "[11时25分 ~ 21时39分]"
         },
         {
           "title": "曝特朗普曾警告高市早苗别来添乱",
@@ -141,6 +141,17 @@
           "time_info": "[11时25分 ~ 16时31分]"
         },
         {
+          "title": "特朗普向BBC索赔100亿美元，英国政府发声：那是BBC自己的事，应由其自行处理",
+          "url": "https://wallstreetcn.com/livenews/3021720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
           "title": "美国总统特朗普邀请斯洛伐克总理访美商谈核能合作事宜。",
           "url": "https://flash.jin10.com/detail/20251216000109802800",
           "source": "金十数据",
@@ -150,6 +161,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "英国政府官员支持BBC高层应对特朗普起诉",
+          "url": "https://wallstreetcn.com/livenews/3021718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "美国总统特朗普邀请斯洛伐克总理前往美国，讨论核合作协议。",
@@ -584,6 +606,17 @@
           "time_info": "16时31分"
         },
         {
+          "title": "美国财长贝森特：猜测美联储主席人选将于1月初公布。 本周可能还有一到两次美联储的面试。 特朗普在面试中对政策相关问题一直非常直率。 沃什和哈塞特都非常非常有资格。 贝森特否认了“哈塞特无法在美联储拥有影响力”的说法。 贝森特否认了“新任美联储主席不会保持独立性”的说法。",
+          "url": "https://wallstreetcn.com/livenews/3021694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
           "title": "斯洛伐克总理菲佐：将前往美国，并在2026年世界杯期间与美国总统特朗普会面，商讨核电站协议。",
           "url": "https://flash.jin10.com/detail/20251215234849282800",
           "source": "金十数据",
@@ -662,8 +695,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时25分 ~ 20时45分]"
+          "appearance_count": 13,
+          "time_info": "[11时25分 ~ 21时39分]"
         },
         {
           "title": "博通连续三个交易日下跌，跌幅达到18%，创2020年3月份以来最差同期表现。",
@@ -1018,8 +1051,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时32分 ~ 20时45分]"
+          "appearance_count": 27,
+          "time_info": "[00时32分 ~ 21时39分]"
         },
         {
           "title": "据台湾电子时报：三星电子正接近与英伟达(NVDA.O)敲定协议，将在2026年为其第六代HBM4芯片供应超过30%的份额，旨在弥补此前在HBM3E产品上的失利。",
