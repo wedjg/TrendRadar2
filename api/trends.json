@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T15:24:20.267682+08:00",
-  "total_titles_processed": 1381,
+  "generated_at": "2025-12-16T16:31:38.831728+08:00",
+  "total_titles_processed": 1496,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "日媒：特朗普曾警告高市早苗“别添乱”",
@@ -52,8 +52,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时43分 ~ 15时24分]"
+          "appearance_count": 8,
+          "time_info": "[09时43分 ~ 16时31分]"
         },
         {
           "title": "曝特朗普曾警告高市早苗别来添乱",
@@ -109,8 +109,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时25分 ~ 15时24分]"
+          "appearance_count": 7,
+          "time_info": "[11时25分 ~ 16时31分]"
         },
         {
           "title": "特朗普正式起诉BBC 共索赔100亿美元",
@@ -120,11 +120,12 @@
             22,
             25,
             20,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时25分 ~ 15时24分]"
+          "appearance_count": 7,
+          "time_info": "[11时25分 ~ 16时31分]"
         },
         {
           "title": "美国总统特朗普邀请斯洛伐克总理访美商谈核能合作事宜。",
@@ -548,6 +549,17 @@
           "time_info": "09时43分"
         },
         {
+          "title": "英国工党大臣金诺克：我认为BBC在特朗普诉讼案上坚持立场是正确的。",
+          "url": "https://flash.jin10.com/detail/20251216152842242800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
           "title": "斯洛伐克总理菲佐：将前往美国，并在2026年世界杯期间与美国总统特朗普会面，商讨核电站协议。",
           "url": "https://flash.jin10.com/detail/20251215234849282800",
           "source": "金十数据",
@@ -617,6 +629,19 @@
           "time_info": "[00时32分 ~ 09时43分]"
         },
         {
+          "title": "“AI基建”遭重创，博通，甲骨文三天跌超17%，CoreWeave3个月几近“腰斩”",
+          "url": "https://wallstreetcn.com/articles/3761448",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时25分 ~ 16时31分]"
+        },
+        {
           "title": "博通连续三个交易日下跌，跌幅达到18%，创2020年3月份以来最差同期表现。",
           "url": "https://wallstreetcn.com/livenews/3021172",
           "source": "华尔街见闻-快讯",
@@ -639,19 +664,6 @@
           "time_info": "[05时20分 ~ 05时21分]"
         },
         {
-          "title": "“AI基建”遭重创，博通，甲骨文三天跌超17%，CoreWeave3个月几近“腰斩”",
-          "url": "https://wallstreetcn.com/articles/3761448",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时25分 ~ 15时24分]"
-        },
-        {
           "title": "金十图示：2025年12月15日（周一）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251216050520167800",
           "source": "金十数据",
@@ -670,7 +682,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -795,8 +807,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时32分 ~ 15时24分]"
+          "appearance_count": 21,
+          "time_info": "[00时32分 ~ 16时31分]"
         },
         {
           "title": "据台湾电子时报：三星电子正接近与英伟达(NVDA.O)敲定协议，将在2026年为其第六代HBM4芯片供应超过30%的份额，旨在弥补此前在HBM3E产品上的失利。",
