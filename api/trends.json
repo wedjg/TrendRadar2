@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T03:21:00.215395+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2025-12-18T04:26:01.754462+08:00",
+  "total_titles_processed": 544,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 03时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 04时26分]"
         },
         {
           "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
@@ -30,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 03时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 04时26分]"
         },
         {
           "title": "打破沉默，冯德莱恩回应特朗普：不能让他人的世界观定义欧洲",
@@ -41,8 +41,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 03时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 04时26分]"
         },
         {
           "title": "网红券商Robinhood的CEO Tenev：目标是，继续成为一个金融“超级APP”。 已经与美国总统特朗普讨论过“Trump Accounts”的事宜，我们准备（出资）向这个东西提供帮助。",
@@ -103,6 +103,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 00时30分]"
+        },
+        {
+          "title": "特朗普考虑向国防企业施压，要求其削减回购",
+          "url": "https://wallstreetcn.com/livenews/3022585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 04时26分]"
+        },
+        {
+          "title": "特朗普政府计划拆解主要气候研究中心",
+          "url": "https://wallstreetcn.com/livenews/3022577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 04时26分]"
         },
         {
           "title": "美国财政部长贝森特连续两天谈论股市，称：特朗普账户（Trump Accounts）能够帮助确保所有人持股。 38％的美国人不持有股票，目标是将这一比例降至零。",
@@ -207,8 +229,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 04时26分]"
         },
         {
           "title": "亚马逊：Peter DeSantis将主导一个新的人工智能（AI）模型架构。 Pieter Abbeel将主导Frontier（前沿）模型研究团队。",
@@ -220,6 +242,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "美股延续跌势，标普500指数下跌1%，纳指跌1.4%，道指跌0.4%。",
+          "url": "https://flash.jin10.com/detail/20251218024123307800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时20分 ~ 04时26分]"
         },
         {
           "title": "亚马逊：Peter DeSantis将主导一个新的人工智能（AI）模型架构，DeSantis将率领AGI团队。 AGI团队将驱动公司在AI、量子计算方面的努力。 Pieter Abbeel将主导Frontier（前沿）模型研究团队。 Rohit Prasad将在年底离职。",
@@ -243,17 +277,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 00时30分]"
-        },
-        {
-          "title": "美股延续跌势，标普500指数下跌1%，纳指跌1.4%，道指跌0.4%。",
-          "url": "https://flash.jin10.com/detail/20251218024123307800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 03时21分]"
         },
         {
           "title": "博通(AVGO.O)跌至逾3个月低点，最新下跌5.3%。",
@@ -299,22 +322,24 @@
           "url": "https://wallstreetcn.com/livenews/3022570",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 03时21分]"
+          "appearance_count": 4,
+          "time_info": "[03时20分 ~ 04时26分]"
         },
         {
           "title": "英伟达就前工程师泄露自动驾驶商业机密案与法雷奥达成和解",
           "url": "https://flash.jin10.com/detail/20251218030517320800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 03时21分]"
+          "appearance_count": 4,
+          "time_info": "[03时20分 ~ 04时26分]"
         },
         {
           "title": "纳斯达克100指数跌1%，核电股CEG跌6.4%，博通跌4.9%，阿斯麦ADR跌3.5%，AMD跌3.3%，英伟达跌3%、 费城半导体指数跌超2.2%，标普500指数目前跌0.5%，道指转跌。",
