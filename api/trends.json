@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T09:39:28.697285+08:00",
-  "total_titles_processed": 845,
+  "generated_at": "2025-12-18T11:22:04.680533+08:00",
+  "total_titles_processed": 976,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 43,
       "titles": [
         {
           "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
@@ -20,8 +20,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 09时39分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 11时22分]"
         },
         {
           "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
@@ -96,6 +96,18 @@
           "time_info": "[06时21分 ~ 07时20分]"
         },
         {
+          "title": "刚宣布封锁委内瑞拉，特朗普又威胁对俄新制裁，布油重回60美元！",
+          "url": "https://wallstreetcn.com/articles/3761566",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时20分 ~ 11时22分]"
+        },
+        {
           "title": "KPI暴增10倍 特朗普政府拟加码撤销入籍公民身份",
           "url": "https://flash.jin10.com/detail/20251218055750070800",
           "source": "金十数据",
@@ -156,16 +168,16 @@
           "time_info": "[04时25分 ~ 05时21分]"
         },
         {
-          "title": "刚宣布封锁委内瑞拉，特朗普又威胁对俄新制裁，布油重回60美元！",
-          "url": "https://wallstreetcn.com/articles/3761566",
-          "source": "华尔街见闻",
+          "title": "特朗普对马杜罗下狠手",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%8B%E7%8B%A0%E6%89%8B",
+          "source": "百度热搜",
           "ranks": [
-            10,
-            6
+            23,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 09时39分]"
+          "appearance_count": 3,
+          "time_info": "[09时39分 ~ 11时22分]"
         },
         {
           "title": "桥水基金创始人达利欧：达利欧慈善基金会将支持为儿童设立的“特朗普账户”（Trump Accounts for Children）。",
@@ -179,6 +191,63 @@
           "time_info": "[00时29分 ~ 00时30分]"
         },
         {
+          "title": "委内瑞拉总统马杜罗周三表示，在美国总统特朗普下令封锁进出委内瑞拉的油轮之后，委内瑞拉将继续进行石油贸易。",
+          "url": "https://flash.jin10.com/detail/20251218104718187800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时21分 ~ 11时22分]"
+        },
+        {
+          "title": "特朗普：美联储新主席将会认同大幅降息",
+          "url": "https://flash.jin10.com/detail/20251218104117576800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时21分 ~ 11时22分]"
+        },
+        {
+          "title": "美国总统特朗普：将很快宣布下一任美联储主席。新任美联储主席将会主张大幅降低利率。明年将宣布住房改革大动作。",
+          "url": "https://wallstreetcn.com/livenews/3022761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时21分 ~ 11时22分]"
+        },
+        {
+          "title": "美国总统特朗普：药品价格下调将于1月开始。",
+          "url": "https://wallstreetcn.com/livenews/3022758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时21分 ~ 11时22分]"
+        },
+        {
+          "title": "分析师：规模相对较小，特朗普的“战士红利”不太可能具有宏观意义",
+          "url": "https://flash.jin10.com/detail/20251218103148746800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时21分 ~ 11时22分]"
+        },
+        {
           "title": "美国财政部长贝森特连续两天谈论股市，称：特朗普账户（Trump Accounts）能够帮助确保所有人持股。 38％的美国人不持有股票，目标是将这一比例降至零。",
           "url": "https://wallstreetcn.com/livenews/3022502",
           "source": "华尔街见闻-快讯",
@@ -188,6 +257,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 00时30分]"
+        },
+        {
+          "title": "特朗普宣布为100万美国军人提供1776美元/人“战士红利”",
+          "url": "https://flash.jin10.com/detail/20251218102827985800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时21分 ~ 11时22分]"
+        },
+        {
+          "title": "美国总统特朗普：工资增长速度远超通胀。 明年会看到减税的成效。",
+          "url": "https://wallstreetcn.com/livenews/3022755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时21分 ~ 11时22分]"
         },
         {
           "title": "联邦上诉法院暂允特朗普在华盛顿保留国民警卫队部署",
@@ -350,7 +442,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
         },
@@ -364,17 +456,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
-        },
-        {
-          "title": "特朗普对马杜罗下狠手",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%8B%E7%8B%A0%E6%89%8B",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时39分"
         },
         {
           "title": "据华尔街日报：上诉法院批准美国总统特朗普在华盛顿哥伦比亚特区部署国民警卫队。",
@@ -405,7 +486,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
         },
@@ -416,7 +497,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
         }
@@ -448,8 +529,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时21分 ~ 09时39分]"
+          "appearance_count": 5,
+          "time_info": "[06时21分 ~ 11时22分]"
         },
         {
           "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
@@ -460,8 +541,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 09时39分]"
+          "appearance_count": 4,
+          "time_info": "[07时20分 ~ 11时22分]"
         },
         {
           "title": "亚马逊：Peter DeSantis将主导一个新的人工智能（AI）模型架构。 Pieter Abbeel将主导Frontier（前沿）模型研究团队。",
@@ -575,7 +656,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
         },
@@ -619,7 +700,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
         },
@@ -630,7 +711,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
         },
@@ -652,7 +733,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
         },
@@ -666,6 +747,107 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "谷歌搜索产品副总裁Robby Stein介绍，在谷歌搜索中，新的Gemini Flash模型将帮助用户进行带有多个条件的更精细搜索。例如，用户可以使用它来查找适合带幼儿的父母参加的最佳晚间活动。",
+          "url": "https://wallstreetcn.com/livenews/3022530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时33分]"
+        },
+        {
+          "title": "谷歌DeepMind公司Gemini产品管理高级总监Tulsee Doshi：几周前我们发布了Gemini的Pro版本，其市场反馈令我们感到兴奋。 通过Gemini 3 Flash，我们将把这一模型带给每一个人。",
+          "url": "https://wallstreetcn.com/livenews/3022529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时33分]"
+        },
+        {
+          "title": "谷歌在旗下产品中发布更高效的新版Gemini 3 AI模型",
+          "url": "https://wallstreetcn.com/livenews/3022526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时24分]"
+        },
+        {
+          "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
+          "url": "https://www.cls.cn/detail/2232894",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时39分 ~ 11时22分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收跌超4.6%撤离历史最高位，英伟达跌3.8%，谷歌A跌3.2%",
+          "url": "https://wallstreetcn.com/livenews/3022611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时20分]"
+        },
+        {
+          "title": "谷歌据悉联手Meta 强化TPU对PyTorch的支持 以挑战英伟达",
+          "url": "https://www.cls.cn/detail/2232789",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时21分 ~ 11时22分]"
+        },
+        {
+          "title": "白银成全球第四大资产 市值超越谷歌",
+          "url": "https://flash.jin10.com/detail/20251218105307391800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时21分 ~ 11时22分]"
+        },
+        {
+          "title": "谷歌：推出 Gemini 3 Flash扩展Gemini 3模型系列。",
+          "url": "https://flash.jin10.com/detail/20251218000152068800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 00时30分]"
         }
       ]
     },
@@ -751,7 +933,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
         },
@@ -769,84 +951,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "谷歌搜索产品副总裁Robby Stein介绍，在谷歌搜索中，新的Gemini Flash模型将帮助用户进行带有多个条件的更精细搜索。例如，用户可以使用它来查找适合带幼儿的父母参加的最佳晚间活动。",
-          "url": "https://wallstreetcn.com/livenews/3022530",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 02时33分]"
-        },
-        {
-          "title": "谷歌DeepMind公司Gemini产品管理高级总监Tulsee Doshi：几周前我们发布了Gemini的Pro版本，其市场反馈令我们感到兴奋。 通过Gemini 3 Flash，我们将把这一模型带给每一个人。",
-          "url": "https://wallstreetcn.com/livenews/3022529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 02时33分]"
-        },
-        {
-          "title": "谷歌在旗下产品中发布更高效的新版Gemini 3 AI模型",
-          "url": "https://wallstreetcn.com/livenews/3022526",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时24分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收跌超4.6%撤离历史最高位，英伟达跌3.8%，谷歌A跌3.2%",
-          "url": "https://wallstreetcn.com/livenews/3022611",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 07时20分]"
-        },
-        {
-          "title": "谷歌：推出 Gemini 3 Flash扩展Gemini 3模型系列。",
-          "url": "https://flash.jin10.com/detail/20251218000152068800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
-        },
-        {
-          "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
-          "url": "https://www.cls.cn/detail/2232894",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时39分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 6,
       "titles": [
@@ -857,7 +961,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
         },
@@ -890,7 +994,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
         },
@@ -901,7 +1005,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
         },
@@ -912,7 +1016,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
         }
