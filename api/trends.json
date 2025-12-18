@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T21:37:23.601626+08:00",
-  "total_titles_processed": 1962,
+  "generated_at": "2025-12-18T22:24:06.798474+08:00",
+  "total_titles_processed": 2049,
   "failed_sources": [],
   "trends": [
     {
@@ -105,6 +105,17 @@
           "time_info": "[12时34分 ~ 13时23分]"
         },
         {
+          "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
+          "url": "https://news.ifeng.com/c/8pBrdVMrLgT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时43分 ~ 22时24分]"
+        },
+        {
           "title": "网红券商Robinhood的CEO Tenev：目标是，继续成为一个金融“超级APP”。 已经与美国总统特朗普讨论过“Trump Accounts”的事宜，我们准备（出资）向这个东西提供帮助。",
           "url": "https://wallstreetcn.com/livenews/3022547",
           "source": "华尔街见闻-快讯",
@@ -176,17 +187,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
-          "url": "https://news.ifeng.com/c/8pBrdVMrLgT",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时43分 ~ 21时37分]"
         },
         {
           "title": "美国财长贝森特：预计达利欧对特朗普账户的贡献可能高达1亿美元，但尚未看到最终数据。",
@@ -720,7 +720,7 @@
     },
     {
       "keyword_group": "美股 微软 亚马逊 博通 台积电 AMD",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -732,8 +732,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[06时21分 ~ 21时37分]"
+          "appearance_count": 20,
+          "time_info": "[06时21分 ~ 22时24分]"
         },
         {
           "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
@@ -758,6 +758,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时24分 ~ 05时21分]"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3023190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时24分]"
         },
         {
           "title": "亚马逊：Peter DeSantis将主导一个新的人工智能（AI）模型架构。 Pieter Abbeel将主导Frontier（前沿）模型研究团队。",
@@ -878,6 +889,28 @@
           "time_info": "[06时21分 ~ 07时20分]"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-18）",
+          "url": "https://flash.jin10.com/detail/20251218220135518800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时24分]"
+        },
+        {
+          "title": "亚马逊(AMZN.O)在网站上表示，将推出Alexa+问候服务。",
+          "url": "https://flash.jin10.com/detail/20251218220006446800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时24分]"
+        },
+        {
           "title": "美光科技(MU.O)美股盘后涨6%。",
           "url": "https://flash.jin10.com/detail/20251218050240044800",
           "source": "金十数据",
@@ -990,6 +1023,141 @@
       ]
     },
     {
+      "keyword_group": "英伟达 NVIDIA NVDA H200",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "明年将续写芯片股牛市？大摩“首选榜单”出炉：英伟达地位稳固！",
+          "url": "https://www.cls.cn/detail/2233456",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时43分 ~ 22时24分]"
+        },
+        {
+          "title": "标普500指数跌幅扩大至1%，科技板块跌1.87%，工业板块跌1.4%，电信板块跌1.2%，能源板块涨1.3%。 道指跌0.4%，纳指跌1.6%，半导体指数跌3.6%。 英伟达目前维持3.2%的跌幅，此前一度跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3022570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时20分 ~ 05时21分]"
+        },
+        {
+          "title": "英伟达就前工程师泄露自动驾驶商业机密案与法雷奥达成和解",
+          "url": "https://flash.jin10.com/detail/20251218030517320800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时20分 ~ 04时26分]"
+        },
+        {
+          "title": "文件显示：英伟达(NVDA.O)董事Harvey Jones在12月15日以177.3美元的平均价格，在公开市场出售了25万股公司普通股股票。",
+          "url": "https://flash.jin10.com/detail/20251218065520974800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "摩尔线程有没有机会追上英伟达？",
+          "url": "https://www.zhihu.com/question/633883979",
+          "source": "知乎",
+          "ranks": [
+            16,
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时44分 ~ 22时24分]"
+        },
+        {
+          "title": "纳斯达克100指数跌1%，核电股CEG跌6.4%，博通跌4.9%，阿斯麦ADR跌3.5%，AMD跌3.3%，英伟达跌3%、 费城半导体指数跌超2.2%，标普500指数目前跌0.5%，道指转跌。",
+          "url": "https://wallstreetcn.com/livenews/3022516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时24分]"
+        },
+        {
+          "title": "美股科技股盘前走高，英伟达美股盘前涨超2%，AMD涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3023184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时24分]"
+        },
+        {
+          "title": "芯片初创公司Mythic融资1.25亿美元，意欲挑战英伟达",
+          "url": "https://wallstreetcn.com/livenews/3022534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 02时33分]"
+        },
+        {
+          "title": "Atlas Cloud AI与纽约GreenCloud宣布启动一项价值60亿美元的可持续人工智能基础设施合作伙伴关系，该合作将基于英伟达Blackwell平台构建。",
+          "url": "https://flash.jin10.com/detail/20251218010152851800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋表态支持人工智能监管。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3022704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
+          "title": "美股收盘：三大股指齐跌 英伟达跌近4%",
+          "url": "https://flash.jin10.com/detail/20251218050114407800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 10,
       "titles": [
@@ -1007,6 +1175,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[09时39分 ~ 15时23分]"
+        },
+        {
+          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
+          "url": "https://wallstreetcn.com/articles/3761592",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时28分 ~ 22时24分]"
         },
         {
           "title": "谷歌搜索产品副总裁Robby Stein介绍，在谷歌搜索中，新的Gemini Flash模型将帮助用户进行带有多个条件的更精细搜索。例如，用户可以使用它来查找适合带幼儿的父母参加的最佳晚间活动。",
@@ -1045,17 +1224,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时29分 ~ 01时24分]"
-        },
-        {
-          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
-          "url": "https://wallstreetcn.com/articles/3761592",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时28分 ~ 20时44分]"
         },
         {
           "title": "谷歌据悉联手Meta 强化TPU对PyTorch的支持 以挑战英伟达",
@@ -1117,128 +1285,6 @@
       ]
     },
     {
-      "keyword_group": "英伟达 NVIDIA NVDA H200",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "标普500指数跌幅扩大至1%，科技板块跌1.87%，工业板块跌1.4%，电信板块跌1.2%，能源板块涨1.3%。 道指跌0.4%，纳指跌1.6%，半导体指数跌3.6%。 英伟达目前维持3.2%的跌幅，此前一度跌超4%。",
-          "url": "https://wallstreetcn.com/livenews/3022570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时20分 ~ 05时21分]"
-        },
-        {
-          "title": "英伟达就前工程师泄露自动驾驶商业机密案与法雷奥达成和解",
-          "url": "https://flash.jin10.com/detail/20251218030517320800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时20分 ~ 04时26分]"
-        },
-        {
-          "title": "文件显示：英伟达(NVDA.O)董事Harvey Jones在12月15日以177.3美元的平均价格，在公开市场出售了25万股公司普通股股票。",
-          "url": "https://flash.jin10.com/detail/20251218065520974800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "明年将续写芯片股牛市？大摩“首选榜单”出炉：英伟达地位稳固！",
-          "url": "https://www.cls.cn/detail/2233456",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时43分 ~ 21时37分]"
-        },
-        {
-          "title": "纳斯达克100指数跌1%，核电股CEG跌6.4%，博通跌4.9%，阿斯麦ADR跌3.5%，AMD跌3.3%，英伟达跌3%、 费城半导体指数跌超2.2%，标普500指数目前跌0.5%，道指转跌。",
-          "url": "https://wallstreetcn.com/livenews/3022516",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时24分]"
-        },
-        {
-          "title": "摩尔线程有没有机会追上英伟达？",
-          "url": "https://www.zhihu.com/question/633883979",
-          "source": "知乎",
-          "ranks": [
-            16,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时44分 ~ 21时37分]"
-        },
-        {
-          "title": "芯片初创公司Mythic融资1.25亿美元，意欲挑战英伟达",
-          "url": "https://wallstreetcn.com/livenews/3022534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 02时33分]"
-        },
-        {
-          "title": "Atlas Cloud AI与纽约GreenCloud宣布启动一项价值60亿美元的可持续人工智能基础设施合作伙伴关系，该合作将基于英伟达Blackwell平台构建。",
-          "url": "https://flash.jin10.com/detail/20251218010152851800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋表态支持人工智能监管。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3022704",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时39分"
-        },
-        {
-          "title": "美股收盘：三大股指齐跌 英伟达跌近4%",
-          "url": "https://flash.jin10.com/detail/20251218050114407800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 8,
       "titles": [
@@ -1252,8 +1298,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时34分 ~ 21时37分]"
+          "appearance_count": 12,
+          "time_info": "[14时34分 ~ 22时24分]"
         },
         {
           "title": "英伟达CEO黄仁勋：我们尚未向OpenAI支付一分钱。",
@@ -1338,18 +1384,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "欧洲央行利率决议后，欧洲斯托克600指数维持涨势，现涨0.29%。德国30年期国债收益率上行2个基点至3.50%，为2011年7月以来最高。欧元兑美元跌幅收窄，下跌0.1%至1.1726。",
           "url": "https://wallstreetcn.com/livenews/3023163",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时37分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时37分 ~ 22时24分]"
         },
         {
           "title": "周三（12月17日）纽约尾盘，ICE美元指数涨0.24%，报98.381点，日内交投区间为98.175-98.639点，亚太时段持续走高、北京时间16:05刷新日高，经过一段时间的高位震荡之后，20:00-00:00逐步回吐涨幅。 彭博美元指数涨0.20%，报1207.27点，日内交投区间为1204.77-1209.06点。",
@@ -1362,6 +1409,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 06时21分]"
+        },
+        {
+          "title": "美国CPI数据低于预期，美元指数短线走低",
+          "url": "https://wallstreetcn.com/livenews/3023173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时24分]"
         }
       ]
     },
