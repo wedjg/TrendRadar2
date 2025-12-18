@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T07:20:44.983997+08:00",
-  "total_titles_processed": 679,
+  "generated_at": "2025-12-18T09:39:28.697285+08:00",
+  "total_titles_processed": 845,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
@@ -16,11 +16,12 @@
             10,
             9,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 09时39分]"
         },
         {
           "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
@@ -155,6 +156,18 @@
           "time_info": "[04时25分 ~ 05时21分]"
         },
         {
+          "title": "刚宣布封锁委内瑞拉，特朗普又威胁对俄新制裁，布油重回60美元！",
+          "url": "https://wallstreetcn.com/articles/3761566",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 09时39分]"
+        },
+        {
           "title": "桥水基金创始人达利欧：达利欧慈善基金会将支持为儿童设立的“特朗普账户”（Trump Accounts for Children）。",
           "url": "https://flash.jin10.com/detail/20251218000548868800",
           "source": "金十数据",
@@ -205,7 +218,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -216,18 +229,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "刚宣布封锁委内瑞拉，特朗普又威胁对俄新制裁，布油重回60美元！",
-          "url": "https://wallstreetcn.com/articles/3761566",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -342,6 +344,17 @@
           "time_info": "05时21分"
         },
         {
+          "title": "委内瑞拉防长：特朗普封锁加勒比海域是“妄想”",
+          "url": "https://flash.jin10.com/detail/20251218081029789800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
           "title": "美国监管机构发言人：Caroline Pham会继续担任美国商品期货交易委员会（CFTC）代理主席，直至特朗普任命的Mike Selig获得确认。",
           "url": "https://flash.jin10.com/detail/20251218052236880800",
           "source": "金十数据",
@@ -351,6 +364,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "特朗普对马杜罗下狠手",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%8B%E7%8B%A0%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
         },
         {
           "title": "据华尔街日报：上诉法院批准美国总统特朗普在华盛顿哥伦比亚特区部署国民警卫队。",
@@ -373,12 +397,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "据Politico：英国广播公司（BBC）已收到特朗普发起的诽谤诉讼传票。",
+          "url": "https://flash.jin10.com/detail/20251218075203711800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
+          "title": "如何看待特朗普说委“窃取”美石油",
+          "url": "https://www.toutiao.com/trending/7584743817127923243/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
         }
       ]
     },
     {
       "keyword_group": "美股 微软 亚马逊 博通 台积电 AMD",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "市场静待更多数据，美股早盘震荡下挫，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
@@ -398,11 +444,24 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时21分 ~ 09时39分]"
+        },
+        {
+          "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
+          "url": "https://www.cls.cn/detail/2232828",
+          "source": "财联社热门",
+          "ranks": [
+            5,
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时21分 ~ 07时20分]"
+          "time_info": "[07时20分 ~ 09时39分]"
         },
         {
           "title": "亚马逊：Peter DeSantis将主导一个新的人工智能（AI）模型架构。 Pieter Abbeel将主导Frontier（前沿）模型研究团队。",
@@ -414,17 +473,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
-        },
-        {
-          "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
-          "url": "https://www.cls.cn/detail/2232828",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时20分"
         },
         {
           "title": "（美股）费城金银指数收涨0.86%，报338.32点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.29%，报2409.16点，亚太盘初以来维持上涨状态，大部分时间持稳于2390点附近。",
@@ -521,13 +569,24 @@
           "time_info": "05时21分"
         },
         {
+          "title": "甲骨文带崩美股大盘",
+          "url": "https://www.toutiao.com/trending/7584969089827737139/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
           "title": "美光科技美股盘后涨幅重新扩大至5.56%，业绩报告出炉后一度涨超6.77%。",
           "url": "https://wallstreetcn.com/livenews/3022628",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -538,7 +597,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -554,6 +613,28 @@
           "time_info": "02时33分"
         },
         {
+          "title": "亚马逊撤回成为费米公司首个租户的谈判。",
+          "url": "https://wallstreetcn.com/livenews/3022695",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
+          "title": "摩根士丹利将台积电目标价上调12% 营收和利润率料具上升潜力",
+          "url": "https://wallstreetcn.com/livenews/3022692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
           "title": "金十图示：2025年12月17日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251218013152524800",
           "source": "金十数据",
@@ -563,6 +644,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "市场消息：SOC投资集团正向亚马逊、沃尔玛及Alphabet询问，要求这些企业说明特朗普政府的移民政策如何影响其财务状况与供应链。",
+          "url": "https://flash.jin10.com/detail/20251218080802005800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
         },
         {
           "title": "金十图示：2025年12月17日（周三）热门中概股行情一览（美股盘中）",
@@ -579,7 +671,7 @@
     },
     {
       "keyword_group": "英伟达 NVIDIA NVDA H200",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "标普500指数跌幅扩大至1%，科技板块跌1.87%，工业板块跌1.4%，电信板块跌1.2%，能源板块涨1.3%。 道指跌0.4%，纳指跌1.6%，半导体指数跌3.6%。 英伟达目前维持3.2%的跌幅，此前一度跌超4%。",
@@ -613,7 +705,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -653,6 +745,17 @@
           "time_info": "01时24分"
         },
         {
+          "title": "英伟达CEO黄仁勋表态支持人工智能监管。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3022704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
           "title": "美股收盘：三大股指齐跌 英伟达跌近4%",
           "url": "https://flash.jin10.com/detail/20251218050114407800",
           "source": "金十数据",
@@ -667,7 +770,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "谷歌搜索产品副总裁Robby Stein介绍，在谷歌搜索中，新的Gemini Flash模型将帮助用户进行带有多个条件的更精细搜索。例如，用户可以使用它来查找适合带幼儿的父母参加的最佳晚间活动。",
@@ -729,13 +832,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 00时30分]"
+        },
+        {
+          "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
+          "url": "https://www.cls.cn/detail/2232894",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "英伟达CEO黄仁勋：我们尚未向OpenAI支付一分钱。",
+          "url": "https://flash.jin10.com/detail/20251218090552054800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
         {
           "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。 在ChatGPT内引入一个APP目录。 将在新年推出第一批经过批准的APPs。",
           "url": "https://wallstreetcn.com/livenews/3022640",
@@ -743,7 +868,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -754,9 +879,42 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋称公司尚未向 OpenAI 提供任何资金支持。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3022705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
+          "title": "据The Information：OpenAI已讨论以约7500亿美元的估值筹集数百亿美元。",
+          "url": "https://flash.jin10.com/detail/20251218081810553800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
+          "title": "OpenAI已商讨以约7500亿美元估值融资数百亿美元，最高1000亿美元",
+          "url": "https://wallstreetcn.com/livenews/3022685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
         }
       ]
     },
