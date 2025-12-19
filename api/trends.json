@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T17:26:02.963727+08:00",
-  "total_titles_processed": 1659,
+  "generated_at": "2025-12-19T18:24:40.600935+08:00",
+  "total_titles_processed": 1765,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 73,
+      "match_count": 74,
       "titles": [
         {
           "title": "特朗普签署行政命令，重申2028年登月目标",
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             5,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时42分 ~ 17时26分]"
+          "appearance_count": 12,
+          "time_info": "[09时42分 ~ 18时24分]"
         },
         {
           "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
@@ -46,6 +47,17 @@
           "time_info": "[09时42分 ~ 16时31分]"
         },
         {
+          "title": "特朗普，敢不敢动武？",
+          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时24分 ~ 18时24分]"
+        },
+        {
           "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
           "url": "https://news.ifeng.com/c/8pBrdVMrLgT",
           "source": "凤凰网",
@@ -55,17 +67,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时31分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普，敢不敢动武？",
-          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时24分 ~ 17时26分]"
         },
         {
           "title": "特朗普再次向乌克兰施压",
@@ -89,8 +90,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时42分 ~ 17时26分]"
+          "appearance_count": 12,
+          "time_info": "[09时42分 ~ 18时24分]"
         },
         {
           "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
@@ -105,11 +106,12 @@
             12,
             11,
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时24分 ~ 17时26分]"
+          "appearance_count": 21,
+          "time_info": "[01时24分 ~ 18时24分]"
         },
         {
           "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
@@ -123,8 +125,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时22分 ~ 17时26分]"
+          "appearance_count": 7,
+          "time_info": "[13时22分 ~ 18时24分]"
         },
         {
           "title": "美国肯尼迪中心更名为“特朗普-肯尼迪中心”",
@@ -132,11 +134,26 @@
           "source": "凤凰网",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时23分 ~ 17时26分]"
+          "appearance_count": 5,
+          "time_info": "[15时23分 ~ 18时24分]"
+        },
+        {
+          "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
+          "url": "https://www.cls.cn/detail/2234355",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时33分 ~ 18时24分]"
         },
         {
           "title": "巴西总统卢拉：我100%地信任巴西央行行长Galipolo。 我（才不会像美国总统特朗普对付美联储主席鲍威尔那样）向Galipolo施加压力，他才是做决定的那个人。",
@@ -194,20 +211,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时31分 ~ 17时26分]"
-        },
-        {
-          "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
-          "url": "https://www.cls.cn/detail/2234355",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时33分 ~ 17时26分]"
         },
         {
           "title": "尽管特朗普政府施压，供应萎缩仍推高牛肉价格创下纪录",
@@ -690,6 +693,17 @@
           "time_info": "09时42分"
         },
         {
+          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
+          "url": "https://www.zhihu.com/question/1985224796552844512",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "美国总统特朗普：（关于乌克兰会晤）他们正在接近达成某种协议，但我希望乌克兰能迅速采取行动。",
           "url": "https://flash.jin10.com/detail/20251219031631118800",
           "source": "金十数据",
@@ -894,8 +908,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时24分 ~ 17时26分]"
+          "appearance_count": 11,
+          "time_info": "[11时24分 ~ 18时24分]"
         },
         {
           "title": "CPI意外放缓，美股反弹，纳指一度涨超2%，加密货币重演冲高回落",
@@ -1562,11 +1576,12 @@
           "url": "https://news.ifeng.com/c/8pDJCQ1EauN",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 17时26分]"
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 18时24分]"
         }
       ]
     }
