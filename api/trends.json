@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T22:22:15.599406+08:00",
-  "total_titles_processed": 2182,
+  "generated_at": "2025-12-19T23:24:06.566481+08:00",
+  "total_titles_processed": 2292,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 90,
+      "match_count": 92,
       "titles": [
         {
           "title": "特朗普签署行政命令，重申2028年登月目标",
@@ -120,8 +120,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时42分 ~ 22时22分]"
+          "appearance_count": 19,
+          "time_info": "[09时42分 ~ 23时24分]"
         },
         {
           "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
@@ -142,6 +142,21 @@
           "is_new": false,
           "appearance_count": 22,
           "time_info": "[01时24分 ~ 19时19分]"
+        },
+        {
+          "title": "特朗普：不排除与委内瑞拉开战",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%80%E6%88%98",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            23,
+            20,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时19分 ~ 23时24分]"
         },
         {
           "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
@@ -178,6 +193,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
+        },
+        {
+          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
+          "url": "https://www.zhihu.com/question/1985224796552844512",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15,
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时24分 ~ 23时24分]"
+        },
+        {
+          "title": "特朗普签署行政命令，重申2028年登月目标",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32208986",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时42分 ~ 23时24分]"
         },
         {
           "title": "美国商务部长卢特尼克：特朗普有很多优秀的美联储主席候选人。",
@@ -237,32 +280,15 @@
           "time_info": "19时19分"
         },
         {
-          "title": "特朗普：不排除与委内瑞拉开战",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%80%E6%88%98",
-          "source": "百度热搜",
+          "title": "特朗普政府为何罕见提前宣布军购内容？台学者分析",
+          "url": "https://news.ifeng.com/c/8pDUNvScYT5",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            23,
-            20,
-            25
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时19分 ~ 22时22分]"
-        },
-        {
-          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
-          "url": "https://www.zhihu.com/question/1985224796552844512",
-          "source": "知乎",
-          "ranks": [
-            16,
-            15,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时24分 ~ 22时22分]"
+          "appearance_count": 4,
+          "time_info": "[22时21分 ~ 23时24分]"
         },
         {
           "title": "尽管特朗普政府施压，供应萎缩仍推高牛肉价格创下纪录",
@@ -312,18 +338,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时24分 ~ 12时35分]"
-        },
-        {
-          "title": "特朗普签署行政命令，重申2028年登月目标",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32208986",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时42分 ~ 22时22分]"
         },
         {
           "title": "美国商务部长卢特尼克：总统特朗普对美联储主席候选人有不错的人选。",
@@ -435,17 +449,6 @@
           "time_info": "[06时20分 ~ 07时20分]"
         },
         {
-          "title": "特朗普政府为何罕见提前宣布军购内容？台学者分析",
-          "url": "https://news.ifeng.com/c/8pDUNvScYT5",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时22分]"
-        },
-        {
           "title": "美国总统特朗普将把军队住房资金用做国防部奖金。（华盛顿邮报）",
           "url": "https://wallstreetcn.com/livenews/3023248",
           "source": "华尔街见闻-快讯",
@@ -514,6 +517,17 @@
           "time_info": "[17时25分 ~ 17时26分]"
         },
         {
+          "title": "特朗普：“奥巴马医改”太贵，会自动消亡",
+          "url": "https://flash.jin10.com/detail/20251219225548281800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时23分 ~ 23时24分]"
+        },
+        {
           "title": "玻利维亚宣布经济紧急状态，柴油价格飙升160%，特朗普政府在该国寻求投资",
           "url": "https://wallstreetcn.com/livenews/3023225",
           "source": "华尔街见闻-快讯",
@@ -568,6 +582,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[22时21分 ~ 22时22分]"
+        },
+        {
+          "title": "特朗普年终演讲为何不提中国",
+          "url": "https://www.toutiao.com/trending/7585539719539199497/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时23分 ~ 23时24分]"
         },
         {
           "title": "美国白宫：美国总统特朗普签署了关于联邦薪资标准的行政命令。",
@@ -1057,7 +1082,7 @@
     },
     {
       "keyword_group": "美股 微软 亚马逊 博通 台积电 AMD",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -1093,8 +1118,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时24分 ~ 22时22分]"
+          "appearance_count": 18,
+          "time_info": "[11时24分 ~ 23时24分]"
         },
         {
           "title": "CPI意外放缓，美股反弹，纳指一度涨超2%，加密货币重演冲高回落",
@@ -1108,6 +1133,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时33分 ~ 06时21分]"
+        },
+        {
+          "title": "美股温和上扬，“三重巫术日”将有创纪录的7.1万亿美元期权到期",
+          "url": "https://wallstreetcn.com/livenews/3024062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时23分 ~ 23时24分]"
         },
         {
           "title": "联邦快递第二财季营收235亿美元，分析师预期228亿美元。 第二财季Federal Express营收204.3亿美元，分析师预期197.2亿美元。 第二财季FedEx Freight营收21.4亿美元，分析师预期21.4亿美元。 第二财季调整后运营利润率6.9%，分析师预期6.07%。 预计全年资本开支45亿美元，符合分析师预期，公司原本预计45亿美元。 联邦快递（FDX）美股盘后涨3%。",
@@ -1271,6 +1307,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 06时21分]"
+        },
+        {
+          "title": "美股延续涨势，纳指上涨1%。",
+          "url": "https://flash.jin10.com/detail/20251219224535097800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时23分 ~ 23时24分]"
         },
         {
           "title": "周四（12月18日，美国CPI通胀数据发布日），降息赢家指数涨0.31%，报99.84点，跳空高开之后，美股盘初刷新日高至101.57点，之后逐步回吐涨幅。 “特朗普关税输家”指数涨0.87%，散户抱团概念股指数/迷因股（meme stock）指数涨2.0%。",
@@ -1531,7 +1578,7 @@
     },
     {
       "keyword_group": "英伟达 NVIDIA NVDA H200",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "英伟达(NVDA.O)：英伟达RTX PRO 5000 72GB BLACKWELL GPU现已全面上市。",
@@ -1602,6 +1649,39 @@
           "time_info": "[17时25分 ~ 17时26分]"
         },
         {
+          "title": "纳斯达克100指数涨幅扩大至1.2%，成分股美光科技涨7.9%，拼多多涨6%，AMD涨4.8%，Strategy涨3.8%，英伟达涨3.3%表现靠前，星巴克跌0.5%，Adobe跌0.7%，露露柠檬跌1%，Paychex跌3.5%。 标普500指数涨0.7%，道指涨264点涨幅0.55%，纳指涨230点涨幅超过1%。",
+          "url": "https://wallstreetcn.com/livenews/3024038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时23分 ~ 23时24分]"
+        },
+        {
+          "title": "Bernstein： 英伟达估值较费城半导体指数出现历史性折让",
+          "url": "https://wallstreetcn.com/livenews/3024033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时23分 ~ 23时24分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)涨幅扩大至3.0%。",
+          "url": "https://flash.jin10.com/detail/20251219224408763800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时23分 ~ 23时24分]"
+        },
+        {
           "title": "美国贸易代表格里尔：英伟达(NVDA.O) H200出口是“单独”的事项。",
           "url": "https://flash.jin10.com/detail/20251219211951905800",
           "source": "金十数据",
@@ -1627,7 +1707,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "墨西哥反垄断委员会：谷歌将根据裁决取消其对移动设备制造商施加的某些合同限制。",
@@ -1677,6 +1757,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时20分 ~ 07时20分]"
+        },
+        {
+          "title": "派拓网络（Palo Alto Networks）宣布，与谷歌云达成（至少）数十亿美元规模的协议。",
+          "url": "https://wallstreetcn.com/livenews/3024048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时23分 ~ 23时24分]"
         },
         {
           "title": "谷歌：扩展内容透明度工具，帮助更轻松地识别人工智能生成内容。图像和视频验证现已在Gemini应用支持的所有语言和国家/地区可用。",
@@ -1810,8 +1901,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时25分 ~ 22时22分]"
+          "appearance_count": 10,
+          "time_info": "[17时25分 ~ 23时24分]"
         }
       ]
     }
