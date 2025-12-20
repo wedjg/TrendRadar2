@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T16:27:06.420009+08:00",
-  "total_titles_processed": 1177,
+  "generated_at": "2025-12-20T17:20:48.864930+08:00",
+  "total_titles_processed": 1237,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时28分 ~ 07时20分]"
+        },
+        {
+          "title": "沃勒在美联储主席面试中表现“出色”，特朗普或将关注重点转向就业市场",
+          "url": "https://wallstreetcn.com/articles/3761733",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时28分 ~ 17时20分]"
         },
         {
           "title": "金十提示：美国总统特朗普讲话结束。",
@@ -71,18 +83,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时23分 ~ 09时29分]"
-        },
-        {
-          "title": "沃勒在美联储主席面试中表现“出色”，特朗普或将关注重点转向就业市场",
-          "url": "https://wallstreetcn.com/articles/3761733",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时28分 ~ 16时27分]"
         },
         {
           "title": "美国总统特朗普：保险公司会议旨在降低价格。",
@@ -493,8 +493,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时28分 ~ 16时27分]"
+          "appearance_count": 10,
+          "time_info": "[09时28分 ~ 17时20分]"
         },
         {
           "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
@@ -547,8 +547,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时27分 ~ 16时27分]"
+          "appearance_count": 7,
+          "time_info": "[12时27分 ~ 17时20分]"
         },
         {
           "title": "（美股）费城金银指数收涨2.79%，报347.80点，本周累计上涨2.98%，周五美股盘初短线拉升的涨幅突出。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.07%，报2460.91点，本周累涨2.34%。",
@@ -661,8 +661,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时28分 ~ 16时27分]"
+          "appearance_count": 10,
+          "time_info": "[09时28分 ~ 17时20分]"
         },
         {
           "title": "美国FTC批准英伟达投资英特尔",
@@ -784,8 +784,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时21分 ~ 16时27分]"
+          "appearance_count": 12,
+          "time_info": "[06时21分 ~ 17时20分]"
         },
         {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
