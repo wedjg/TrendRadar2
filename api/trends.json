@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-21T14:31:33.941763+08:00",
-  "total_titles_processed": 881,
+  "generated_at": "2025-12-21T15:20:23.551778+08:00",
+  "total_titles_processed": 932,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "以色列官员计划向特朗普通报可能对伊朗发动新一轮打击的计划",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时24分 ~ 09时48分]"
+        },
+        {
+          "title": "美司法部副部长否认删掉爱泼斯坦案中提及特朗普的内容",
+          "url": "https://news.ifeng.com/c/8pFTv3cncwR",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时48分 ~ 15时20分]"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -33,18 +45,6 @@
           "time_info": "[00时24分 ~ 11时39分]"
         },
         {
-          "title": "美司法部副部长否认删掉爱泼斯坦案中提及特朗普的内容",
-          "url": "https://news.ifeng.com/c/8pFTv3cncwR",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时48分 ~ 14时31分]"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
           "url": "https://flash.jin10.com/detail/20251220184219205800",
           "source": "金十数据",
@@ -54,6 +54,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时24分 ~ 07时19分]"
+        },
+        {
+          "title": "美联储主席之争白热化，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
+          "url": "https://wallstreetcn.com/livenews/3024367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9,
+            18,
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时39分 ~ 15时20分]"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -80,29 +95,16 @@
           "time_info": "[00时24分 ~ 05时18分]"
         },
         {
-          "title": "美联储主席之争白热化，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
-          "url": "https://wallstreetcn.com/livenews/3024367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9,
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时39分 ~ 14时31分]"
-        },
-        {
           "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
           "url": "https://flash.jin10.com/detail/20251221140435040800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 15时20分]"
         },
         {
           "title": "特朗普入股核聚变公司",
@@ -140,19 +142,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 14时31分]"
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 15时20分]"
         },
         {
           "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
           "url": "https://wallstreetcn.com/livenews/3024384",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 15时20分]"
         },
         {
           "title": "美反对乌入约 泽连斯基疑诅咒特朗普",
@@ -164,6 +167,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "特朗普称身处政坛看美女是死路一条",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%BA%AB%E5%A4%84%E6%94%BF%E5%9D%9B%E7%9C%8B%E7%BE%8E%E5%A5%B3%E6%98%AF%E6%AD%BB%E8%B7%AF%E4%B8%80%E6%9D%A1",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         }
       ]
     },
@@ -183,8 +197,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时24分 ~ 14时31分]"
+          "appearance_count": 16,
+          "time_info": "[00时24分 ~ 15时20分]"
         },
         {
           "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
@@ -248,11 +262,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 14时31分]"
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 15时20分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -273,9 +288,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 15时20分]"
         }
       ]
     },
@@ -294,8 +309,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时39分 ~ 14时31分]"
+          "appearance_count": 6,
+          "time_info": "[11时39分 ~ 15时20分]"
         },
         {
           "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
@@ -315,9 +330,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 15时20分]"
         }
       ]
     },
@@ -336,8 +351,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时24分 ~ 14时31分]"
+          "appearance_count": 16,
+          "time_info": "[00时24分 ~ 15时20分]"
         }
       ]
     }
