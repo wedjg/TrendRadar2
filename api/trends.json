@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T04:24:01.454713+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2025-12-23T05:19:50.422207+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 04时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 05时19分]"
         },
         {
           "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
@@ -28,19 +28,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 04时24分]"
-        },
-        {
-          "title": "内塔尼亚胡：将与特朗普讨论伊朗问题及加沙计划下阶段行动",
-          "url": "https://flash.jin10.com/detail/20251223034156652800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 04时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 05时19分]"
         },
         {
           "title": "美国联邦贸易委员会（FTC）：为响应美国总统特朗普的人工智能行动计划，已重新启动并搁置对Rytr的最终命令。",
@@ -61,11 +50,35 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            9
+            9,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时18分 ~ 04时24分]"
+          "appearance_count": 5,
+          "time_info": "[03时18分 ~ 05时19分]"
+        },
+        {
+          "title": "据华尔街日报：美国新级别军舰将以美国总统特朗普命名。",
+          "url": "https://flash.jin10.com/detail/20251223044243476800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "内塔尼亚胡：将与特朗普讨论伊朗问题及加沙计划下阶段行动",
+          "url": "https://flash.jin10.com/detail/20251223034156652800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时23分 ~ 05时19分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：与特朗普的会谈将聚焦加沙和黎巴嫩问题。",
@@ -167,6 +180,17 @@
           "time_info": "[02时32分 ~ 03时19分]"
         },
         {
+          "title": "美国原油期货收涨超2.6%，特朗普试图在封锁委内瑞拉期间截获第三艘油轮",
+          "url": "https://wallstreetcn.com/livenews/3025107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
           "title": "白宫官员：特朗普周一下午4:30（北京时间周二凌晨5:30）的讲话是关于造船业的。",
           "url": "https://flash.jin10.com/detail/20251222232441474800",
           "source": "金十数据",
@@ -202,6 +226,93 @@
       ]
     },
     {
+      "keyword_group": "英伟达 NVIDIA NVDA H200",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
+          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 05时19分]"
+        },
+        {
+          "title": "贵金属携手迭创新高 英伟达率科技股延续反弹势头 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2236882",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 05时19分]"
+        },
+        {
+          "title": "据The Information：英伟达(NVDA.O)将把云业务团队与工程及运营部门合并。",
+          "url": "https://flash.jin10.com/detail/20251223044411880800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "据The Information：英伟达(NVDA.O)重组云团队。",
+          "url": "https://flash.jin10.com/detail/20251223044342995800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "标普500指数初步收涨0.6%，原材料、金融、能源、工业板块至多涨1.3%，科技板块涨0.3%。 纳斯达克100指数初步收涨0.5%，成分股中，新思科技SNPS、美光科技、WBD涨超3%， 霍尼韦尔跌1.6%，华纳兄弟探索WBD跌2.3%，星巴克跌2.4%，希捷科技跌4.6%。 Merck初步收涨3.6%，摩根大通、Salesforce、英伟达至少涨1.4%，领跑道指成分股，沃尔玛、霍尼韦尔、耐克至多跌2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3025123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "量子计算概念股普遍走高，D-Wave涨超20%，该公司称将参加CES 2026（2026年消费电子展，1月6-9日举行），高管Murry Thom将在1月7日演示（相关信息）。 Ionq涨12.9%，ARQQ涨6.6%，昆腾QMCO涨3.7%，甲骨文涨2.6%，量子ETF涨1.5%，英伟达涨1%。",
+          "url": "https://wallstreetcn.com/livenews/3025081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时32分 ~ 04时24分]"
+        },
+        {
+          "title": "英伟达重组云团队。云团队与工程和运营部门合并。在重组过程中，重新委派英伟达云部门主管。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3025119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股 微软 亚马逊 博通 台积电 AMD",
       "match_count": 6,
       "titles": [
@@ -213,8 +324,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 04时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 05时19分]"
         },
         {
           "title": "金十图示：2025年12月22日（周一）美股热门股票行情一览（美股盘中）",
@@ -277,69 +388,8 @@
       ]
     },
     {
-      "keyword_group": "英伟达 NVIDIA NVDA H200",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
-          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 04时24分]"
-        },
-        {
-          "title": "贵金属携手迭创新高 英伟达率科技股延续反弹势头 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2236882",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 04时24分]"
-        },
-        {
-          "title": "量子计算概念股普遍走高，D-Wave涨超20%，该公司称将参加CES 2026（2026年消费电子展，1月6-9日举行），高管Murry Thom将在1月7日演示（相关信息）。 Ionq涨12.9%，ARQQ涨6.6%，昆腾QMCO涨3.7%，甲骨文涨2.6%，量子ETF涨1.5%，英伟达涨1%。",
-          "url": "https://wallstreetcn.com/livenews/3025081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时32分 ~ 04时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "旧金山大停电，谷歌无人车Waymo乱作一团，特斯拉赢麻了",
-          "url": "https://wallstreetcn.com/articles/3761857",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 04时24分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数涨3.67%，暂报3623.80点，整体持续走高。 Solana目前涨1.39%，狗狗币涨3.09%，XRP涨1.15%。 MarketVector数字资产100涨1.56%，报18392.00点。 比特币涨1.55%，暂报89627.99美元；以太坊涨1.80%，报3043.51美元。",
@@ -354,6 +404,74 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时19分 ~ 04时24分]"
+        },
+        {
+          "title": "美元指数22日下跌",
+          "url": "https://flash.jin10.com/detail/20251223043216282800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "美元指数跌0.3%",
+          "url": "https://wallstreetcn.com/livenews/3025112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "旧金山大停电，谷歌无人车Waymo乱作一团，特斯拉赢麻了",
+          "url": "https://wallstreetcn.com/articles/3761857",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 05时19分]"
+        },
+        {
+          "title": "第一太阳能涨7.1%，创2024年6月份以来盘中新高，投资者关注谷歌母公司Alphabet达成的清洁能源交易。",
+          "url": "https://wallstreetcn.com/livenews/3025122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "deepseek崩了",
+          "url": "https://s.weibo.com/weibo?q=deepseek%E5%B4%A9%E4%BA%86&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
         }
       ]
     }
