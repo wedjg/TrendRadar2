@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T07:20:04.531378+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2025-12-22T09:47:52.882698+08:00",
+  "total_titles_processed": 622,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://wallstreetcn.com/articles/3761784",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时47分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：目前核心通胀率的三个月平均值为1.6%；特朗普在美联储主席候选人中寻求数据依赖型人选。",
@@ -51,11 +52,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时47分]"
         },
         {
           "title": "唐宁街：英国首相斯塔默周日与美国总统特朗普对话，谈及乌克兰和加沙。",
@@ -105,11 +107,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时29分 ~ 07时20分]"
+          "appearance_count": 9,
+          "time_info": "[02时29分 ~ 09时47分]"
         },
         {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
@@ -117,11 +120,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时16分 ~ 07时20分]"
+          "appearance_count": 8,
+          "time_info": "[03时16分 ~ 09时47分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-21）",
@@ -177,8 +181,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 07时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 09时47分]"
         },
         {
           "title": "报道：OpenAI业务利润率至10月已提升至70%",
