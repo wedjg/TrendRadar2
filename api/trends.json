@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T15:25:09.828830+08:00",
-  "total_titles_processed": 1324,
+  "generated_at": "2025-12-23T16:31:31.616612+08:00",
+  "total_titles_processed": 1430,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,30 @@
           "time_info": "[00时27分 ~ 07时21分]"
         },
         {
+          "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
+          "url": "https://wallstreetcn.com/articles/3761868",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时43分 ~ 16时31分]"
+        },
+        {
+          "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
+          "url": "https://news.ifeng.com/c/8pJISSb6yhX",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时43分 ~ 16时31分]"
+        },
+        {
           "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
           "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
           "source": "澎湃新闻",
@@ -32,30 +56,6 @@
           "time_info": "[00时27分 ~ 07时21分]"
         },
         {
-          "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
-          "url": "https://wallstreetcn.com/articles/3761868",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时43分 ~ 15时25分]"
-        },
-        {
-          "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
-          "url": "https://news.ifeng.com/c/8pJISSb6yhX",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时43分 ~ 15时25分]"
-        },
-        {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
           "url": "https://www.toutiao.com/trending/7586636403350556196/",
           "source": "今日头条",
@@ -65,11 +65,12 @@
             10,
             16,
             7,
-            15
+            15,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时43分 ~ 15时25分]"
+          "appearance_count": 8,
+          "time_info": "[09时43分 ~ 16时31分]"
         },
         {
           "title": "特朗普叫停美国最大海上风电项目",
@@ -79,8 +80,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时43分 ~ 15时25分]"
+          "appearance_count": 8,
+          "time_info": "[09时43分 ~ 16时31分]"
         },
         {
           "title": "特朗普将建特朗普级新型战舰",
@@ -91,8 +92,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时27分 ~ 15时25分]"
+          "appearance_count": 6,
+          "time_info": "[11时27分 ~ 16时31分]"
         },
         {
           "title": "美国总统特朗普：我们将讨论生产计划，这些生产计划太慢了。",
@@ -227,6 +228,21 @@
           "time_info": "[11时27分 ~ 15时25分]"
         },
         {
+          "title": "特朗普提出中美G2概念 日本不安",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%87%BA%E4%B8%AD%E7%BE%8EG2%E6%A6%82%E5%BF%B5+%E6%97%A5%E6%9C%AC%E4%B8%8D%E5%AE%89",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            24,
+            19,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时38分 ~ 16时31分]"
+        },
+        {
           "title": "印尼首席关税谈判代表：已与美国贸易代表会晤，会谈进展顺利。双方已在所有实质性问题上达成一致。美方正在安排特朗普与普拉博沃的会晤时间。",
           "url": "https://wallstreetcn.com/livenews/3025254",
           "source": "华尔街见闻-快讯",
@@ -285,18 +301,17 @@
           "time_info": "[02时32分 ~ 04时24分]"
         },
         {
-          "title": "特朗普提出中美G2概念 日本不安",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%87%BA%E4%B8%AD%E7%BE%8EG2%E6%A6%82%E5%BF%B5+%E6%97%A5%E6%9C%AC%E4%B8%8D%E5%AE%89",
+          "title": "特朗普：美国“必须得到格陵兰岛”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E2%80%9C%E5%BF%85%E9%A1%BB%E5%BE%97%E5%88%B0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
             27,
             24,
-            19,
-            22
+            18
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时38分 ~ 15时25分]"
+          "time_info": "[13时25分 ~ 16时31分]"
         },
         {
           "title": "特朗普可能会在1月第一周任命新的美联储主席。 （CNBC）",
@@ -371,18 +386,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时19分 ~ 02时32分]"
-        },
-        {
-          "title": "特朗普：美国“必须得到格陵兰岛”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E2%80%9C%E5%BF%85%E9%A1%BB%E5%BE%97%E5%88%B0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时25分 ~ 15时25分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：将与美国总统特朗普讨论伊朗的核活动。",
@@ -1041,8 +1044,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时27分 ~ 15时25分]"
+          "appearance_count": 7,
+          "time_info": "[11时27分 ~ 16时31分]"
         },
         {
           "title": "贵金属携手迭创新高 英伟达率科技股延续反弹势头 | 今夜看点",
@@ -1144,6 +1147,71 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "最近24小时，MarketVector数字资产100小盘指数涨3.67%，暂报3623.80点，整体持续走高。 Solana目前涨1.39%，狗狗币涨3.09%，XRP涨1.15%。 MarketVector数字资产100涨1.56%，报18392.00点。 比特币涨1.55%，暂报89627.99美元；以太坊涨1.80%，报3043.51美元。",
+          "url": "https://wallstreetcn.com/livenews/3025071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 04时24分]"
+        },
+        {
+          "title": "美元指数跌破98，创5日新低，日内跌0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3025481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "美元指数跌0.3%",
+          "url": "https://wallstreetcn.com/livenews/3025112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时19分 ~ 06时22分]"
+        },
+        {
+          "title": "美元指数22日下跌",
+          "url": "https://flash.jin10.com/detail/20251223043216282800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "美元指数DXY跌破98，创5日新低。",
+          "url": "https://flash.jin10.com/detail/20251223161014189800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 4,
       "titles": [
@@ -1159,8 +1227,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时19分 ~ 15时25分]"
+          "appearance_count": 19,
+          "time_info": "[01时19分 ~ 16时31分]"
         },
         {
           "title": "第一太阳能涨7.1%，创2024年6月份以来盘中新高，投资者关注谷歌母公司Alphabet达成的清洁能源交易。",
@@ -1196,49 +1264,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVector数字资产100小盘指数涨3.67%，暂报3623.80点，整体持续走高。 Solana目前涨1.39%，狗狗币涨3.09%，XRP涨1.15%。 MarketVector数字资产100涨1.56%，报18392.00点。 比特币涨1.55%，暂报89627.99美元；以太坊涨1.80%，报3043.51美元。",
-          "url": "https://wallstreetcn.com/livenews/3025071",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            15,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 04时24分]"
-        },
-        {
-          "title": "美元指数跌0.3%",
-          "url": "https://wallstreetcn.com/livenews/3025112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时19分 ~ 06时22分]"
-        },
-        {
-          "title": "美元指数22日下跌",
-          "url": "https://flash.jin10.com/detail/20251223043216282800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时19分"
         }
       ]
     },
