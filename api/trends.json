@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T07:21:01.406099+08:00",
-  "total_titles_processed": 643,
+  "generated_at": "2025-12-23T09:43:41.040326+08:00",
+  "total_titles_processed": 816,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 59,
       "titles": [
         {
           "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
@@ -135,6 +135,28 @@
           "time_info": "[06时21分 ~ 06时22分]"
         },
         {
+          "title": "印尼首席关税谈判代表：已与美国贸易代表会晤，会谈进展顺利。双方已在所有实质性问题上达成一致。美方正在安排特朗普与普拉博沃的会晤时间。",
+          "url": "https://wallstreetcn.com/livenews/3025254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
+          "url": "https://www.toutiao.com/trending/7586636403350556196/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
           "title": "据华尔街日报：美国新级别军舰将以美国总统特朗普命名。",
           "url": "https://flash.jin10.com/detail/20251223044243476800",
           "source": "金十数据",
@@ -156,6 +178,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时23分 ~ 05时19分]"
+        },
+        {
+          "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
+          "url": "https://news.ifeng.com/c/8pJISSb6yhX",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "美国法官表示，美国总统特朗普政府必须安排被驱逐并关押在萨尔瓦多的委内瑞拉人回国。",
+          "url": "https://flash.jin10.com/detail/20251223091735132800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
         },
         {
           "title": "以色列总理内塔尼亚胡：与特朗普的会谈将聚焦加沙和黎巴嫩问题。",
@@ -555,6 +599,39 @@
           "time_info": "[07时20分 ~ 07时21分]"
         },
         {
+          "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
+          "url": "https://wallstreetcn.com/articles/3761868",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "特朗普叫停美国最大海上风电项目",
+          "url": "https://news.ifeng.com/c/8pJPGPs1kBK",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "特朗普：美国还将增加航空母舰数量",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E8%BF%98%E5%B0%86%E5%A2%9E%E5%8A%A0%E8%88%AA%E7%A9%BA%E6%AF%8D%E8%88%B0%E6%95%B0%E9%87%8F",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
           "title": "白宫官员：特朗普周一下午4:30（北京时间周二凌晨5:30）的讲话是关于造船业的。",
           "url": "https://flash.jin10.com/detail/20251222232441474800",
           "source": "金十数据",
@@ -586,12 +663,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "马杜罗：特朗普最好把精力放在美国而不是委内瑞拉",
+          "url": "https://wallstreetcn.com/livenews/3025215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
         }
       ]
     },
     {
       "keyword_group": "美股 微软 亚马逊 博通 台积电 AMD",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "科技股反弹引领市场！美股高开，“Mag7”普涨，特斯拉创盘中历史高位，油价反弹超2%",
@@ -626,6 +714,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时21分 ~ 07时21分]"
+        },
+        {
+          "title": "美股收盘：三大指数连涨三日 AI概念走强美光升超4%",
+          "url": "https://www.cls.cn/detail/2237037",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时20分 ~ 09时43分]"
         },
         {
           "title": "金十图示：2025年12月22日（周一）美股热门股票行情一览（美股盘中）",
@@ -668,17 +768,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
-        },
-        {
-          "title": "美股收盘：三大指数连涨三日 AI概念走强美光升超4%",
-          "url": "https://www.cls.cn/detail/2237037",
-          "source": "财联社热门",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -763,6 +852,17 @@
           "time_info": "[06时21分 ~ 06时22分]"
         },
         {
+          "title": "七年来首次！三星、海力士毛利率或超过台积电 存储迎来“高光时刻”",
+          "url": "https://www.cls.cn/detail/2236877",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
           "title": "华纳兄弟探索公司（WBD）美股盘初涨3.9%，Paramount SkyDance（派拉蒙天舞）涨3.3%。",
           "url": "https://wallstreetcn.com/livenews/3025024",
           "source": "华尔街见闻-快讯",
@@ -808,11 +908,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 07时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 09时43分]"
         },
         {
           "title": "标普500指数初步收涨0.6%，原材料、金融、能源、工业板块至多涨1.3%，科技板块涨0.3%。 纳斯达克100指数初步收涨0.5%，成分股中，新思科技SNPS、美光科技、WBD涨超3%， 霍尼韦尔跌1.6%，华纳兄弟探索WBD跌2.3%，星巴克跌2.4%，希捷科技跌4.6%。 Merck初步收涨3.6%，摩根大通、Salesforce、英伟达至少涨1.4%，领跑道指成分股，沃尔玛、霍尼韦尔、耐克至多跌2.5%。",
@@ -930,11 +1031,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时19分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[01时19分 ~ 09时43分]"
         },
         {
           "title": "第一太阳能涨7.1%，创2024年6月份以来盘中新高，投资者关注谷歌母公司Alphabet达成的清洁能源交易。",
