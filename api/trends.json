@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T09:42:24.028398+08:00",
-  "total_titles_processed": 782,
+  "generated_at": "2025-12-24T11:25:05.953585+08:00",
+  "total_titles_processed": 917,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 09时42分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 11时25分]"
         },
         {
           "title": "特朗普又自恋,新战舰用自己名",
@@ -37,23 +37,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 09时42分]"
-        },
-        {
-          "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
-          "url": "https://www.toutiao.com/trending/7586636403350556196/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 07时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 11时25分]"
         },
         {
           "title": "特朗普将建特朗普级新型战舰",
@@ -67,11 +56,24 @@
             20,
             19,
             22,
-            23
+            23,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 09时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 11时25分]"
+        },
+        {
+          "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
+          "url": "https://www.toutiao.com/trending/7586636403350556196/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 07时20分]"
         },
         {
           "title": "布林肯为何对特朗普发出严厉警告",
@@ -106,15 +108,15 @@
           "time_info": "[00时28分 ~ 05时20分]"
         },
         {
-          "title": "特朗普回应克林顿大尺度照被公布",
-          "url": "https://www.toutiao.com/trending/7586912730720947748/",
-          "source": "今日头条",
+          "title": "美最高法院暂时阻止特朗普政府在芝加哥部署军队",
+          "url": "https://wallstreetcn.com/livenews/3025951",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 11时25分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：总统特朗普有大量关于住房经适性（可担负能力）计划的选项。",
@@ -128,6 +130,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时28分 ~ 02时32分]"
+        },
+        {
+          "title": "特朗普回应克林顿大尺度照被公布",
+          "url": "https://www.toutiao.com/trending/7586912730720947748/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时42分 ~ 11时25分]"
         },
         {
           "title": "美国财长贝森特谈论所谓的“特朗普主导的”经济“激增”：未来数月，大额支票将与招聘同时出现。",
@@ -213,6 +227,31 @@
           "time_info": "[02时32分 ~ 03时18分]"
         },
         {
+          "title": "美军将建造“特朗普级”战舰",
+          "url": "https://www.douyin.com/hot/2345209",
+          "source": "抖音",
+          "ranks": [
+            27,
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时23分 ~ 11时25分]"
+        },
+        {
+          "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
+          "url": "https://www.cls.cn/detail/2238272",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时42分 ~ 11时25分]"
+        },
+        {
           "title": "特朗普：和我持不同意见的人将永远无法成为美联储主席",
           "url": "https://wallstreetcn.com/livenews/3025716",
           "source": "华尔街见闻-快讯",
@@ -226,16 +265,28 @@
           "time_info": "[02时32分 ~ 04时23分]"
         },
         {
-          "title": "美军将建造“特朗普级”战舰",
-          "url": "https://www.douyin.com/hot/2345209",
-          "source": "抖音",
+          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
+          "url": "https://wallstreetcn.com/articles/3761916",
+          "source": "华尔街见闻",
           "ranks": [
-            27,
-            10
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时23分 ~ 09时42分]"
+          "time_info": "[09时42分 ~ 11时25分]"
+        },
+        {
+          "title": "特朗普再谈格陵兰问题 还提到中国",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E8%B0%88%E6%A0%BC%E9%99%B5%E5%85%B0%E9%97%AE%E9%A2%98+%E8%BF%98%E6%8F%90%E5%88%B0%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时42分 ~ 11时25分]"
         },
         {
           "title": "美新型战舰被命名为特朗普级你咋看",
@@ -247,6 +298,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时18分 ~ 06时21分]"
+        },
+        {
+          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
+          "url": "https://wallstreetcn.com/articles/3761946",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 11时25分]"
         },
         {
           "title": "美国总统特朗普：希望市场能在好消息时上涨，在坏消息时下跌。",
@@ -319,35 +381,13 @@
           "time_info": "[00时28分 ~ 00时29分]"
         },
         {
-          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
-          "url": "https://wallstreetcn.com/articles/3761916",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时42分"
-        },
-        {
-          "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
-          "url": "https://www.cls.cn/detail/2238272",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时42分"
-        },
-        {
           "title": "法官裁定维持特朗普提出的10万美元H-1B签证申请费。",
           "url": "https://wallstreetcn.com/livenews/3025869",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         },
@@ -380,18 +420,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时42分"
-        },
-        {
-          "title": "特朗普再谈格陵兰问题 还提到中国",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E8%B0%88%E6%A0%BC%E9%99%B5%E5%85%B0%E9%97%AE%E9%A2%98+%E8%BF%98%E6%8F%90%E5%88%B0%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         },
@@ -460,6 +489,19 @@
           "time_info": "[04时23分 ~ 05时20分]"
         },
         {
+          "title": "金银铜携手创新高 强势GDP数据压制美股期指 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2238119",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时23分 ~ 11时25分]"
+        },
+        {
           "title": "半导体ETF收涨超0.9%，领跑美股行业ETF，标普电信、科技板块涨超0.9%",
           "url": "https://wallstreetcn.com/livenews/3025776",
           "source": "华尔街见闻-快讯",
@@ -482,18 +524,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时23分 ~ 05时20分]"
-        },
-        {
-          "title": "金银铜携手创新高 强势GDP数据压制美股期指 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2238119",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 09时42分]"
         },
         {
           "title": "金十图示：2025年12月23日（周二）美股热门股票行情一览（美股收盘）",
@@ -577,59 +607,8 @@
       ]
     },
     {
-      "keyword_group": "英伟达 NVIDIA NVDA H200",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "【英伟达放风春节前向中国客户交付H200芯片】英伟达已告知中国客户，计划于明年2月中旬，即中国农历春节前向中国客户交付其性能排名第二的人工智能（AI）芯片H200。其中两位消息人士称，英伟达计划动用库存履行首批订单，预计发货总量为5000至10000套芯片模组，相当于约4万至8万颗 H200芯片。（环球网）",
-          "url": "https://wallstreetcn.com/livenews/3025803",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "英伟达(NVDA.O)涨幅扩大至3%。",
-          "url": "https://flash.jin10.com/detail/20251224043718872800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
-          "title": "英媒：英伟达放风春节前向中国客户交付H200芯片",
-          "url": "https://www.cls.cn/detail/2238263",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时42分"
-        },
-        {
-          "title": "美股收盘：日线四连涨标普收新高 英伟达升3%领涨七巨头",
-          "url": "https://www.cls.cn/detail/2238248",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 09时42分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美元指数23日下跌",
@@ -678,6 +657,70 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时32分 ~ 03时18分]"
+        },
+        {
+          "title": "澳元兑美元上涨0.1%至0.6708，为2024年10月以来最高水平。 隔夜指数掉期显示， 澳洲联储加息两次的可能性超过70%，第一次加息最早可能在明年6月发生。",
+          "url": "https://wallstreetcn.com/livenews/3025903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 11时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达 NVIDIA NVDA H200",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "英媒：英伟达放风春节前向中国客户交付H200芯片",
+          "url": "https://www.cls.cn/detail/2238263",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时42分 ~ 11时25分]"
+        },
+        {
+          "title": "美股收盘：日线四连涨标普收新高 英伟达升3%领涨七巨头",
+          "url": "https://www.cls.cn/detail/2238248",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时20分 ~ 11时25分]"
+        },
+        {
+          "title": "【英伟达放风春节前向中国客户交付H200芯片】英伟达已告知中国客户，计划于明年2月中旬，即中国农历春节前向中国客户交付其性能排名第二的人工智能（AI）芯片H200。其中两位消息人士称，英伟达计划动用库存履行首批订单，预计发货总量为5000至10000套芯片模组，相当于约4万至8万颗 H200芯片。（环球网）",
+          "url": "https://wallstreetcn.com/livenews/3025803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "英伟达(NVDA.O)涨幅扩大至3%。",
+          "url": "https://flash.jin10.com/detail/20251224043718872800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         }
       ]
     },
