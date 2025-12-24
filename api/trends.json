@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T12:36:58.301182+08:00",
-  "total_titles_processed": 1018,
+  "generated_at": "2025-12-24T13:25:47.753832+08:00",
+  "total_titles_processed": 1091,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 12时36分]"
+          "appearance_count": 14,
+          "time_info": "[00时28分 ~ 13时25分]"
         },
         {
           "title": "特朗普将建特朗普级新型战舰",
@@ -45,11 +45,12 @@
             22,
             23,
             12,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 12时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 13时25分]"
         },
         {
           "title": "特朗普又自恋,新战舰用自己名",
@@ -59,11 +60,12 @@
             12,
             15,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 12时36分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 13时25分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -116,11 +118,25 @@
           "ranks": [
             2,
             7,
-            9
+            9,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时42分 ~ 12时36分]"
+          "appearance_count": 5,
+          "time_info": "[09时42分 ~ 13时25分]"
+        },
+        {
+          "title": "美军将建造“特朗普级”战舰",
+          "url": "https://www.douyin.com/hot/2345209",
+          "source": "抖音",
+          "ranks": [
+            27,
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时23分 ~ 13时25分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：总统特朗普有大量关于住房经适性（可担负能力）计划的选项。",
@@ -159,6 +175,19 @@
           "time_info": "[00时28分 ~ 01时21分]"
         },
         {
+          "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
+          "url": "https://www.cls.cn/detail/2238272",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时42分 ~ 13时25分]"
+        },
+        {
           "title": "美国白宫国家经济委员会主任哈塞特：特朗普将于新年内某个时间宣布住房计划。",
           "url": "https://flash.jin10.com/detail/20251224001032620800",
           "source": "金十数据",
@@ -195,17 +224,16 @@
           "time_info": "[00时28分 ~ 01时21分]"
         },
         {
-          "title": "美军将建造“特朗普级”战舰",
-          "url": "https://www.douyin.com/hot/2345209",
-          "source": "抖音",
+          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
+          "url": "https://wallstreetcn.com/articles/3761916",
+          "source": "华尔街见闻",
           "ranks": [
-            27,
             10,
-            17
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[04时23分 ~ 12时36分]"
+          "time_info": "[09时42分 ~ 13时25分]"
         },
         {
           "title": "美国法官驳回了特朗普政府针对纽约州法律的诉讼，特朗普政府称该法律阻碍了移民执法。",
@@ -218,18 +246,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
-          "url": "https://www.cls.cn/detail/2238272",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时42分 ~ 12时36分]"
         },
         {
           "title": "特朗普批评市场“利好不涨”反常现象，并警告异见者休想掌舵美联储",
@@ -256,16 +272,15 @@
           "time_info": "[02时32分 ~ 03时18分]"
         },
         {
-          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
-          "url": "https://wallstreetcn.com/articles/3761916",
+          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
+          "url": "https://wallstreetcn.com/articles/3761946",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时42分 ~ 12时36分]"
+          "time_info": "[11时24分 ~ 13时25分]"
         },
         {
           "title": "特朗普再谈格陵兰问题 还提到中国",
@@ -294,17 +309,6 @@
           "time_info": "[02时32分 ~ 04时23分]"
         },
         {
-          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
-          "url": "https://wallstreetcn.com/articles/3761946",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时24分 ~ 12时36分]"
-        },
-        {
           "title": "美新型战舰被命名为特朗普级你咋看",
           "url": "https://www.toutiao.com/trending/7586859203608772635/",
           "source": "今日头条",
@@ -314,6 +318,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时18分 ~ 06时21分]"
+        },
+        {
+          "title": "特朗普再谈格陵兰问题 还提到中国",
+          "url": "https://www.toutiao.com/trending/7586746209667239443/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 13时25分]"
         },
         {
           "title": "美国总统特朗普：希望市场能在好消息时上涨，在坏消息时下跌。",
@@ -386,15 +402,15 @@
           "time_info": "[00时28分 ~ 00时29分]"
         },
         {
-          "title": "特朗普再谈格陵兰问题 还提到中国",
-          "url": "https://www.toutiao.com/trending/7586746209667239443/",
-          "source": "今日头条",
+          "title": "尽管欧盟曾向特朗普承诺在未来三年内购买价值7500亿美元的美国能源，但在过去四个月里，欧盟从美国购买石油和天然气的支出却减少了7%。",
+          "url": "https://flash.jin10.com/detail/20251224130340552800",
+          "source": "金十数据",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时36分"
+          "time_info": "13时25分"
         },
         {
           "title": "解析美军制造特朗普级战舰",
@@ -403,7 +419,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -477,7 +493,7 @@
     },
     {
       "keyword_group": "美股 微软 亚马逊 博通 台积电 AMD",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "强劲GDP打击降息预期，美股低开，金银铜再创新高，伦铜突破1.2万美元，日元两日反弹",
@@ -586,6 +602,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "如何看待微软 Galen Hunt 宣称要用 AI+ 算法对所有 C/C++ 程序重新为 Rust 程序？",
+          "url": "https://www.zhihu.com/question/1986826913436680279",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         },
         {
           "title": "周二（12月23日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌0.75%，报87730美元。 CME以太币期货DCR主力合约跌0.55%，报2970.50美元。 美股加密货币与加密货币关联指数跌2.46%，报62.26点。 最近24小时，MarketVector数字资产100小盘指数跌1.62%，暂报3522.18点。 MarketVector数字资产100指数跌0.79%，暂报17965.86点。",
@@ -711,8 +738,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时42分 ~ 12时36分]"
+          "appearance_count": 5,
+          "time_info": "[09时42分 ~ 13时25分]"
         },
         {
           "title": "美股收盘：日线四连涨标普收新高 英伟达升3%领涨七巨头",
@@ -724,8 +751,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时20分 ~ 12时36分]"
+          "appearance_count": 6,
+          "time_info": "[07时20分 ~ 13时25分]"
         },
         {
           "title": "【英伟达放风春节前向中国客户交付H200芯片】英伟达已告知中国客户，计划于明年2月中旬，即中国农历春节前向中国客户交付其性能排名第二的人工智能（AI）芯片H200。其中两位消息人士称，英伟达计划动用库存履行首批订单，预计发货总量为5000至10000套芯片模组，相当于约4万至8万颗 H200芯片。（环球网）",
