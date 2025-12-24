@@ -1,8 +1,311 @@
 {
-  "generated_at": "2025-12-25T05:22:17.574094+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2025-12-25T06:21:13.136612+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "英伟达 NVIDIA NVDA H200",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "英伟达(NVDA.O)：Groq 将继续作为独立公司存在。",
+          "url": "https://flash.jin10.com/detail/20251225054832669800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 06时21分]"
+        },
+        {
+          "title": "英伟达聘请Groq的多位高管，帮助整合产品。 Groq高管Jonathan Ross和Sunny Madra将加盟英伟达。",
+          "url": "https://wallstreetcn.com/livenews/3026353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 06时21分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)：我们不是收购Groq，我们只是（获得）技术授权。我们将把Groq产品整合到未来的产品中。",
+          "url": "https://flash.jin10.com/detail/20251225054831112800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 06时21分]"
+        },
+        {
+          "title": "英伟达澄清：并没有收购Groq，仅为技术许可安排",
+          "url": "https://wallstreetcn.com/livenews/3026352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 06时21分]"
+        },
+        {
+          "title": "标普500指数初步收涨0.3%，在清淡的行情中创收盘历史新高，日用消费品、房地产、保健、公用事业板块至多涨约0.9%，科技、电信板块涨0.1%，能源板块跌超0.2%。 纳斯达克100指数初步收涨0.3%，成分股中，美光科技初步收涨3.6%，拼多多涨1.3%，迈威尔科技跌1.4%，Datadog跌2.3%。 耐克初步收涨4.5%，Merck、迪士尼、强生等涨超1%，领跑道指成分股，英伟达则跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3026306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "英伟达正以约200亿美元的价格收购AI芯片初创公司Groq，这是其有史以来规模最大的收购案。",
+          "url": "https://wallstreetcn.com/livenews/3026336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时22分"
+        },
+        {
+          "title": "据CNBC：英伟达(NVDA.O)将以大约200亿美元收购人工智能芯片初创公司Groq，成为其有史以来最大的一笔收购交易。",
+          "url": "https://flash.jin10.com/detail/20251225045906463800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时22分 ~ 06时21分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜苹果收涨超0.5%，英伟达跌超0.3%",
+          "url": "https://wallstreetcn.com/livenews/3026315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时17分 ~ 05时22分]"
+        },
+        {
+          "title": "Groq与英伟达签订关于推理科技的非排他性许可协议。 公司仍将是一家独立运营的公司。 GroqCloud将继续运营。",
+          "url": "https://wallstreetcn.com/livenews/3026350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 06时21分]"
+        },
+        {
+          "title": "GROQ：GROQ创始人乔纳森·罗斯、GROQ总裁桑尼·马德拉以及GROQ团队的其他成员将加入英伟达。",
+          "url": "https://flash.jin10.com/detail/20251225053209872800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 06时21分]"
+        },
+        {
+          "title": "GROQ：与英伟达达成非独家推理技术许可协议，以在全球范围内加速AI推理。",
+          "url": "https://flash.jin10.com/detail/20251225053135051800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 06时21分]"
+        },
+        {
+          "title": "英伟达以约200亿美元现金收购AI芯片初创公司Groq",
+          "url": "https://flash.jin10.com/detail/20251225051502192800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 06时21分]"
+        },
+        {
+          "title": "报道：英伟达历史上最大规模收购案，拟按200亿美元现金收购AI芯片初创公司Groq",
+          "url": "https://wallstreetcn.com/livenews/3026336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 06时21分]"
+        },
+        {
+          "title": "英特尔下跌3.9%，创12月25日以来最差盘中表现。媒体报道称，英伟达近期测试了所谓的18A制程生产工艺制造先进芯片，但随后停止推进相关工作。",
+          "url": "https://wallstreetcn.com/livenews/3026257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 微软 亚马逊 博通 台积电 AMD",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "周三（12月24日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌0.33%，报87400美元，北京时间22:38曾跌至86380美元刷新日低。 CME以太币期货DCR主力合约跌0.99%，报2942.50美元，22:38也曾刷新日低至2886.50美元。 美股加密货币与加密货币关联指数涨0.14%，报62.35点。 最近24小时，MarketVector数字资产100小盘指数跌0.37%，暂报3509.62点，整体呈现出V形走势。 MarketVector数字资产100小盘指数跌0.24%，暂报17923.99点。",
+          "url": "https://wallstreetcn.com/livenews/3026354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 06时21分]"
+        },
+        {
+          "title": "美股行业ETF普遍收涨",
+          "url": "https://wallstreetcn.com/livenews/3026322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7,
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时17分 ~ 06时21分]"
+        },
+        {
+          "title": "金十图示：2025年12月24日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251225020922155800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            14,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时31分 ~ 05时22分]"
+        },
+        {
+          "title": "金十图示：2025年12月24日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251225020759823800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 04时23分]"
+        },
+        {
+          "title": "美股收盘：三大股指齐涨 标普500续创新高",
+          "url": "https://flash.jin10.com/detail/20251225020220573800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 04时23分]"
+        },
+        {
+          "title": "（美股）费城金银指数收跌0.68%，报358.01点，脱离收盘历史最高位，连续两个交易日撤离盘中历史最高位。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.37%，报2545.80点。",
+          "url": "https://wallstreetcn.com/livenews/3026332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时22分 ~ 06时21分]"
+        },
+        {
+          "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
+          "url": "https://www.cls.cn/detail/2239383",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 06时21分]"
+        },
+        {
+          "title": "亚马逊旗下自动驾驶汽车公司Zoox因软件问题召回332辆车",
+          "url": "https://wallstreetcn.com/livenews/3026274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
+        },
+        {
+          "title": "中概股金山云美股盘初跌1.3%，世纪互联、名创优品、万国数据、阿里巴巴跌0.81%-0.64%，小鹏跌0.58%，百度跌0.19%。 携程则涨0.61%，小马智行涨0.63%，阿特斯太阳能反弹2.59%，再鼎医药涨6.58%。",
+          "url": "https://wallstreetcn.com/livenews/3026260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
+        },
+        {
+          "title": "行业ETF美股盘初涨跌各异，全球航空业ETF跌0.45%，能源业ETF跌0.39%，银行业ETF跌0.24%，网络股指数ETF跌0.12%，半导体ETF则涨0.08%，科技行业ETF涨0.09%。",
+          "url": "https://wallstreetcn.com/livenews/3026259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        },
+        {
+          "title": "美股交投清淡 三大指数均持稳",
+          "url": "https://flash.jin10.com/detail/20251224230659751800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        }
+      ]
+    },
     {
       "keyword_group": "特朗普",
       "match_count": 11,
@@ -15,8 +318,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 05时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 06时21分]"
+        },
+        {
+          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
+          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 06时21分]"
+        },
+        {
+          "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
+          "url": "https://wallstreetcn.com/articles/3761983",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 06时21分]"
         },
         {
           "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
@@ -30,27 +357,31 @@
           "time_info": "[00时26分 ~ 03时17分]"
         },
         {
-          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
-          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
-          "source": "凤凰网",
+          "title": "特朗普前政府效率部DOGE顾问马斯克：AI可帮助美国GDP五年实现三位数增长",
+          "url": "https://wallstreetcn.com/livenews/3026328",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            3,
+            12,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 05时22分]"
+          "appearance_count": 4,
+          "time_info": "[04时23分 ~ 06时21分]"
         },
         {
-          "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
-          "url": "https://wallstreetcn.com/articles/3761983",
-          "source": "华尔街见闻",
+          "title": "特朗普回应克林顿大尺度照被公布",
+          "url": "https://www.toutiao.com/trending/7586912730720947748/",
+          "source": "今日头条",
           "ranks": [
+            7,
             9,
-            8
+            26,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 05时22分]"
+          "appearance_count": 5,
+          "time_info": "[03时17分 ~ 06时21分]"
         },
         {
           "title": "美国法官支持特朗普推进10万美元天价H-1B签证费，美商会表达失望",
@@ -92,31 +423,6 @@
           "time_info": "[03时17分 ~ 05时22分]"
         },
         {
-          "title": "特朗普前政府效率部DOGE顾问马斯克：AI可帮助美国GDP五年实现三位数增长",
-          "url": "https://wallstreetcn.com/livenews/3026328",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 05时22分]"
-        },
-        {
-          "title": "特朗普回应克林顿大尺度照被公布",
-          "url": "https://www.toutiao.com/trending/7586912730720947748/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时17分 ~ 05时22分]"
-        },
-        {
           "title": "特朗普为何强调新战列舰不针对中国",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E5%BC%BA%E8%B0%83%E6%96%B0%E6%88%98%E5%88%97%E8%88%B0%E4%B8%8D%E9%92%88%E5%AF%B9%E4%B8%AD%E5%9B%BD",
           "source": "百度热搜",
@@ -135,205 +441,38 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 微软 亚马逊 博通 台积电 AMD",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "金十图示：2025年12月24日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251225020922155800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            14,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时31分 ~ 05时22分]"
-        },
-        {
-          "title": "美股行业ETF普遍收涨",
-          "url": "https://wallstreetcn.com/livenews/3026322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时17分 ~ 05时22分]"
-        },
-        {
-          "title": "金十图示：2025年12月24日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251225020759823800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时31分 ~ 04时23分]"
-        },
-        {
-          "title": "美股收盘：三大股指齐涨 标普500续创新高",
-          "url": "https://flash.jin10.com/detail/20251225020220573800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时31分 ~ 04时23分]"
-        },
-        {
-          "title": "亚马逊旗下自动驾驶汽车公司Zoox因软件问题召回332辆车",
-          "url": "https://wallstreetcn.com/livenews/3026274",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时18分]"
-        },
-        {
-          "title": "中概股金山云美股盘初跌1.3%，世纪互联、名创优品、万国数据、阿里巴巴跌0.81%-0.64%，小鹏跌0.58%，百度跌0.19%。 携程则涨0.61%，小马智行涨0.63%，阿特斯太阳能反弹2.59%，再鼎医药涨6.58%。",
-          "url": "https://wallstreetcn.com/livenews/3026260",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时18分]"
-        },
-        {
-          "title": "（美股）费城金银指数收跌0.68%，报358.01点，脱离收盘历史最高位，连续两个交易日撤离盘中历史最高位。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.37%，报2545.80点。",
-          "url": "https://wallstreetcn.com/livenews/3026332",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
-        },
-        {
-          "title": "行业ETF美股盘初涨跌各异，全球航空业ETF跌0.45%，能源业ETF跌0.39%，银行业ETF跌0.24%，网络股指数ETF跌0.12%，半导体ETF则涨0.08%，科技行业ETF涨0.09%。",
-          "url": "https://wallstreetcn.com/livenews/3026259",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        },
-        {
-          "title": "美股交投清淡 三大指数均持稳",
-          "url": "https://flash.jin10.com/detail/20251224230659751800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英伟达 NVIDIA NVDA H200",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "标普500指数初步收涨0.3%，在清淡的行情中创收盘历史新高，日用消费品、房地产、保健、公用事业板块至多涨约0.9%，科技、电信板块涨0.1%，能源板块跌超0.2%。 纳斯达克100指数初步收涨0.3%，成分股中，美光科技初步收涨3.6%，拼多多涨1.3%，迈威尔科技跌1.4%，Datadog跌2.3%。 耐克初步收涨4.5%，Merck、迪士尼、强生等涨超1%，领跑道指成分股，英伟达则跌0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3026306",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时31分"
-        },
-        {
-          "title": "据CNBC：英伟达(NVDA.O)将以大约200亿美元收购人工智能芯片初创公司Groq，成为其有史以来最大的一笔收购交易。",
-          "url": "https://flash.jin10.com/detail/20251225045906463800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
-        },
-        {
-          "title": "英伟达正以约200亿美元的价格收购AI芯片初创公司Groq，这是其有史以来规模最大的收购案。",
-          "url": "https://wallstreetcn.com/livenews/3026336",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜苹果收涨超0.5%，英伟达跌超0.3%",
-          "url": "https://wallstreetcn.com/livenews/3026315",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时17分 ~ 05时22分]"
-        },
-        {
-          "title": "英特尔下跌3.9%，创12月25日以来最差盘中表现。媒体报道称，英伟达近期测试了所谓的18A制程生产工艺制造先进芯片，但随后停止推进相关工作。",
-          "url": "https://wallstreetcn.com/livenews/3026257",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美元指数24日基本收平",
           "url": "https://flash.jin10.com/detail/20251225045209388800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时22分 ~ 06时21分]"
+        },
+        {
+          "title": "周三（12月24日）纽约尾盘，ICE美元指数涨0.01%，报97.949点，日内交投区间为97.749-98.012点，整体呈现出三波V形走势。 彭博美元指数跌0.10%，报1200.68点，日内交投区间为1201.41-1199.07点。",
+          "url": "https://wallstreetcn.com/livenews/3026344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 06时21分]"
         },
         {
           "title": "圣诞前夕交易清淡，标普500指数创新高，英特尔跌近4%，金属涨势暂缓，美元连跌三日",
