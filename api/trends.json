@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T16:29:41.555366+08:00",
-  "total_titles_processed": 1329,
+  "generated_at": "2025-12-25T17:25:02.348208+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时43分 ~ 16时29分]"
+          "appearance_count": 11,
+          "time_info": "[09时43分 ~ 17时25分]"
+        },
+        {
+          "title": "英特尔美股盘前大跌5%，报道：英伟达暂缓推进测试英特尔18A工艺",
+          "url": "https://wallstreetcn.com/articles/3762016",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时27分 ~ 17时25分]"
         },
         {
           "title": "标普500指数初步收涨0.3%，在清淡的行情中创收盘历史新高，日用消费品、房地产、保健、公用事业板块至多涨约0.9%，科技、电信板块涨0.1%，能源板块跌超0.2%。 纳斯达克100指数初步收涨0.3%，成分股中，美光科技初步收涨3.6%，拼多多涨1.3%，迈威尔科技跌1.4%，Datadog跌2.3%。 耐克初步收涨4.5%，Merck、迪士尼、强生等涨超1%，领跑道指成分股，英伟达则跌0.4%。",
@@ -104,17 +116,6 @@
           "time_info": "[06时20分 ~ 07时20分]"
         },
         {
-          "title": "英特尔美股盘前大跌5%，报道：英伟达暂缓推进测试英特尔18A工艺",
-          "url": "https://wallstreetcn.com/articles/3762016",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时27分 ~ 16时29分]"
-        },
-        {
           "title": "Groq与英伟达签订关于推理科技的非排他性许可协议。 公司仍将是一家独立运营的公司。 GroqCloud将继续运营。",
           "url": "https://wallstreetcn.com/livenews/3026350",
           "source": "华尔街见闻-快讯",
@@ -164,6 +165,18 @@
           "time_info": "[06时20分 ~ 07时20分]"
         },
         {
+          "title": "英伟达确认与初创公司Groq达成技术许可协议。英伟达称其并未“收购Groq”，已从初创公司Groq招聘工程人才。",
+          "url": "https://wallstreetcn.com/livenews/3026638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 17时25分]"
+        },
+        {
           "title": "英伟达以约200亿美元现金收购AI芯片初创公司Groq",
           "url": "https://flash.jin10.com/detail/20251225051502192800",
           "source": "金十数据",
@@ -187,17 +200,6 @@
           "time_info": "[06时20分 ~ 06时21分]"
         },
         {
-          "title": "英伟达确认与初创公司Groq达成技术许可协议。英伟达称其并未“收购Groq”，已从初创公司Groq招聘工程人才。",
-          "url": "https://wallstreetcn.com/livenews/3026638",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
           "title": "英特尔下跌3.9%，创12月25日以来最差盘中表现。媒体报道称，英伟达近期测试了所谓的18A制程生产工艺制造先进芯片，但随后停止推进相关工作。",
           "url": "https://wallstreetcn.com/livenews/3026257",
           "source": "华尔街见闻-快讯",
@@ -212,7 +214,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
@@ -262,6 +264,28 @@
           "time_info": "[00时26分 ~ 03时17分]"
         },
         {
+          "title": "高市早苗：想尽快与特朗普会晤",
+          "url": "https://news.ifeng.com/c/8pNHf17pGd9",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
+        },
+        {
+          "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
+          "url": "https://v.ifeng.com/c/8pNDMX3vTpu",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
+        },
+        {
           "title": "帕劳与特朗普政府签署备忘录，从美国接收75名移民",
           "url": "https://flash.jin10.com/detail/20251225121328471800",
           "source": "金十数据",
@@ -292,7 +316,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -406,11 +430,12 @@
           "url": "https://wallstreetcn.com/articles/3761989",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时43分 ~ 16时29分]"
+          "appearance_count": 11,
+          "time_info": "[09时43分 ~ 17时25分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
