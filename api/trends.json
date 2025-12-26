@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T18:23:28.220346+08:00",
-  "total_titles_processed": 1396,
+  "generated_at": "2025-12-26T19:19:57.059610+08:00",
+  "total_titles_processed": 1485,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时42分 ~ 18时23分]"
+          "appearance_count": 16,
+          "time_info": "[09时42分 ~ 19时19分]"
         },
         {
           "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
@@ -145,8 +145,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 18时23分]"
+          "appearance_count": 3,
+          "time_info": "[17时24分 ~ 19时19分]"
         },
         {
           "title": "乌克兰总统泽连斯基：已同意在近期与特朗普会面。 很多事情可以在年底前决定。",
@@ -243,7 +243,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -268,6 +268,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达 NVIDIA NVDA H200",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "200亿美元，英伟达“史上最大收购”？英伟达“收编”Groq，“招安”TPU创始人",
+          "url": "https://wallstreetcn.com/articles/3762030",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 07时20分]"
+        },
+        {
+          "title": "200亿美元买下Groq，英伟达图啥？",
+          "url": "https://wallstreetcn.com/articles/3762046",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 09时43分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)盘前上涨0.7%，CNBC报道称公司已同意收购Groq。",
+          "url": "https://flash.jin10.com/detail/20251226180222888800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "英伟达(NVDA.O)盘前上涨0.7%，公司同意从初创企业Groq获得芯片技术授权。",
+          "url": "https://flash.jin10.com/detail/20251226180222888800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         }
       ]
     },
@@ -317,47 +368,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英伟达 NVIDIA NVDA H200",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "200亿美元，英伟达“史上最大收购”？英伟达“收编”Groq，“招安”TPU创始人",
-          "url": "https://wallstreetcn.com/articles/3762030",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 07时20分]"
-        },
-        {
-          "title": "200亿美元买下Groq，英伟达图啥？",
-          "url": "https://wallstreetcn.com/articles/3762046",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 09时43分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)盘前上涨0.7%，CNBC报道称公司已同意收购Groq。",
-          "url": "https://flash.jin10.com/detail/20251226180222888800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "18时23分"
         }
