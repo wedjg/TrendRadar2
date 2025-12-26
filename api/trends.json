@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T02:31:27.090630+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2025-12-27T03:17:30.419356+08:00",
+  "total_titles_processed": 441,
   "failed_sources": [],
   "trends": [
     {
@@ -15,32 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时31分]"
-        },
-        {
-          "title": "美媒：泽连斯基“准备”就特朗普停火计划举行公投",
-          "url": "https://flash.jin10.com/detail/20251227010749216800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 02时31分]"
-        },
-        {
-          "title": "据AXIOS网站：乌克兰总统泽连斯基“准备”就美国总统特朗普的停火计划举行公投。",
-          "url": "https://flash.jin10.com/detail/20251227010459037800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 02时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时17分]"
         },
         {
           "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
@@ -50,8 +26,34 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时17分]"
+        },
+        {
+          "title": "美媒：泽连斯基“准备”就特朗普停火计划举行公投",
+          "url": "https://flash.jin10.com/detail/20251227010749216800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            9,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时31分]"
+          "time_info": "[01时18分 ~ 03时17分]"
+        },
+        {
+          "title": "据AXIOS网站：乌克兰总统泽连斯基“准备”就美国总统特朗普的停火计划举行公投。",
+          "url": "https://flash.jin10.com/detail/20251227010459037800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 03时17分]"
         },
         {
           "title": "俄罗斯副外长Ryabkov：在（俄罗斯总统普京与美国总统特朗普）达成的Ankorage Agreements（安克雷奇协议）之外，不可能达成其他协议。（塔斯社）",
@@ -59,11 +61,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 02时31分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 03时17分]"
         },
         {
           "title": "乌总统：乌美安全保障协议接近完成，签署取决于与特朗普会晤",
@@ -103,8 +106,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时17分]"
         },
         {
           "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
@@ -114,8 +117,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时17分]"
         },
         {
           "title": "标普500续创新高 “圣诞老人行情”预期支撑美股",
