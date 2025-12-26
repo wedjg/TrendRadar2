@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T13:23:05.092670+08:00",
-  "total_titles_processed": 944,
+  "generated_at": "2025-12-26T14:34:10.260193+08:00",
+  "total_titles_processed": 1039,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -29,8 +29,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时42分 ~ 14时34分]"
+        },
+        {
+          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
+          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[09时42分 ~ 13时23分]"
+          "time_info": "[11时25分 ~ 14时34分]"
         },
         {
           "title": "特朗普政府的移民局：要求阿富汗移民在圣诞节及元旦报到",
@@ -60,17 +71,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时17分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
-          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时25分 ~ 13时23分]"
         },
         {
           "title": "美国总统特朗普：战争部执行了无数次完美打击。",
@@ -147,6 +147,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时25分 ~ 11时26分]"
+        },
+        {
+          "title": "欧盟竞争事务专员Teresa Ribera表示，欧洲必须更加有力地捍卫其监管体系，才能保持全球竞争力。她呼吁抵制美国总统特朗普以及那些在欧盟内进行游说要求改革的人所施加的压力。",
+          "url": "https://flash.jin10.com/detail/20251226130524809800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 14时34分]"
         },
         {
           "title": "专家：特朗普或在2026“压榨”美联储",
@@ -267,8 +278,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时27分 ~ 13时23分]"
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 14时34分]"
         }
       ]
     },
