@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T12:36:02.218450+08:00",
-  "total_titles_processed": 903,
+  "generated_at": "2025-12-26T13:23:05.092670+08:00",
+  "total_titles_processed": 944,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时27分 ~ 07时20分]"
+        },
+        {
+          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
+          "url": "https://wallstreetcn.com/articles/3762107",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时42分 ~ 13时23分]"
         },
         {
           "title": "特朗普政府的移民局：要求阿富汗移民在圣诞节及元旦报到",
@@ -48,17 +62,15 @@
           "time_info": "[03时17分 ~ 07时20分]"
         },
         {
-          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
-          "url": "https://wallstreetcn.com/articles/3762107",
-          "source": "华尔街见闻",
+          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
+          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            6,
-            4
+            6
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时42分 ~ 12时36分]"
+          "time_info": "[11时25分 ~ 13时23分]"
         },
         {
           "title": "美国总统特朗普：战争部执行了无数次完美打击。",
@@ -110,17 +122,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时27分 ~ 04时24分]"
-        },
-        {
-          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
-          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时25分 ~ 12时36分]"
         },
         {
           "title": "乌克兰总统泽连斯基：今天与美国特使威特科夫、特朗普高级顾问库什纳进行了通话。",
@@ -199,6 +200,18 @@
           "time_info": "[00时27分 ~ 07时20分]"
         },
         {
+          "title": "美股今日正常开市，欧洲股市继续休市",
+          "url": "https://flash.jin10.com/detail/20251226112952955800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时35分 ~ 13时23分]"
+        },
+        {
           "title": "三星据称将推出“100%自主技术”GPU 终极野心：打造第二个博通",
           "url": "https://www.cls.cn/detail/2240384",
           "source": "财联社热门",
@@ -208,17 +221,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时25分 ~ 11时26分]"
-        },
-        {
-          "title": "美股今日正常开市，欧洲股市继续休市",
-          "url": "https://flash.jin10.com/detail/20251226112952955800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 12时36分]"
         }
       ]
     },
@@ -265,8 +267,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 12时36分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 13时23分]"
         }
       ]
     },
