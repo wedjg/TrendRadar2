@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T09:43:13.734964+08:00",
-  "total_titles_processed": 660,
+  "generated_at": "2025-12-26T11:26:00.846562+08:00",
+  "total_titles_processed": 806,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -99,6 +99,18 @@
           "time_info": "[00时27分 ~ 04时24分]"
         },
         {
+          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
+          "url": "https://wallstreetcn.com/articles/3762107",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时42分 ~ 11时26分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：今天与美国特使威特科夫、特朗普高级顾问库什纳进行了通话。",
           "url": "https://flash.jin10.com/detail/20251226001306612800",
           "source": "金十数据",
@@ -113,15 +125,26 @@
           "time_info": "[01时19分 ~ 04时24分]"
         },
         {
-          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
-          "url": "https://wallstreetcn.com/articles/3762107",
-          "source": "华尔街见闻",
+          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
+          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
+          "source": "凤凰网",
           "ranks": [
-            9
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时42分 ~ 09时43分]"
+          "time_info": "[11时25分 ~ 11时26分]"
+        },
+        {
+          "title": "金银亚盘暴力拉升，现货白银一度上破75美元/盎司；特朗普宣称美军打击尼日利亚ISIS恐怖分子，此前曾警告美国将“火力全开”进入尼日利亚……后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251226104958577800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
         },
         {
           "title": "专家：特朗普或在2026“压榨”美联储",
@@ -188,6 +211,35 @@
       ]
     },
     {
+      "keyword_group": "美股 微软 亚马逊 博通 台积电 AMD",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
+          "url": "https://wallstreetcn.com/articles/3761989",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 07时20分]"
+        },
+        {
+          "title": "三星据称将推出“100%自主技术”GPU 终极野心：打造第二个博通",
+          "url": "https://www.cls.cn/detail/2240384",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -197,11 +249,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 09时43分]"
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 11时26分]"
         }
       ]
     },
@@ -215,24 +268,6 @@
           "source": "华尔街见闻",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 07时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 微软 亚马逊 博通 台积电 AMD",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
-          "url": "https://wallstreetcn.com/articles/3761989",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
           ],
           "is_new": false,
           "appearance_count": 9,
