@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T20:42:35.891581+08:00",
-  "total_titles_processed": 1597,
+  "generated_at": "2025-12-26T21:33:49.340466+08:00",
+  "total_titles_processed": 1675,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 29,
       "titles": [
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时42分 ~ 20时42分]"
+          "appearance_count": 18,
+          "time_info": "[09时42分 ~ 21时33分]"
         },
         {
           "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
@@ -84,17 +84,6 @@
           "time_info": "07时20分"
         },
         {
-          "title": "乌方称特朗普与泽连斯基拟周日会面 寻求敲定和平协议",
-          "url": "https://flash.jin10.com/detail/20251226203140257800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
           "title": "乌克兰总统泽连斯基：与美国特使威特科夫和特朗普高级顾问库什纳通话约一小时。",
           "url": "https://flash.jin10.com/detail/20251226013420505800",
           "source": "金十数据",
@@ -121,6 +110,17 @@
           "time_info": "07时20分"
         },
         {
+          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
+          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时24分 ~ 21时33分]"
+        },
+        {
           "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
           "url": "https://wallstreetcn.com/livenews/3026784",
           "source": "华尔街见闻-快讯",
@@ -135,15 +135,16 @@
           "time_info": "[00时27分 ~ 04时24分]"
         },
         {
-          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
-          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
-          "source": "凤凰网",
+          "title": "乌方称特朗普与泽连斯基拟周日会面 寻求敲定和平协议",
+          "url": "https://flash.jin10.com/detail/20251226203140257800",
+          "source": "金十数据",
           "ranks": [
-            6
+            1,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时24分 ~ 20时42分]"
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 21时33分]"
         },
         {
           "title": "乌克兰总统泽连斯基：今天与美国特使威特科夫、特朗普高级顾问库什纳进行了通话。",
@@ -259,6 +260,17 @@
           "time_info": "18时23分"
         },
         {
+          "title": "泽连斯基：预计将于周日在佛罗里达与特朗普会面",
+          "url": "https://wallstreetcn.com/livenews/3027347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "美媒：为试图减少对中国供应链依赖，特朗普政府推动补贴电池产业",
           "url": "https://flash.jin10.com/detail/20251226065412046800",
           "source": "金十数据",
@@ -268,6 +280,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：想与特朗普讨论对俄罗斯施加额外压力的问题。",
+          "url": "https://flash.jin10.com/detail/20251226205730248800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：无法确定周日与美国总统特朗普的会晤是否会促成任何协议的签署。",
+          "url": "https://flash.jin10.com/detail/20251226205149177800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：乌克兰将在与特朗普的会晤中提出那些缺乏妥协空间的问题。",
+          "url": "https://flash.jin10.com/detail/20251226204831614800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：预计将于周日在佛罗里达与美国总统特朗普会面。",
+          "url": "https://flash.jin10.com/detail/20251226204630246800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：计划与美国总统特朗普讨论安全保障和重建问题。",
+          "url": "https://flash.jin10.com/detail/20251226204553454800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "泽连斯基称近期将与美总统特朗普会面",
