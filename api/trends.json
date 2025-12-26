@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T11:26:00.846562+08:00",
-  "total_titles_processed": 806,
+  "generated_at": "2025-12-26T12:36:02.218450+08:00",
+  "total_titles_processed": 903,
   "failed_sources": [],
   "trends": [
     {
@@ -46,6 +46,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时17分 ~ 07时20分]"
+        },
+        {
+          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
+          "url": "https://wallstreetcn.com/articles/3762107",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时42分 ~ 12时36分]"
         },
         {
           "title": "美国总统特朗普：战争部执行了无数次完美打击。",
@@ -99,16 +112,15 @@
           "time_info": "[00时27分 ~ 04时24分]"
         },
         {
-          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
-          "url": "https://wallstreetcn.com/articles/3762107",
-          "source": "华尔街见闻",
+          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
+          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
+          "source": "凤凰网",
           "ranks": [
-            9,
             6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时42分 ~ 11时26分]"
+          "time_info": "[11时25分 ~ 12时36分]"
         },
         {
           "title": "乌克兰总统泽连斯基：今天与美国特使威特科夫、特朗普高级顾问库什纳进行了通话。",
@@ -123,17 +135,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时19分 ~ 04时24分]"
-        },
-        {
-          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
-          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 11时26分]"
         },
         {
           "title": "金银亚盘暴力拉升，现货白银一度上破75美元/盎司；特朗普宣称美军打击尼日利亚ISIS恐怖分子，此前曾警告美国将“火力全开”进入尼日利亚……后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -182,6 +183,46 @@
       ]
     },
     {
+      "keyword_group": "美股 微软 亚马逊 博通 台积电 AMD",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
+          "url": "https://wallstreetcn.com/articles/3761989",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 07时20分]"
+        },
+        {
+          "title": "三星据称将推出“100%自主技术”GPU 终极野心：打造第二个博通",
+          "url": "https://www.cls.cn/detail/2240384",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
+        },
+        {
+          "title": "美股今日正常开市，欧洲股市继续休市",
+          "url": "https://flash.jin10.com/detail/20251226112952955800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 12时36分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "英伟达 NVIDIA NVDA H200",
       "match_count": 2,
       "titles": [
@@ -211,35 +252,6 @@
       ]
     },
     {
-      "keyword_group": "美股 微软 亚马逊 博通 台积电 AMD",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
-          "url": "https://wallstreetcn.com/articles/3761989",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 07时20分]"
-        },
-        {
-          "title": "三星据称将推出“100%自主技术”GPU 终极野心：打造第二个博通",
-          "url": "https://www.cls.cn/detail/2240384",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 11时26分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -253,8 +265,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 11时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 12时36分]"
         }
       ]
     },
