@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T20:41:38.098916+08:00",
-  "total_titles_processed": 1152,
+  "generated_at": "2025-12-28T21:31:00.688653+08:00",
+  "total_titles_processed": 1216,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时45分 ~ 20时41分]"
+          "appearance_count": 12,
+          "time_info": "[12时45分 ~ 21时31分]"
         },
         {
           "title": "美国总统特朗普：关税正在为美国创造巨大财富，并带来前所未有的国家安全保障。贸易逆差已削减60%，实属史无前例。GDP增长率达4.3%，且持续攀升。没有通货膨胀！！！我们国家再次赢得世界尊重。",
@@ -100,6 +100,17 @@
           "time_info": "[16时28分 ~ 20时41分]"
         },
         {
+          "title": "泽连斯基：我想跟特朗普谈5个问题",
+          "url": "https://news.ifeng.com/c/8pS8Ckuh1cP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时21分 ~ 21时31分]"
+        },
+        {
           "title": "泽连斯基：将在特朗普会晤后与欧洲领导人举行会谈",
           "url": "https://flash.jin10.com/detail/20251228090239381800",
           "source": "金十数据",
@@ -174,17 +185,6 @@
           "time_info": "[11时48分 ~ 13时25分]"
         },
         {
-          "title": "泽连斯基：我想跟特朗普谈5个问题",
-          "url": "https://news.ifeng.com/c/8pS8Ckuh1cP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时21分 ~ 20时41分]"
-        },
-        {
           "title": "泽连斯基抵达美国，准备与特朗普会谈",
           "url": "https://flash.jin10.com/detail/20251228084239521800",
           "source": "金十数据",
@@ -245,7 +245,7 @@
     },
     {
       "keyword_group": "英伟达 NVIDIA NVDA H200",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "英伟达1400亿“收购”，GPU拐点已现？",
@@ -261,6 +261,17 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时25分 ~ 17时21分]"
+        },
+        {
+          "title": "英伟达800伏电压“革命”：全球数据中心面临史上最大规模基础设施改造",
+          "url": "https://wallstreetcn.com/articles/3762212",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时29分 ~ 21时31分]"
         }
       ]
     },
