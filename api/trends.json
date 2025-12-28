@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T14:33:04.232652+08:00",
-  "total_titles_processed": 782,
+  "generated_at": "2025-12-28T15:21:21.250601+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "美国总统特朗普：关税正在为美国创造巨大财富，并带来前所未有的国家安全保障。贸易逆差已削减60%，实属史无前例。GDP增长率达4.3%，且持续攀升。没有通货膨胀！！！我们国家再次赢得世界尊重。",
@@ -73,6 +73,28 @@
           "time_info": "[00时25分 ~ 06时20分]"
         },
         {
+          "title": "乌媒：泽连斯基概述想和特朗普讨论“和平计划”的5个问题",
+          "url": "https://flash.jin10.com/detail/20251228145227378800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
+          "title": "特朗普秘密指令对24个“贩毒集团”实施海上打击",
+          "url": "https://flash.jin10.com/detail/20251228144705189800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "泽连斯基：将在特朗普会晤后与欧洲领导人举行会谈",
           "url": "https://flash.jin10.com/detail/20251228090239381800",
           "source": "金十数据",
@@ -112,11 +134,12 @@
           "url": "https://wallstreetcn.com/articles/3762196",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时45分 ~ 14时33分]"
+          "appearance_count": 5,
+          "time_info": "[12时45分 ~ 15时21分]"
         },
         {
           "title": "特朗普与泽连斯基会晤时间有所调整",
@@ -190,11 +213,12 @@
             8,
             7,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时25分 ~ 14时33分]"
+          "appearance_count": 17,
+          "time_info": "[00时25分 ~ 15时21分]"
         }
       ]
     },
