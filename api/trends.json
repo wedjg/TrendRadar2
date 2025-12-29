@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T21:38:43.566004+08:00",
-  "total_titles_processed": 1668,
+  "generated_at": "2025-12-29T22:22:58.125711+08:00",
+  "total_titles_processed": 1755,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 79,
+      "match_count": 80,
       "titles": [
         {
           "title": "特朗普：不排除亲自前往乌克兰",
@@ -107,8 +107,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时36分 ~ 21时38分]"
+          "appearance_count": 11,
+          "time_info": "[14时36分 ~ 22时22分]"
         },
         {
           "title": "乌克兰总统泽连斯基抵达美国佛罗里达州，即将会见美国总统特朗普。",
@@ -934,12 +934,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "泽连斯基列举与特朗普会晤成果：美方确认安全保障协议将提交国会，战后经济重建方案获推进",
+          "url": "https://flash.jin10.com/detail/20251229213129062800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         }
       ]
     },
     {
       "keyword_group": "美股 微软 亚马逊 博通 台积电 AMD",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股冲刺历史新高 年末聚焦美联储政策与板块轮动",
@@ -964,6 +975,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时45分 ~ 21时38分]"
+        },
+        {
+          "title": "受科技股拖累，美股指期货走低，现货黄金单日跌超100美元，白银暴跌8%，伦铜逼近13000美元",
+          "url": "https://wallstreetcn.com/articles/3762238",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "美股股指期货周一基本平开。",
@@ -1000,6 +1022,17 @@
           "time_info": "[20时45分 ~ 21时38分]"
         },
         {
+          "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2243270",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "美股三大股指期货走低，标普500指数期货下跌0.3%，纳斯达克100指数期货下跌0.5%，道琼斯指数期货下跌0.1%。",
           "url": "https://flash.jin10.com/detail/20251229170123670800",
           "source": "金十数据",
@@ -1014,7 +1047,7 @@
     },
     {
       "keyword_group": "英伟达 NVIDIA NVDA H200",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "英伟达800伏电压“革命”：全球数据中心面临史上最大规模基础设施改造",
@@ -1028,6 +1061,17 @@
           "is_new": false,
           "appearance_count": 23,
           "time_info": "[00时25分 ~ 19时20分]"
+        },
+        {
+          "title": "英伟达斥资50亿美元入股英特尔，提供关键资金支持",
+          "url": "https://flash.jin10.com/detail/20251229222001579800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "英特尔完成向英伟达出售价值50亿美元的普通股",
@@ -1091,8 +1135,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时20分 ~ 21时38分]"
+          "appearance_count": 4,
+          "time_info": "[19时20分 ~ 22时22分]"
         },
         {
           "title": "DeepSeek一夜爆火、Labubu引爆全球抢购潮、“史诗级”外卖大战……2025年中国十大商业事件全盘点",
@@ -1102,8 +1146,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 21时38分]"
+          "appearance_count": 3,
+          "time_info": "[20时45分 ~ 22时22分]"
         }
       ]
     },
