@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T11:29:12.943654+08:00",
-  "total_titles_processed": 925,
+  "generated_at": "2025-12-30T12:40:33.899385+08:00",
+  "total_titles_processed": 1027,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 86,
+      "match_count": 90,
       "titles": [
         {
           "title": "普京官邸遇袭，俄官员称特朗普感到“震惊和愤怒”",
@@ -41,8 +41,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时44分 ~ 11时29分]"
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 12时40分]"
         },
         {
           "title": "美国总统特朗普：美东时间08:00已经与俄罗斯总统普京通电话。",
@@ -117,6 +117,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 05时20分]"
+        },
+        {
+          "title": "得知普京官邸遭袭 特朗普：很生气",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%97%E7%9F%A5%E6%99%AE%E4%BA%AC%E5%AE%98%E9%82%B8%E9%81%AD%E8%A2%AD+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%BE%88%E7%94%9F%E6%B0%94",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 12时40分]"
         },
         {
           "title": "白宫发言人：美国总统特朗普已就乌克兰问题与俄罗斯总统普京进行了积极的通话。",
@@ -230,6 +242,17 @@
           "time_info": "[04时25分 ~ 05时20分]"
         },
         {
+          "title": "据悉特朗普及其高级顾问要求内塔尼亚胡调整约旦河西岸政策",
+          "url": "https://flash.jin10.com/detail/20251230114449386800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
           "title": "周一（12月29日），降息赢家指数跌0.71%，报99.67点。 “特朗普关税输家”指数跌0.57%，报112.08点。 “特朗普金融指数”跌1.33%，报174.82点。 散户抱团概念股指数/迷因股（meme stock）指数跌2.43%，报15.64点。",
           "url": "https://wallstreetcn.com/livenews/3028346",
           "source": "华尔街见闻-快讯",
@@ -240,18 +263,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时20分 ~ 07时20分]"
-        },
-        {
-          "title": "得知普京官邸遭袭 特朗普：很生气",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%97%E7%9F%A5%E6%99%AE%E4%BA%AC%E5%AE%98%E9%82%B8%E9%81%AD%E8%A2%AD+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%BE%88%E7%94%9F%E6%B0%94",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时44分 ~ 11时29分]"
         },
         {
           "title": "特朗普：若伊朗发展核武器，支持对伊朗发动快速打击",
@@ -276,6 +287,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时27分 ~ 01时20分]"
+        },
+        {
+          "title": "俄罗斯称乌91架无人机袭击普京官邸，泽连斯基否认，特朗普“很生气”",
+          "url": "https://wallstreetcn.com/articles/3762268",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 12时40分]"
         },
         {
           "title": "美国总统特朗普：近期与委内瑞拉总统马杜罗对话，但没什么效果。",
@@ -506,15 +529,15 @@
           "time_info": "[01时19分 ~ 02时32分]"
         },
         {
-          "title": "俄罗斯称乌91架无人机袭击普京官邸，泽连斯基否认，特朗普“很生气”",
-          "url": "https://wallstreetcn.com/articles/3762268",
-          "source": "华尔街见闻",
+          "title": "解放军封岛军演，特朗普表态",
+          "url": "https://news.ifeng.com/c/8pV2xI6hHOn",
+          "source": "凤凰网",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时44分 ~ 11时29分]"
+          "time_info": "[11时28分 ~ 12时40分]"
         },
         {
           "title": "以色列总统办公室：自数周前提交对以色列总理内塔尼亚胡的赦免请求以来，以色列总统赫尔佐格与特朗普之间尚未进行任何对话。",
@@ -551,17 +574,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时44分 ~ 11时29分]"
-        },
-        {
-          "title": "解放军封岛军演，特朗普表态",
-          "url": "https://news.ifeng.com/c/8pV2xI6hHOn",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 11时29分]"
         },
         {
           "title": "美国总统特朗普：（谈与以色列总理内塔尼亚胡的会晤）我们在大多数事情上都达成一致，我们谈到了哈马斯和解除武装，将给予哈马斯短暂时间解除武装。",
@@ -969,6 +981,28 @@
           "time_info": "09时44分"
         },
         {
+          "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
+          "url": "https://wallstreetcn.com/articles/3762270",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "据AXIOS：特朗普及其高级幕僚已要求内塔尼亚胡改变其在被占领的约旦河西岸所推行的政策。",
+          "url": "https://flash.jin10.com/detail/20251230113213777800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
           "title": "伊朗最高领袖顾问回应特朗普威胁：任何侵略行为都将遭到严厉而迅速的回应",
           "url": "https://wallstreetcn.com/livenews/3028423",
           "source": "华尔街见闻-快讯",
@@ -980,13 +1014,24 @@
           "time_info": "09时44分"
         },
         {
+          "title": "特朗普称不担心解放军绕台军演",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E6%8B%85%E5%BF%83%E8%A7%A3%E6%94%BE%E5%86%9B%E7%BB%95%E5%8F%B0%E5%86%9B%E6%BC%94",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
           "title": "特朗普级战列舰会是闹剧吗",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%88%98%E5%88%97%E8%88%B0%E4%BC%9A%E6%98%AF%E9%97%B9%E5%89%A7%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -1061,8 +1106,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时44分 ~ 11时29分]"
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 12时40分]"
         },
         {
           "title": "美股收盘：贵金属风暴冲击市场情绪 三大指数集体收跌",
@@ -1073,8 +1118,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时20分 ~ 11时29分]"
+          "appearance_count": 5,
+          "time_info": "[07时20分 ~ 12时40分]"
         },
         {
           "title": "美股收盘：三大股指齐跌 特斯拉跌超3%",
@@ -1193,8 +1238,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 11时29分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 12时40分]"
         }
       ]
     },
