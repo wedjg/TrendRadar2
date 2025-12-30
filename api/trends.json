@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T06:21:17.351563+08:00",
-  "total_titles_processed": 575,
+  "generated_at": "2025-12-31T07:20:46.031104+08:00",
+  "total_titles_processed": 621,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 微软 亚马逊 博通 台积电 AMD",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 06时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 07时20分]"
         },
         {
           "title": "静待美联储会议纪要，美股指集体低开，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
@@ -36,11 +36,12 @@
           "url": "https://www.cls.cn/detail/2244587",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 02时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 07时20分]"
         },
         {
           "title": "金十图示：2025年12月30日（周二）美股热门股票行情一览（美股收盘）",
@@ -48,11 +49,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时20分 ~ 06时21分]"
+          "appearance_count": 4,
+          "time_info": "[05时20分 ~ 07时20分]"
         },
         {
           "title": "金十图示：2025年12月30日（周二）热门中概股行情一览（美股收盘）",
@@ -60,11 +62,25 @@
           "source": "金十数据",
           "ranks": [
             3,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时20分 ~ 06时21分]"
+          "appearance_count": 4,
+          "time_info": "[05时20分 ~ 07时20分]"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收跌 百度涨超4%",
+          "url": "https://flash.jin10.com/detail/20251231050133467800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时20分 ~ 07时20分]"
         },
         {
           "title": "会议纪要难挽交投情绪，美股指三连跌，Meta涨，黄金反弹后劲不足，白银涨逾5%",
@@ -73,21 +89,32 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
         {
-          "title": "美股收盘：三大股指小幅收跌 百度涨超4%",
-          "url": "https://flash.jin10.com/detail/20251231050133467800",
-          "source": "金十数据",
+          "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
+          "url": "https://wallstreetcn.com/articles/3762305",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            21
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "（美股）费城金银指数收涨0.79%，报347.01点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨0.79%，报2469.28点，北京时间22:30美股开盘之前维持微幅下跌状态、之后“跳空”至2498.05点刷新日高又在极大程度上快速回吐这一波涨幅。 原材料指数跌0.17%，报228.42点。 金属与矿业指数跌0.29%，报217.41点。",
+          "url": "https://wallstreetcn.com/livenews/3028934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时20分 ~ 06时21分]"
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时20分]"
         },
         {
           "title": "金十图示：2025年12月30日（周二）美股热门股票行情一览（美股盘中）",
@@ -101,6 +128,18 @@
           "time_info": "[02时32分 ~ 02时33分]"
         },
         {
+          "title": "亚马逊：将为美国政府机构AI系统投资高达500亿美元",
+          "url": "https://wallstreetcn.com/livenews/3028930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时20分]"
+        },
+        {
           "title": "金十图示：2025年12月30日（周二）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251231013021067800",
           "source": "金十数据",
@@ -110,6 +149,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时32分 ~ 02时33分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收跌超1.1%，Meta涨1.1%",
+          "url": "https://wallstreetcn.com/livenews/3028929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时20分]"
+        },
+        {
+          "title": "亚马逊将为美国政府机构AI系统投资高达500亿美元",
+          "url": "https://flash.jin10.com/detail/20251231052550783800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时20分]"
         },
         {
           "title": "行业ETF美股盘初多数走低，可选消费ETF、生物科技指数ETF跌超0.4%，网络股指数ETF跌约0.3%，全球科技股指数ETF涨0.1%，半导体ETF涨超0.3%。",
@@ -134,57 +197,13 @@
           "time_info": "[01时21分 ~ 01时22分]"
         },
         {
-          "title": "（美股）费城金银指数收涨0.79%，报347.01点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨0.79%，报2469.28点，北京时间22:30美股开盘之前维持微幅下跌状态、之后“跳空”至2498.05点刷新日高又在极大程度上快速回吐这一波涨幅。 原材料指数跌0.17%，报228.42点。 金属与矿业指数跌0.29%，报217.41点。",
-          "url": "https://wallstreetcn.com/livenews/3028934",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "亚马逊：将为美国政府机构AI系统投资高达500亿美元",
-          "url": "https://wallstreetcn.com/livenews/3028930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收跌超1.1%，Meta涨1.1%",
-          "url": "https://wallstreetcn.com/livenews/3028929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "亚马逊将为美国政府机构AI系统投资高达500亿美元",
-          "url": "https://flash.jin10.com/detail/20251231052550783800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
           "title": "生物科技ETF收跌将近1.1%，领跌美股行业ETF，能源ETF涨约0.8%",
           "url": "https://wallstreetcn.com/livenews/3028922",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         }
@@ -192,7 +211,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "外交部回应特朗普涉中国军演言论",
@@ -202,8 +221,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 06时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 07时20分]"
         },
         {
           "title": "普京通知特朗普自己官邸遇袭，泽连斯基：完全的捏造",
@@ -213,8 +232,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 06时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 07时20分]"
         },
         {
           "title": "得知普京官邸遭袭，特朗普：我很生气！",
@@ -225,8 +244,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 06时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 07时20分]"
         },
         {
           "title": "特朗普：正考虑以“严重失职”为由起诉鲍威尔，1月或公布下任美联储主席人选",
@@ -245,22 +264,23 @@
           "url": "https://www.douyin.com/hot/2351614",
           "source": "抖音",
           "ranks": [
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 07时20分]"
         },
         {
-          "title": "美国上诉法院允许特朗普政府在22个州执行一项剥夺计划生育组织医疗补助资金的法律。",
-          "url": "https://flash.jin10.com/detail/20251231054352146800",
-          "source": "金十数据",
+          "title": "以色列总理内塔尼亚胡：希望与沙特及其他国家扩大亚伯拉罕协议。 伊朗正在新地点重建导弹能力。 如果哈马斯被解除武装，加沙可能出现新政府。 特朗普和我想要在西岸建设基础设施。 我认为伊朗需要特朗普的警告。",
+          "url": "https://wallstreetcn.com/livenews/3028961",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时21分"
+          "time_info": "07时20分"
         },
         {
           "title": "法官裁定：特朗普政府必须从美联储为CFPB申请资金",
@@ -287,6 +307,32 @@
           "time_info": "[00时28分 ~ 01时22分]"
         },
         {
+          "title": "美国上诉法院允许特朗普政府在22个州执行一项剥夺计划生育组织医疗补助资金的法律。",
+          "url": "https://flash.jin10.com/detail/20251231054352146800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时20分]"
+        },
+        {
+          "title": "外交部回应特朗普谈解放军军演",
+          "url": "https://www.douyin.com/hot/2352044",
+          "source": "抖音",
+          "ranks": [
+            23,
+            30,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时25分 ~ 07时20分]"
+        },
+        {
           "title": "希腊雅典证交所综合指数收跌0.13%，报2120.82点。 2025年以来，该国股市已经累计上涨超过44.30%，1-8月持续、相对平滑地上涨（特朗普关税威胁曾在4月份造成一波V型“插曲”），后续高位持稳——试探2010年（欧债危机期间）年初顶部。 年线上连续第五年走高——追平2007年所创最长年度连涨纪录。",
           "url": "https://wallstreetcn.com/livenews/3028855",
           "source": "华尔街见闻-快讯",
@@ -297,19 +343,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时21分 ~ 02时33分]"
-        },
-        {
-          "title": "外交部回应特朗普谈解放军军演",
-          "url": "https://www.douyin.com/hot/2352044",
-          "source": "抖音",
-          "ranks": [
-            23,
-            30,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时25分 ~ 06时21分]"
         },
         {
           "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
@@ -351,7 +384,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -370,7 +403,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美联储会议纪要发布后，美元指数涨幅重新扩大至将近0.2%，逼近北京时间23:44刷新的日高98.269点。 美国10年期国债收益率持稳于4.12%附近，维持大约1个基点的涨幅；两年期美债收益率持稳于3.4450%附近，保持微幅下挫状态。 2/10年期美债收益率利差维持大约1.4个基点的涨幅，持稳于+67个基点下方。",
@@ -420,6 +453,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时20分 ~ 06时21分]"
+        },
+        {
+          "title": "巴西圣保罗证交所指数收涨0.71%，报16.2万点，2025年累计上涨大约35%。 12月30日，巴西雷亚尔兑美元涨1.74%，报5.4753雷亚尔，2025年以来累计上涨11.31%。 巴西股市将于12月31日休市。",
+          "url": "https://wallstreetcn.com/livenews/3028943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         }
       ]
     },
