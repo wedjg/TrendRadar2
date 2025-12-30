@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T20:44:42.965641+08:00",
-  "total_titles_processed": 1711,
+  "generated_at": "2025-12-30T21:37:17.303669+08:00",
+  "total_titles_processed": 1753,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 106,
+      "match_count": 107,
       "titles": [
         {
           "title": "普京官邸遇袭，俄官员称特朗普感到“震惊和愤怒”",
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时44分 ~ 20时44分]"
+          "appearance_count": 13,
+          "time_info": "[09时44分 ~ 21时37分]"
         },
         {
           "title": "外交部回应特朗普涉中国军演言论",
@@ -51,8 +51,34 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时31分 ~ 20时44分]"
+          "appearance_count": 6,
+          "time_info": "[16时31分 ~ 21时37分]"
+        },
+        {
+          "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
+          "url": "https://wallstreetcn.com/articles/3762270",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时40分 ~ 21时37分]"
+        },
+        {
+          "title": "美对委境内发动军事打击，特朗普：他们装毒品的码头区不存在了",
+          "url": "https://news.ifeng.com/c/8pVTEbBDKdx",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时31分 ~ 21时37分]"
         },
         {
           "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
@@ -70,30 +96,18 @@
           "time_info": "[00时27分 ~ 11时29分]"
         },
         {
-          "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
-          "url": "https://wallstreetcn.com/articles/3762270",
-          "source": "华尔街见闻",
+          "title": "得知普京官邸遭袭，特朗普：我很生气！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32280626",
+          "source": "澎湃新闻",
           "ranks": [
+            12,
+            11,
             10,
-            9,
-            8,
-            7,
-            6
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时40分 ~ 20时44分]"
-        },
-        {
-          "title": "美对委境内发动军事打击，特朗普：他们装毒品的码头区不存在了",
-          "url": "https://news.ifeng.com/c/8pVTEbBDKdx",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时31分 ~ 20时44分]"
+          "appearance_count": 8,
+          "time_info": "[14时34分 ~ 21时37分]"
         },
         {
           "title": "普京称官邸遭袭 特朗普回应",
@@ -149,20 +163,6 @@
           "time_info": "[05时19分 ~ 05时20分]"
         },
         {
-          "title": "得知普京官邸遭袭，特朗普：我很生气！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32280626",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时34分 ~ 20时44分]"
-        },
-        {
           "title": "解放军封岛军演，特朗普表态",
           "url": "https://news.ifeng.com/c/8pV2xI6hHOn",
           "source": "凤凰网",
@@ -172,6 +172,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时28分 ~ 15时23分]"
+        },
+        {
+          "title": "特朗普称美对委进行首次陆地打击",
+          "url": "https://www.douyin.com/hot/2352186",
+          "source": "抖音",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 21时37分]"
         },
         {
           "title": "美国总统特朗普：我们对约旦河西岸定居者暴力问题的看法并不100%完全一致。",
@@ -282,18 +294,6 @@
           "time_info": "[03时18分 ~ 05时20分]"
         },
         {
-          "title": "特朗普称美对委进行首次陆地打击",
-          "url": "https://www.douyin.com/hot/2352186",
-          "source": "抖音",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 20时44分]"
-        },
-        {
           "title": "美国总统特朗普：以色列总理内塔尼亚胡有时较难相处。希望内塔尼亚胡与叙利亚保持友好关系。",
           "url": "https://flash.jin10.com/detail/20251230024226042800",
           "source": "金十数据",
@@ -380,6 +380,32 @@
           "time_info": "[00时27分 ~ 01时20分]"
         },
         {
+          "title": "特朗普称对中方此次军演不担忧，外交部回应",
+          "url": "https://www.cls.cn/detail/2244032",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时26分 ~ 21时37分]"
+        },
+        {
+          "title": "特朗普称不担心解放军绕台军演",
+          "url": "https://www.douyin.com/hot/2351614",
+          "source": "抖音",
+          "ranks": [
+            18,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时26分 ~ 21时37分]"
+        },
+        {
           "title": "特朗普回应解放军在台岛附近军演",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E8%A7%A3%E6%94%BE%E5%86%9B%E5%9C%A8%E5%8F%B0%E5%B2%9B%E9%99%84%E8%BF%91%E5%86%9B%E6%BC%94%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -390,6 +416,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时25分 ~ 14时34分]"
+        },
+        {
+          "title": "普京通知特朗普自己官邸遇袭，泽连斯基：完全的捏造",
+          "url": "https://news.ifeng.com/c/8pVTIAwBtvp",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 21时37分]"
         },
         {
           "title": "美国总统特朗普：近期与委内瑞拉总统马杜罗对话，但没什么效果。",
@@ -507,19 +544,6 @@
           "time_info": "[03时18分 ~ 05时20分]"
         },
         {
-          "title": "特朗普称对中方此次军演不担忧，外交部回应",
-          "url": "https://www.cls.cn/detail/2244032",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时26分 ~ 20时44分]"
-        },
-        {
           "title": "美国总统特朗普：我觉得，要是当初选错了总理的话，如今的以色列恐怕就不会存在了。我认为与内塔尼亚胡的关系已经达到了最佳状态。",
           "url": "https://flash.jin10.com/detail/20251230023701512800",
           "source": "金十数据",
@@ -609,18 +633,6 @@
           "time_info": "[02时31分 ~ 04时25分]"
         },
         {
-          "title": "特朗普称不担心解放军绕台军演",
-          "url": "https://www.douyin.com/hot/2351614",
-          "source": "抖音",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时26分 ~ 20时44分]"
-        },
-        {
           "title": "俄罗斯总统助理乌沙科夫：俄罗斯认为，特朗普和泽连斯基取得的一些成果，让乌克兰有逃避其义务的空间。",
           "url": "https://flash.jin10.com/detail/20251230001839745800",
           "source": "金十数据",
@@ -657,17 +669,6 @@
           "time_info": "[01时19分 ~ 02时32分]"
         },
         {
-          "title": "普京通知特朗普自己官邸遇袭，泽连斯基：完全的捏造",
-          "url": "https://news.ifeng.com/c/8pVTIAwBtvp",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 20时44分]"
-        },
-        {
           "title": "以色列总统办公室：自数周前提交对以色列总理内塔尼亚胡的赦免请求以来，以色列总统赫尔佐格与特朗普之间尚未进行任何对话。",
           "url": "https://flash.jin10.com/detail/20251230030257604800",
           "source": "金十数据",
@@ -678,6 +679,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时25分 ~ 05时20分]"
+        },
+        {
+          "title": "伊朗、哈马斯强硬回应特朗普威胁",
+          "url": "https://news.ifeng.com/c/8pVb0MnBjK8",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时20分 ~ 21时37分]"
         },
         {
           "title": "特朗普称不担心解放军绕台军演",
@@ -793,17 +805,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时31分 ~ 17时26分]"
-        },
-        {
-          "title": "伊朗、哈马斯强硬回应特朗普威胁",
-          "url": "https://news.ifeng.com/c/8pVb0MnBjK8",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 20时44分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：与美国总统特朗普的会晤非常富有成效。",
@@ -1244,6 +1245,17 @@
           "time_info": "00时27分"
         },
         {
+          "title": "特朗普贸易战关税全是美国百姓血汗钱",
+          "url": "https://www.toutiao.com/trending/7589536471321677353/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡进入海湖庄园会见特朗普。",
           "url": "https://flash.jin10.com/detail/20251230022413826800",
           "source": "金十数据",
@@ -1279,8 +1291,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时44分 ~ 20时44分]"
+          "appearance_count": 13,
+          "time_info": "[09时44分 ~ 21时37分]"
         },
         {
           "title": "美股指集体低开，纳指跌超0.7%，现货黄金单日跌超100美元，白银暴跌8%，伦铜逼近13000美元",
@@ -1319,6 +1331,20 @@
           "time_info": "[07时20分 ~ 12时40分]"
         },
         {
+          "title": "无人看空！华尔街一致预期2026美股继续涨，资深策略师对共识感到担忧",
+          "url": "https://wallstreetcn.com/articles/3762263",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时23分 ~ 21时37分]"
+        },
+        {
           "title": "美股收盘：三大股指齐跌 特斯拉跌超3%",
           "url": "https://flash.jin10.com/detail/20251230050055980800",
           "source": "金十数据",
@@ -1350,20 +1376,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时31分 ~ 02时32分]"
-        },
-        {
-          "title": "无人看空！华尔街一致预期2026美股继续涨，资深策略师对共识感到担忧",
-          "url": "https://wallstreetcn.com/articles/3762263",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时23分 ~ 20时44分]"
         },
         {
           "title": "“圣诞行情”暂歇，美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口",
