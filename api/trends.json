@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T14:34:52.131501+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2025-12-30T15:23:52.390572+08:00",
+  "total_titles_processed": 1264,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://news.ifeng.com/c/8pUyRCwSPET",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时44分 ~ 14时34分]"
+          "appearance_count": 7,
+          "time_info": "[09时44分 ~ 15时23分]"
         },
         {
           "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
@@ -43,6 +44,18 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时27分 ~ 11时29分]"
+        },
+        {
+          "title": "俄罗斯称乌91架无人机袭击普京官邸，泽连斯基否认，特朗普“很生气”",
+          "url": "https://wallstreetcn.com/articles/3762268",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时44分 ~ 15时23分]"
         },
         {
           "title": "美国总统特朗普：美东时间08:00已经与俄罗斯总统普京通电话。",
@@ -84,27 +97,15 @@
           "time_info": "[05时19分 ~ 05时20分]"
         },
         {
-          "title": "普京称官邸遭袭 特朗普回应",
-          "url": "https://www.douyin.com/hot/2351475",
-          "source": "抖音",
+          "title": "解放军封岛军演，特朗普表态",
+          "url": "https://news.ifeng.com/c/8pV2xI6hHOn",
+          "source": "凤凰网",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时25分 ~ 14时34分]"
-        },
-        {
-          "title": "俄罗斯称乌91架无人机袭击普京官邸，泽连斯基否认，特朗普“很生气”",
-          "url": "https://wallstreetcn.com/articles/3762268",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
             6
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时44分 ~ 14时34分]"
+          "time_info": "[11时28分 ~ 15时23分]"
         },
         {
           "title": "美国总统特朗普：我们对约旦河西岸定居者暴力问题的看法并不100%完全一致。",
@@ -176,17 +177,6 @@
           "time_info": "09时44分"
         },
         {
-          "title": "解放军封岛军演，特朗普表态",
-          "url": "https://news.ifeng.com/c/8pV2xI6hHOn",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时28分 ~ 14时34分]"
-        },
-        {
           "title": "美国总统特朗普：在与内塔尼亚胡的五分钟会面中，我们解决了三个问题。",
           "url": "https://flash.jin10.com/detail/20251230025252224800",
           "source": "金十数据",
@@ -224,6 +214,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时18分 ~ 05时20分]"
+        },
+        {
+          "title": "普京称官邸遭袭 特朗普回应",
+          "url": "https://www.douyin.com/hot/2351475",
+          "source": "抖音",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时25分 ~ 15时23分]"
         },
         {
           "title": "美国总统特朗普：以色列总理内塔尼亚胡有时较难相处。希望内塔尼亚胡与叙利亚保持友好关系。",
@@ -414,6 +416,18 @@
           "time_info": "[03时18分 ~ 05时20分]"
         },
         {
+          "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
+          "url": "https://wallstreetcn.com/articles/3762270",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时40分 ~ 15时23分]"
+        },
+        {
           "title": "得知普京官邸遭乌无人机袭击 特朗普“很生气”",
           "url": "https://wallstreetcn.com/livenews/3028316",
           "source": "华尔街见闻-快讯",
@@ -589,17 +603,6 @@
           "time_info": "[12时40分 ~ 14时34分]"
         },
         {
-          "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
-          "url": "https://wallstreetcn.com/articles/3762270",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时40分 ~ 14时34分]"
-        },
-        {
           "title": "美国联邦住房金融局（FHFA）局长、“反美联储先锋”Bill Pulte：总统特朗普总统说得对，杰罗姆·鲍威尔必须辞职。",
           "url": "https://wallstreetcn.com/livenews/3028340",
           "source": "华尔街见闻-快讯",
@@ -688,6 +691,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 05时20分]"
+        },
+        {
+          "title": "得知普京官邸遭袭，特朗普：我很生气！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32280626",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时34分 ~ 15时23分]"
         },
         {
           "title": "美国总统特朗普：我们将与内塔尼亚胡讨论五个主要议题。",
@@ -1040,17 +1055,6 @@
           "time_info": "12时40分"
         },
         {
-          "title": "得知普京官邸遭袭，特朗普：我很生气！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32280626",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时34分"
-        },
-        {
           "title": "伊朗最高领袖顾问回应特朗普威胁：任何侵略行为都将遭到严厉而迅速的回应",
           "url": "https://wallstreetcn.com/livenews/3028423",
           "source": "华尔街见闻-快讯",
@@ -1109,7 +1113,7 @@
     },
     {
       "keyword_group": "美股 微软 亚马逊 博通 台积电 AMD",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股指集体低开，纳指跌超0.7%，现货黄金单日跌超100美元，白银暴跌8%，伦铜逼近13000美元",
@@ -1130,8 +1134,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时44分 ~ 14时34分]"
+          "appearance_count": 7,
+          "time_info": "[09时44分 ~ 15时23分]"
         },
         {
           "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
@@ -1246,6 +1250,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 06时21分]"
+        },
+        {
+          "title": "无人看空！华尔街一致预期2026美股继续涨，资深策略师对共识感到担忧",
+          "url": "https://wallstreetcn.com/articles/3762263",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         }
       ]
     },
@@ -1275,8 +1290,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 14时34分]"
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 15时23分]"
         }
       ]
     },
