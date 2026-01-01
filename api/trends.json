@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T06:21:35.681025+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-01-02T07:21:30.240142+08:00",
+  "total_titles_processed": 476,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 06时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 07时21分]"
         },
         {
           "title": "美国缩减对意大利面关税，意大利称特朗普时期政策回调",
@@ -27,11 +27,12 @@
             8,
             10,
             12,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时20分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 07时21分]"
         },
         {
           "title": "白宫：特朗普总统已签署一项行政命令，修改对进口到美国的木材、木料及其衍生产品的关税。",
@@ -56,11 +57,26 @@
           "ranks": [
             3,
             7,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时25分 ~ 06时21分]"
+          "appearance_count": 4,
+          "time_info": "[04时25分 ~ 07时21分]"
+        },
+        {
+          "title": "报告：若俄乌冲突结束，特朗普或将加大力度与俄罗斯建立对话",
+          "url": "https://flash.jin10.com/detail/20260102030004557800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            11,
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时25分 ~ 07时21分]"
         },
         {
           "title": "美媒：特朗普每日服用阿司匹林剂量超出医嘱范围",
@@ -74,19 +90,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时28分 ~ 02时31分]"
-        },
-        {
-          "title": "报告：若俄乌冲突结束，特朗普或将加大力度与俄罗斯建立对话",
-          "url": "https://flash.jin10.com/detail/20260102030004557800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时25分 ~ 06时21分]"
         },
         {
           "title": "特朗普行使连任后首次否决权，拒绝资助美国科罗拉多州与佛罗里达州基建项目",
@@ -115,8 +118,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 06时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 07时21分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -131,8 +134,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 06时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 07时21分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -143,8 +146,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 06时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 07时21分]"
         }
       ]
     },
@@ -200,7 +203,7 @@
     },
     {
       "keyword_group": "美股 微软 亚马逊 博通 台积电 AMD",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
@@ -210,8 +213,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 06时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 07时21分]"
         },
         {
           "title": "台积电量产的2纳米芯片是什么原理",
@@ -225,6 +228,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时28分 ~ 06时21分]"
+        },
+        {
+          "title": "美股三大股指期货周五开盘微涨。",
+          "url": "https://flash.jin10.com/detail/20260102070027378800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         }
       ]
     }
