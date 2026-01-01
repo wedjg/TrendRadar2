@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T02:31:42.611938+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-01-02T03:18:17.586582+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时18分]"
         },
         {
           "title": "白宫：特朗普总统已签署一项行政命令，修改对进口到美国的木材、木料及其衍生产品的关税。",
@@ -24,11 +24,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 02时31分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 03时18分]"
         },
         {
           "title": "美国缩减对意大利面关税，意大利称特朗普时期政策回调",
@@ -36,11 +37,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 02时31分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 03时18分]"
         },
         {
           "title": "美媒：特朗普每日服用阿司匹林剂量超出医嘱范围",
@@ -81,8 +83,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时18分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -91,11 +93,12 @@
           "ranks": [
             20,
             17,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时18分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -106,8 +109,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 03时18分]"
         }
       ]
     },
@@ -122,11 +125,12 @@
           "ranks": [
             8,
             20,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时18分]"
         },
         {
           "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
@@ -135,11 +139,12 @@
           "ranks": [
             8,
             12,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时18分]"
         },
         {
           "title": "据The Information：OpenAI采取措施改进语音AI模型。",
@@ -148,11 +153,12 @@
           "ranks": [
             9,
             21,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时18分]"
         }
       ]
     },
@@ -170,8 +176,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时18分]"
         },
         {
           "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
@@ -181,8 +187,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时18分]"
         }
       ]
     }
