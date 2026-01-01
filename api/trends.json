@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T01:21:14.728534+08:00",
-  "total_titles_processed": 359,
+  "generated_at": "2026-01-02T02:31:42.611938+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 02时31分]"
         },
         {
           "title": "白宫：特朗普总统已签署一项行政命令，修改对进口到美国的木材、木料及其衍生产品的关税。",
           "url": "https://flash.jin10.com/detail/20260102011611465800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 02时31分]"
         },
         {
           "title": "美国缩减对意大利面关税，意大利称特朗普时期政策回调",
           "url": "https://wallstreetcn.com/livenews/3029639",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 02时31分]"
         },
         {
           "title": "美媒：特朗普每日服用阿司匹林剂量超出医嘱范围",
@@ -46,11 +48,12 @@
           "source": "金十数据",
           "ranks": [
             11,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 02时31分]"
         },
         {
           "title": "特朗普行使连任后首次否决权，拒绝资助美国科罗拉多州与佛罗里达州基建项目",
@@ -78,8 +81,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 02时31分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -87,11 +90,12 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 02时31分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -102,8 +106,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时31分]"
         }
       ]
     },
@@ -117,11 +121,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 02时31分]"
         },
         {
           "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
@@ -129,11 +134,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 02时31分]"
         },
         {
           "title": "据The Information：OpenAI采取措施改进语音AI模型。",
@@ -141,11 +147,12 @@
           "source": "金十数据",
           "ranks": [
             9,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 02时31分]"
         }
       ]
     },
@@ -154,6 +161,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "台积电量产的2纳米芯片是什么原理",
+          "url": "https://www.toutiao.com/trending/7590360699793051177/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 02时31分]"
+        },
+        {
           "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
           "url": "https://www.cls.cn/detail/2246008",
           "source": "财联社热门",
@@ -161,20 +181,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时21分]"
-        },
-        {
-          "title": "台积电量产的2纳米芯片是什么原理",
-          "url": "https://www.toutiao.com/trending/7590360699793051177/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 02时31分]"
         }
       ]
     }
