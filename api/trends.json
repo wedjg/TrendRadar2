@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T21:34:50.400082+08:00",
-  "total_titles_processed": 1462,
+  "generated_at": "2026-01-01T22:21:01.346138+08:00",
+  "total_titles_processed": 1521,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普：将从芝加哥、洛杉矶和波特兰撤走国民警卫队",
@@ -33,6 +33,31 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时17分 ~ 07时21分]"
+        },
+        {
+          "title": "决定从三个城市撤走国民警卫队，特朗普政策反复为哪般？",
+          "url": "https://news.ifeng.com/c/8pZG8Eef0SN",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 22时21分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-01）",
+          "url": "https://flash.jin10.com/detail/20260101184638613800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            15,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时19分 ~ 22时21分]"
         },
         {
           "title": "美国总统特朗普宣布：从芝加哥、洛杉矶、波特兰撤走国民警卫队。",
@@ -82,19 +107,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时19分 ~ 03时17分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-01）",
-          "url": "https://flash.jin10.com/detail/20260101184638613800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时19分 ~ 21时34分]"
         },
         {
           "title": "美国总统特朗普引用《纽约邮报》的文章在Truth Social上发文称，普京关于“攻击”的强硬言论表明，俄罗斯是和平进程的主要阻碍方。",
@@ -256,8 +268,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时54分 ~ 21时34分]"
+          "appearance_count": 15,
+          "time_info": "[09时54分 ~ 22时21分]"
         },
         {
           "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
@@ -419,8 +431,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时24分 ~ 21时34分]"
+          "appearance_count": 6,
+          "time_info": "[18时24分 ~ 22时21分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文 开启架构新篇章",
@@ -431,11 +443,24 @@
             7,
             11,
             21,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时26分 ~ 21时34分]"
+          "appearance_count": 7,
+          "time_info": "[17时26分 ~ 22时21分]"
+        },
+        {
+          "title": "DeepSeek开年发布新论文",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%BC%80%E5%B9%B4%E5%8F%91%E5%B8%83%E6%96%B0%E8%AE%BA%E6%96%87",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时34分 ~ 22时21分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文：提出mHC新架构 提升大模型训练稳定性",
@@ -468,22 +493,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E5%8F%88%E5%8F%91%E8%AE%BA%E6%96%87%E4%BA%86",
           "source": "bilibili 热搜",
           "ranks": [
-            14
+            14,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时34分"
-        },
-        {
-          "title": "DeepSeek开年发布新论文",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%BC%80%E5%B9%B4%E5%8F%91%E5%B8%83%E6%96%B0%E8%AE%BA%E6%96%87",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 22时21分]"
         }
       ]
     },
