@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T12:49:44.447715+08:00",
-  "total_titles_processed": 957,
+  "generated_at": "2026-01-01T13:28:46.864075+08:00",
+  "total_titles_processed": 1002,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时54分 ~ 12时49分]"
+          "appearance_count": 4,
+          "time_info": "[09时54分 ~ 13时28分]"
         },
         {
           "title": "中方回应特朗普涉东部战区军演言论",
@@ -58,6 +58,19 @@
           "time_info": "[06时21分 ~ 07时21分]"
         },
         {
+          "title": "迫于物价压力 特朗普推迟对家具及橱柜加征关税至2027年",
+          "url": "https://flash.jin10.com/detail/20260101113737125800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时51分 ~ 13时28分]"
+        },
+        {
           "title": "特朗普称“凯旋门”将于两个月内开建",
           "url": "https://flash.jin10.com/detail/20260101010133280800",
           "source": "金十数据",
@@ -69,18 +82,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时19分 ~ 03时17分]"
-        },
-        {
-          "title": "迫于物价压力 特朗普推迟对家具及橱柜加征关税至2027年",
-          "url": "https://flash.jin10.com/detail/20260101113737125800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 12时49分]"
         },
         {
           "title": "美国总统特朗普引用《纽约邮报》的文章在Truth Social上发文称，普京关于“攻击”的强硬言论表明，俄罗斯是和平进程的主要阻碍方。",
@@ -244,6 +245,18 @@
           "time_info": "[00时27分 ~ 07时21分]"
         },
         {
+          "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
+          "url": "https://www.cls.cn/detail/2246008",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时54分 ~ 13时28分]"
+        },
+        {
           "title": "金十图示：2025年12月31日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260101050538351800",
           "source": "金十数据",
@@ -280,18 +293,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时31分 ~ 04时24分]"
-        },
-        {
-          "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
-          "url": "https://www.cls.cn/detail/2246008",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时54分 ~ 12时49分]"
         },
         {
           "title": "金十图示：2025年12月31日（周三）热门中概股行情一览（美股收盘）",
@@ -399,6 +400,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "英伟达再曝30亿收购计划",
+          "url": "https://www.douyin.com/hot/2353030",
+          "source": "抖音",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时51分 ~ 13时28分]"
+        },
+        {
           "title": "报道：英伟达正投资布鲁克菲尔德AI基础设施基金",
           "url": "https://wallstreetcn.com/livenews/3029406",
           "source": "华尔街见闻-快讯",
@@ -408,18 +421,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 00时28分]"
-        },
-        {
-          "title": "英伟达再曝30亿收购计划",
-          "url": "https://www.douyin.com/hot/2353030",
-          "source": "抖音",
-          "ranks": [
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 12时49分]"
         }
       ]
     },
@@ -436,8 +437,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时54分 ~ 12时49分]"
+          "appearance_count": 4,
+          "time_info": "[09时54分 ~ 13时28分]"
         }
       ]
     },
