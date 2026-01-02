@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T18:22:47.701988+08:00",
-  "total_titles_processed": 1262,
+  "generated_at": "2026-01-02T19:19:57.197470+08:00",
+  "total_titles_processed": 1335,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "决定从三个城市撤走国民警卫队，特朗普政策反复为哪般？",
@@ -49,6 +49,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时20分 ~ 06时21分]"
+        },
+        {
+          "title": "高市早苗与特朗普可能最早在周五晚间通话。（共同社）",
+          "url": "https://wallstreetcn.com/livenews/3029817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "特朗普：10月份体检时进行的是CT扫描而非核磁共振",
@@ -104,6 +115,19 @@
           "time_info": "[00时28分 ~ 02时31分]"
         },
         {
+          "title": "唐驳虎：特朗普发现“弹药”不够用了",
+          "url": "https://www.toutiao.com/trending/7590682268167835155/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时25分 ~ 19时19分]"
+        },
+        {
           "title": "特朗普承认服用阿司匹林",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E6%9C%8D%E7%94%A8%E9%98%BF%E5%8F%B8%E5%8C%B9%E6%9E%97%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -118,18 +142,6 @@
           "time_info": "[15时24分 ~ 18时22分]"
         },
         {
-          "title": "唐驳虎：特朗普发现“弹药”不够用了",
-          "url": "https://www.toutiao.com/trending/7590682268167835155/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时25分 ~ 18时22分]"
-        },
-        {
           "title": "特朗普行使连任后首次否决权，拒绝资助美国科罗拉多州与佛罗里达州基建项目",
           "url": "https://wallstreetcn.com/livenews/3029637",
           "source": "华尔街见闻-快讯",
@@ -140,6 +152,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时28分 ~ 01时21分]"
+        },
+        {
+          "title": "特朗普回应健康质疑：手背瘀青只因服用阿司匹林，打瞌睡是在“放松”",
+          "url": "https://wallstreetcn.com/livenews/3029800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 19时19分]"
+        },
+        {
+          "title": "特朗普称将就伊朗骚乱事件进行干涉",
+          "url": "https://wallstreetcn.com/livenews/3029799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 19时19分]"
         },
         {
           "title": "特朗普承认手上瘀伤是服用药物造成",
@@ -165,26 +201,15 @@
           "time_info": "09时45分"
         },
         {
-          "title": "特朗普回应健康质疑：手背瘀青只因服用阿司匹林，打瞌睡是在“放松”",
-          "url": "https://wallstreetcn.com/livenews/3029800",
-          "source": "华尔街见闻-快讯",
+          "title": "据日本共同社：日本首相高市早苗与美国总统特朗普最早可能于周五晚间通话。",
+          "url": "https://flash.jin10.com/detail/20260102184342452800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "特朗普称将就伊朗骚乱事件进行干涉",
-          "url": "https://wallstreetcn.com/livenews/3029799",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
+          "time_info": "19时19分"
         },
         {
           "title": "美国总统特朗普：如果伊朗开枪并暴力杀害和平抗议者，美利坚合众国将向他们提供援助。我们已严阵以待，蓄势待发。",
@@ -196,6 +221,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-02）",
+          "url": "https://flash.jin10.com/detail/20260102183706260800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "马杜罗证实曾与特朗普通话10分钟，重申“要和平不要战争”",
@@ -220,6 +256,17 @@
           "time_info": "09时45分"
         },
         {
+          "title": "特朗普的“和平”为何总是显得脆弱",
+          "url": "https://www.toutiao.com/trending/7590664118328102443/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
           "title": "特朗普的关税大棒挥不下去了吗",
           "url": "https://www.toutiao.com/trending/7590646791305956874/",
           "source": "今日头条",
@@ -234,7 +281,7 @@
     },
     {
       "keyword_group": "美股 微软 亚马逊 博通 台积电 AMD",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
@@ -247,8 +294,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时28分 ~ 18时22分]"
+          "appearance_count": 20,
+          "time_info": "[00时28分 ~ 19时19分]"
         },
         {
           "title": "台积电量产的2纳米芯片是什么原理",
@@ -264,6 +311,20 @@
           "time_info": "[00时28分 ~ 06时21分]"
         },
         {
+          "title": "美股盘前，中概股大涨，百度涨约12%",
+          "url": "https://wallstreetcn.com/livenews/3029794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            4,
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时25分 ~ 19时19分]"
+        },
+        {
           "title": "美股三大股指期货周五开盘微涨。",
           "url": "https://flash.jin10.com/detail/20260102070027378800",
           "source": "金十数据",
@@ -273,19 +334,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
-        },
-        {
-          "title": "美股盘前，中概股大涨，百度涨约12%",
-          "url": "https://wallstreetcn.com/livenews/3029794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时25分 ~ 18时22分]"
         },
         {
           "title": "美股期货上涨，纳斯达克指数期货上涨0.58%，标普500指数期货上涨0.39%。",
@@ -338,13 +386,24 @@
           "time_info": "[17时25分 ~ 17时26分]"
         },
         {
+          "title": "美股黄金股盘前上涨，泛美白银涨约4%，科尔黛伦矿业涨约5%，AngloGold Ashanti涨约3%。",
+          "url": "https://wallstreetcn.com/livenews/3029811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
           "title": "美股热门中概股盘前普涨，网易(NTES.O)涨6.1%，蔚来汽车(NIO.N)涨5.5%，阿里巴巴(BABA.N)涨4.13%，理想汽车(LI.O)涨近3%，京东(JD.O)、台积电(TSM.N)、拼多多(PDD.O)涨超2%。",
           "url": "https://flash.jin10.com/detail/20260102172348617800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         }
@@ -375,11 +434,12 @@
             2,
             3,
             12,
-            29
+            29,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时41分 ~ 18时22分]"
+          "appearance_count": 9,
+          "time_info": "[11时41分 ~ 19时19分]"
         },
         {
           "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
@@ -408,8 +468,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 18时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 19时19分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -464,6 +524,18 @@
           "time_info": "[00时28分 ~ 03时18分]"
         },
         {
+          "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
+          "url": "https://wallstreetcn.com/articles/3762439",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时31分 ~ 19时19分]"
+        },
+        {
           "title": "据The Information：OpenAI采取措施改进语音AI模型。",
           "url": "https://flash.jin10.com/detail/20260101230736481800",
           "source": "金十数据",
@@ -478,18 +550,6 @@
           "time_info": "[00时28分 ~ 03时18分]"
         },
         {
-          "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
-          "url": "https://wallstreetcn.com/articles/3762439",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时31分 ~ 18时22分]"
-        },
-        {
           "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
           "url": "https://wallstreetcn.com/articles/3762451",
           "source": "华尔街见闻",
@@ -498,8 +558,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时25分 ~ 18时22分]"
+          "appearance_count": 4,
+          "time_info": "[17时25分 ~ 19时19分]"
         }
       ]
     },
