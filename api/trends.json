@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-04T21:32:07.660701+08:00",
-  "total_titles_processed": 1493,
+  "generated_at": "2026-01-04T22:19:44.963239+08:00",
+  "total_titles_processed": 1537,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 178,
+      "match_count": 179,
       "titles": [
         {
           "title": "特朗普称抓获马杜罗及其夫人并带离委内瑞拉",
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时54分 ~ 21时32分]"
+          "appearance_count": 20,
+          "time_info": "[09时54分 ~ 22时19分]"
         },
         {
           "title": "特朗普威胁古巴、哥伦比亚",
@@ -52,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时54分 ~ 21时32分]"
+          "appearance_count": 20,
+          "time_info": "[09时54分 ~ 22时19分]"
         },
         {
           "title": "上周六新建账号、本周五下注“马杜罗被抓”、周日爆赚1242%--Polymarket又见“特朗普内幕交易”？",
@@ -65,8 +65,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时22分 ~ 21时32分]"
+          "appearance_count": 13,
+          "time_info": "[15时22分 ~ 22时19分]"
         },
         {
           "title": "特朗普：美国将接管委内瑞拉事务",
@@ -102,8 +102,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时33分 ~ 21时32分]"
+          "appearance_count": 13,
+          "time_info": "[14时33分 ~ 22时19分]"
         },
         {
           "title": "特朗普举行发布会公布行动细节",
@@ -132,6 +132,21 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时26分 ~ 16时28分]"
+        },
+        {
+          "title": "特朗普：将让美大型石油公司进入委内瑞拉，不排除二次打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32307985",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            15,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[17时20分 ~ 22时19分]"
         },
         {
           "title": "美媒称特朗普下令打击委内瑞拉，马杜罗宣布国家紧急状态",
@@ -175,11 +190,12 @@
             23,
             19,
             27,
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[02时30分 ~ 21时32分]"
+          "appearance_count": 19,
+          "time_info": "[02时30分 ~ 22时19分]"
         },
         {
           "title": "高市早苗准备到美国求特朗普撑腰，但日本可能被移出发达国家行列",
@@ -189,8 +205,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时51分 ~ 21时32分]"
+          "appearance_count": 19,
+          "time_info": "[11时51分 ~ 22时19分]"
         },
         {
           "title": "特朗普称已抓获委内瑞拉总统",
@@ -213,20 +229,6 @@
           "time_info": "[00时26分 ~ 17时21分]"
         },
         {
-          "title": "特朗普：将让美大型石油公司进入委内瑞拉，不排除二次打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32307985",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时20分 ~ 21时32分]"
-        },
-        {
           "title": "特朗普威胁古巴哥伦比亚",
           "url": "https://www.douyin.com/hot/2356597",
           "source": "抖音",
@@ -240,8 +242,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时52分 ~ 21时32分]"
+          "appearance_count": 12,
+          "time_info": "[11时52分 ~ 22时19分]"
         },
         {
           "title": "美官员称特朗普下令对委内瑞拉境内目标实施打击",
@@ -271,8 +273,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[02时30分 ~ 21时32分]"
+          "appearance_count": 17,
+          "time_info": "[02时30分 ~ 22时19分]"
         },
         {
           "title": "特朗普警告哥伦比亚总统“小心点”",
@@ -523,6 +525,23 @@
           "time_info": "[00时26分 ~ 07时20分]"
         },
         {
+          "title": "特朗普透露夜袭细节",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%8F%E9%9C%B2%E5%A4%9C%E8%A2%AD%E7%BB%86%E8%8A%82",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            27,
+            24,
+            23,
+            25,
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时52分 ~ 22时19分]"
+        },
+        {
           "title": "美媒：特朗普政府对委军事行动激怒民主党人，多名议员提议罢免特朗普",
           "url": "https://wallstreetcn.com/livenews/3030203",
           "source": "华尔街见闻-快讯",
@@ -637,22 +656,6 @@
           "time_info": "[01时18分 ~ 07时20分]"
         },
         {
-          "title": "特朗普透露夜袭细节",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%8F%E9%9C%B2%E5%A4%9C%E8%A2%AD%E7%BB%86%E8%8A%82",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            27,
-            24,
-            23,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时52分 ~ 19时18分]"
-        },
-        {
           "title": "美媒：特朗普几天前就已批准美军在委内瑞拉实施地面打击行动",
           "url": "https://news.ifeng.com/c/8pcEQ5y0CPJ",
           "source": "凤凰网",
@@ -662,17 +665,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 01时18分]"
-        },
-        {
-          "title": "特朗普政府要求美国石油公司投资委内瑞拉",
-          "url": "https://flash.jin10.com/detail/20260104204048321800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时31分 ~ 21时32分]"
         },
         {
           "title": "行动细节公布 将组团队管理委内瑞拉 特朗普发布会内容速览",
@@ -922,6 +914,18 @@
           "time_info": "[02时29分 ~ 03时16分]"
         },
         {
+          "title": "特朗普政府要求美国石油公司投资委内瑞拉",
+          "url": "https://flash.jin10.com/detail/20260104204048321800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时31分 ~ 22时19分]"
+        },
+        {
           "title": "特朗普：美国将组建一个团队管理委内瑞拉",
           "url": "https://wallstreetcn.com/livenews/3030164",
           "source": "华尔街见闻-快讯",
@@ -1031,6 +1035,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时29分 ~ 05时19分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-04）",
+          "url": "https://flash.jin10.com/detail/20260104184157171800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时40分 ~ 22时19分]"
         },
         {
           "title": "美国总统特朗普：国会山存在泄密的倾向性。",
@@ -1162,18 +1179,6 @@
           "time_info": "[09时54分 ~ 12时50分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-04）",
-          "url": "https://flash.jin10.com/detail/20260104184157171800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时40分 ~ 21时32分]"
-        },
-        {
           "title": "特朗普警告哥伦比亚总统小心点",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E6%80%BB%E7%BB%9F%E5%B0%8F%E5%BF%83%E7%82%B9%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -1249,6 +1254,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时18分 ~ 02时30分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡谈及委内瑞拉局势，表示以色列政府支持美国“恢复自由与正义”的决定与行动，对特朗普的决定表示祝贺，并向执行行动的美军致意。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3030327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时31分 ~ 22时19分]"
         },
         {
           "title": "特朗普称美在西半球地位再不会被质疑",
@@ -1336,6 +1353,18 @@
           "time_info": "[01时18分 ~ 02时30分]"
         },
         {
+          "title": "特朗普政府要求美国石油公司投资委内瑞拉，业内对此态度审慎",
+          "url": "https://wallstreetcn.com/livenews/3030325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时31分 ~ 22时19分]"
+        },
+        {
           "title": "美国总统特朗普：我曾告诉马杜罗必须投降，现在他后悔没听我的。",
           "url": "https://flash.jin10.com/detail/20260104013218948800",
           "source": "金十数据",
@@ -1406,6 +1435,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时29分 ~ 03时16分]"
+        },
+        {
+          "title": "特朗普称马杜罗夫妇在美军舰上",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32307753",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时31分 ~ 22时19分]"
         },
         {
           "title": "美国总统特朗普：委内瑞拉无人可接管政权。",
@@ -1492,17 +1533,6 @@
           "time_info": "[02时29分 ~ 03时16分]"
         },
         {
-          "title": "以色列总理内塔尼亚胡谈及委内瑞拉局势，表示以色列政府支持美国“恢复自由与正义”的决定与行动，对特朗普的决定表示祝贺，并向执行行动的美军致意。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3030327",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时31分 ~ 21时32分]"
-        },
-        {
           "title": "特朗普称马杜罗在美军舰上 不排除第二波打击",
           "url": "https://flash.jin10.com/detail/20260103235421698800",
           "source": "金十数据",
@@ -1525,17 +1555,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 01时18分]"
-        },
-        {
-          "title": "特朗普政府要求美国石油公司投资委内瑞拉，业内对此态度审慎",
-          "url": "https://wallstreetcn.com/livenews/3030325",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时31分 ~ 21时32分]"
         },
         {
           "title": "美国总统特朗普将于十分钟后在海湖庄园举行新闻发布会。",
@@ -1608,15 +1627,15 @@
           "time_info": "[06时20分 ~ 07时20分]"
         },
         {
-          "title": "特朗普称马杜罗夫妇在美军舰上",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32307753",
-          "source": "澎湃新闻",
+          "title": "特朗普在抓捕马杜罗发布会上称已超越门罗主义，升级为唐罗主义，这反映了怎样的政策转向？核心主张是什么？",
+          "url": "https://www.zhihu.com/question/1991082437355201732",
+          "source": "知乎",
           "ranks": [
-            18
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时31分 ~ 21时32分]"
+          "time_info": "[21时32分 ~ 22时19分]"
         },
         {
           "title": "特朗普：马查多领导委内瑞拉没戏",
@@ -1949,6 +1968,17 @@
           "time_info": "01时18分"
         },
         {
+          "title": "专访｜孙岩峰：特朗普为何定要“拔掉委内瑞拉这颗钉子”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32311229",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "美国总统特朗普：由于我们拥有的某种专业知识，委内瑞拉首都加拉加斯的灯光熄灭了。",
           "url": "https://flash.jin10.com/detail/20260104004302388800",
           "source": "金十数据",
@@ -2057,17 +2087,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
-        },
-        {
-          "title": "特朗普在抓捕马杜罗发布会上称已超越门罗主义，升级为唐罗主义，这反映了怎样的政策转向？核心主张是什么？",
-          "url": "https://www.zhihu.com/question/1991082437355201732",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
         },
         {
           "title": "金十提示：美国总统特朗普关于委内瑞拉行动的新闻发布会开始。",
