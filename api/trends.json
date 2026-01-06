@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-07T03:18:39.404967+08:00",
-  "total_titles_processed": 519,
+  "generated_at": "2026-01-07T04:25:18.290730+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 35,
       "titles": [
-        {
-          "title": "美国参议院Rick Scott：已经与委内瑞拉反对派人物马里亚·科里纳·马查多（María Corina Machado）对话。 Machado感谢总统特朗普对委总统马杜罗采取的行动。",
-          "url": "https://wallstreetcn.com/livenews/3031862",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 03时18分]"
-        },
         {
           "title": "特朗普不到1年对7国动武",
           "url": "https://www.toutiao.com/trending/7591141159599276095/",
@@ -26,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时25分]"
         },
         {
           "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
@@ -37,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时25分]"
         },
         {
           "title": "曝特朗普对委动手前曾暗示油企高管",
@@ -54,6 +43,29 @@
           "time_info": "[00时30分 ~ 03时18分]"
         },
         {
+          "title": "美国参议院Rick Scott：已经与委内瑞拉反对派人物马里亚·科里纳·马查多（María Corina Machado）对话。 Machado感谢总统特朗普对委总统马杜罗采取的行动。",
+          "url": "https://wallstreetcn.com/livenews/3031862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时17分 ~ 04时25分]"
+        },
+        {
+          "title": "特朗普支持格陵兰岛独立",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E7%8B%AC%E7%AB%8B%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
           "title": "美国总统特朗普再次批评国防承包商，称：将与承包商们对话。",
           "url": "https://wallstreetcn.com/livenews/3031788",
           "source": "华尔街见闻-快讯",
@@ -64,6 +76,41 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时30分 ~ 01时24分]"
+        },
+        {
+          "title": "2025年巴西出口创历史新高，摆脱特朗普关税影响",
+          "url": "https://wallstreetcn.com/livenews/3031868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "哥伦比亚就特朗普言论向美国发出外交照会",
+          "url": "https://wallstreetcn.com/livenews/3031852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时17分 ~ 04时25分]"
+        },
+        {
+          "title": "美国总统特朗普的特使Witkoff：在乌克兰安全担保框架方面取得进展。 美方将在今明两天继续与乌克兰磋商。",
+          "url": "https://wallstreetcn.com/livenews/3031851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时17分 ~ 04时25分]"
         },
         {
           "title": "特朗普向多个国家发出威胁",
@@ -83,28 +130,6 @@
           "source": "金十数据",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 03时18分]"
-        },
-        {
-          "title": "哥伦比亚就特朗普言论向美国发出外交照会",
-          "url": "https://wallstreetcn.com/livenews/3031852",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 03时18分]"
-        },
-        {
-          "title": "美国总统特朗普的特使Witkoff：在乌克兰安全担保框架方面取得进展。 美方将在今明两天继续与乌克兰磋商。",
-          "url": "https://wallstreetcn.com/livenews/3031851",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -254,6 +279,28 @@
           "time_info": "02时33分"
         },
         {
+          "title": "美国特使威特科夫：特朗普坚决支持安全协议，这些协议将用于抵御任何针对乌克兰的攻击，并保护乌克兰。",
+          "url": "https://flash.jin10.com/detail/20260107032038128800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美国特使威特科夫：相信我们终将迎来最终和平。特朗普不会背弃他的承诺。",
+          "url": "https://flash.jin10.com/detail/20260107031925365800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
           "title": "特朗普称将与石油公司和保险公司举行会谈",
           "url": "https://wallstreetcn.com/livenews/3031790",
           "source": "华尔街见闻-快讯",
@@ -309,6 +356,39 @@
           "time_info": "01时24分"
         },
         {
+          "title": "特朗普女婿库什纳：特朗普和泽连斯基在海湖庄园解决了安全保障问题。",
+          "url": "https://flash.jin10.com/detail/20260107031132290800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "特朗普女婿库什纳：特朗普对安全保障感到满意。",
+          "url": "https://flash.jin10.com/detail/20260107031127205800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美国总统特朗普的女婿库什纳谈乌克兰安全保障：今天是一个非常重要的里程碑。",
+          "url": "https://flash.jin10.com/detail/20260107031034403800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
           "title": "特朗普政策影响下，大众和奥迪在美销量暴跌",
           "url": "https://flash.jin10.com/detail/20260107013000574800",
           "source": "金十数据",
@@ -323,7 +403,7 @@
     },
     {
       "keyword_group": "英伟达 NVIDIA NVDA H200",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "英伟达发布新一代Rubin平台，推理成本较Blackwell降10倍，已全面投产拟下半年发货",
@@ -333,8 +413,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时25分]"
+        },
+        {
+          "title": "英伟达做了个FSD？马斯克淡定回应：我不会为此失眠",
+          "url": "https://wallstreetcn.com/articles/3762641",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时25分]"
         },
         {
           "title": "英伟达(NVDA.O)首席财务官：已与客户就2027年数据中心展开“讨论”。",
@@ -359,15 +450,15 @@
           "time_info": "[00时30分 ~ 00时31分]"
         },
         {
-          "title": "英伟达做了个FSD？马斯克淡定回应：我不会为此失眠",
-          "url": "https://wallstreetcn.com/articles/3762641",
-          "source": "华尔街见闻",
+          "title": "XAI：本轮融资的战略投资者包括英伟达(NVDA.O)和思科投资。",
+          "url": "https://flash.jin10.com/detail/20260107040236649800",
+          "source": "金十数据",
           "ranks": [
-            9
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
           "title": "环球音乐集团（UMG）与英伟达围绕AI音乐创作、探索构建合作伙伴关系。",
@@ -382,6 +473,17 @@
           "time_info": "[00时30分 ~ 01时24分]"
         },
         {
+          "title": "市场消息：英伟达CEO黄仁勋称H200芯片生产“正在顺畅推进”。",
+          "url": "https://flash.jin10.com/detail/20260107035407196800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
           "title": "英伟达发布DLSS 4.5",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%8F%91%E5%B8%83DLSS%204.5",
           "source": "bilibili 热搜",
@@ -389,52 +491,56 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时25分]"
         },
         {
           "title": "英伟达CEO黄仁勋：公司在Groq（技术许可）协议中聘请（对方的）工程师。",
           "url": "https://wallstreetcn.com/livenews/3031850",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 03时18分]"
+          "appearance_count": 3,
+          "time_info": "[03时17分 ~ 04时25分]"
         },
         {
           "title": "英伟达CEO黄仁勋：中国客户需求强劲。",
           "url": "https://wallstreetcn.com/livenews/3031847",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 03时18分]"
+          "appearance_count": 3,
+          "time_info": "[03时17分 ~ 04时25分]"
         },
         {
           "title": "英伟达跌0.34%，刷新日低至187.30美元，该公司CEO黄仁勋正在讲话。",
           "url": "https://wallstreetcn.com/livenews/3031846",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 03时18分]"
+          "appearance_count": 3,
+          "time_info": "[03时17分 ~ 04时25分]"
         },
         {
           "title": "英伟达CEO黄仁勋：新款芯片的性能比上一代高出10倍。 希望我们能拥有更多能源。 我们不得不投资所有类型的能源。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3031845",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 03时18分]"
+          "appearance_count": 3,
+          "time_info": "[03时17分 ~ 04时25分]"
         },
         {
           "title": "环球音乐与英伟达合作开展人工智能音乐创作与研究。",
@@ -539,8 +645,33 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时25分]"
+        },
+        {
+          "title": "美股指涨跌互现，纳指涨0.3%，闪迪股价创新高，全球股指触及历史高位，现货白银日内涨4%，伦铜再创新高，油价震荡",
+          "url": "https://wallstreetcn.com/articles/3762631",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时25分]"
+        },
+        {
+          "title": "美股三大期指涨跌不一 存储概念股持续走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2249754",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时25分]"
         },
         {
           "title": "AMD的CEO苏姿丰：计算在4-5年增长100倍。",
@@ -554,18 +685,6 @@
           "time_info": "[00时30分 ~ 00时31分]"
         },
         {
-          "title": "美股指涨跌互现，纳指涨0.3%，闪迪股价创新高，全球股指触及历史高位，现货白银日内涨4%，伦铜再创新高，油价震荡",
-          "url": "https://wallstreetcn.com/articles/3762631",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时18分]"
-        },
-        {
           "title": "道指涨幅扩大至1%，亚马逊(AMZN.O)现涨3.8%，Salesforce(CRM.N)涨2.3%、IBM(IBM.N)涨1.7%。",
           "url": "https://flash.jin10.com/detail/20260107030043013800",
           "source": "金十数据",
@@ -575,18 +694,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时17分 ~ 03时18分]"
-        },
-        {
-          "title": "美股三大期指涨跌不一 存储概念股持续走强 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2249754",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时18分]"
         },
         {
           "title": "城堡证券：看好“一月效应”引发美股反弹",
@@ -736,8 +843,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时25分]"
         }
       ]
     },
