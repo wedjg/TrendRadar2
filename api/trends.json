@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T20:46:46.383992+08:00",
-  "total_titles_processed": 1895,
+  "generated_at": "2026-01-07T21:40:52.398330+08:00",
+  "total_titles_processed": 2002,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            5
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时45分 ~ 20时46分]"
+          "appearance_count": 12,
+          "time_info": "[09时45分 ~ 21时40分]"
         },
         {
           "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
@@ -88,8 +89,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时40分 ~ 20时46分]"
+          "appearance_count": 11,
+          "time_info": "[11时40分 ~ 21时40分]"
+        },
+        {
+          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
+          "url": "https://www.cls.cn/detail/2250493",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时32分 ~ 21时40分]"
         },
         {
           "title": "曝特朗普对委动手前曾暗示油企高管",
@@ -117,19 +131,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[17时29分 ~ 20时46分]"
-        },
-        {
-          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
-          "url": "https://www.cls.cn/detail/2250493",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时32分 ~ 20时46分]"
         },
         {
           "title": "特朗普政府正在讨论获取格陵兰岛的方案 北欧五国外长发表联合声明 | 环球市场",
@@ -183,6 +184,18 @@
           "time_info": "[04时25分 ~ 07时22分]"
         },
         {
+          "title": "特朗普的下一步，难了",
+          "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 21时40分]"
+        },
+        {
           "title": "特朗普向印度发出新警告",
           "url": "https://news.ifeng.com/c/8piCojZXRGw",
           "source": "凤凰网",
@@ -194,6 +207,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时45分 ~ 14时35分]"
+        },
+        {
+          "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
+          "url": "https://wallstreetcn.com/articles/3762696",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时29分 ~ 21时40分]"
         },
         {
           "title": "哈马斯于加沙废墟中重塑统治 对特朗普和平计划构成挑战",
@@ -293,28 +319,17 @@
           "time_info": "[06时22分 ~ 07时22分]"
         },
         {
-          "title": "特朗普的下一步，难了",
-          "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
-          "source": "凤凰网",
+          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
+          "source": "澎湃新闻",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
-          "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
-          "url": "https://wallstreetcn.com/articles/3762696",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9
+            15,
+            17,
+            14
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[17时29分 ~ 20时46分]"
+          "time_info": "[18时25分 ~ 21时40分]"
         },
         {
           "title": "2025年巴西出口创历史新高，摆脱特朗普关税影响",
@@ -351,19 +366,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时22分]"
-        },
-        {
-          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时25分 ~ 20时46分]"
         },
         {
           "title": "特朗普说若输了中期选举可能被弹劾",
@@ -537,6 +539,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时30分 ~ 00时31分]"
+        },
+        {
+          "title": "特朗普称委内瑞拉将向美国移交3000万至5000万桶石油",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32331777",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 21时40分]"
         },
         {
           "title": "美国总统特朗普：将在2026年中期选举里取得“史诗级”胜利。",
@@ -735,17 +749,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
-        },
-        {
-          "title": "特朗普称委内瑞拉将向美国移交3000万至5000万桶石油",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32331777",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
         },
         {
           "title": "美国特使威特科夫：特朗普坚决支持安全协议，这些协议将用于抵御任何针对乌克兰的攻击，并保护乌克兰。",
@@ -1429,8 +1432,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时45分 ~ 20时46分]"
+          "appearance_count": 14,
+          "time_info": "[09时45分 ~ 21时40分]"
         },
         {
           "title": "英伟达做了个FSD？马斯克淡定回应：我不会为此失眠",
@@ -1456,8 +1459,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时31分 ~ 20时46分]"
+          "appearance_count": 20,
+          "time_info": "[00时31分 ~ 21时40分]"
         },
         {
           "title": "英伟达押注物理AI背后逻辑",
