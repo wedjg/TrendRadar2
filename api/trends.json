@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T07:22:07.032489+08:00",
-  "total_titles_processed": 683,
+  "generated_at": "2026-01-08T09:46:06.230932+08:00",
+  "total_titles_processed": 834,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 61,
       "titles": [
         {
           "title": "特朗普的下一步，难了",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 09时46分]"
         },
         {
           "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
@@ -26,8 +26,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 09时46分]"
         },
         {
           "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
@@ -65,6 +65,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时21分 ~ 07时22分]"
+        },
+        {
+          "title": "特朗普团队正起草关于可负担性的行政命令。（Political）",
+          "url": "https://wallstreetcn.com/livenews/3032839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 09时46分]"
+        },
+        {
+          "title": "美国副总统万斯：我们必须解决住房问题。特朗普将在未来几周就住房问题发表声明。",
+          "url": "https://wallstreetcn.com/livenews/3032837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 09时46分]"
         },
         {
           "title": "美国总统特朗普：Raytheon必须停止回购股票。",
@@ -210,6 +232,17 @@
           "time_info": "[07时21分 ~ 07时22分]"
         },
         {
+          "title": "美国副总统万斯：特朗普将对格陵兰岛做出最终决定。 格陵兰岛对美国国家安全至关重要。 丹麦人对安全领域投资不足。 特朗普愿意在格陵兰岛问题上尽其所能。",
+          "url": "https://wallstreetcn.com/livenews/3032830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 09时46分]"
+        },
+        {
           "title": "特朗普向国防承包商回购股票的做法发出威胁",
           "url": "https://wallstreetcn.com/livenews/3032663",
           "source": "华尔街见闻-快讯",
@@ -220,6 +253,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时26分 ~ 05时21分]"
+        },
+        {
+          "title": "美国副总统万斯：特朗普将对格陵兰岛问题做出最终决定。",
+          "url": "https://flash.jin10.com/detail/20260108092749798800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 09时46分]"
         },
         {
           "title": "美国总统特朗普签署行政命令，宣布退出66个国际组织。",
@@ -474,6 +518,17 @@
           "time_info": "[07时21分 ~ 07时22分]"
         },
         {
+          "title": "美国石油公司警告称，它们需要得到担保才能在委内瑞拉投资。 美国石油高管向特朗普施压，要求获得法律和财务担保。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3032814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 09时46分]"
+        },
+        {
           "title": "特朗普：我将立即采取措施，禁止大型机构投资者购买更多独栋住宅。",
           "url": "https://flash.jin10.com/detail/20260108014826315800",
           "source": "金十数据",
@@ -520,6 +575,17 @@
           "time_info": "[07时21分 ~ 07时22分]"
         },
         {
+          "title": "特朗普指示美国退出“不符合该国利益”的66个国际组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 09时46分]"
+        },
+        {
           "title": "美国总统特朗普：委内瑞拉的石油收入只能用于购买美国制造的产品。 采购将包括美国药品和农产品。 委内瑞拉承诺与美国做生意。",
           "url": "https://wallstreetcn.com/livenews/3032726",
           "source": "华尔街见闻-快讯",
@@ -562,6 +628,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 06时22分]"
+        },
+        {
+          "title": "美国股市：特朗普密集发帖冲击市场",
+          "url": "https://www.toutiao.com/trending/7591727257576685610/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 09时46分]"
         },
         {
           "title": "特朗普指示美国退出“不符合该国利益”的66个国际组织",
@@ -633,8 +710,19 @@
     },
     {
       "keyword_group": "美股 微软 亚马逊 博通 台积电 AMD",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
+          "url": "https://wallstreetcn.com/articles/3762734",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 09时46分]"
+        },
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，贵金属回落",
           "url": "https://wallstreetcn.com/articles/3762734",
@@ -645,6 +733,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时21分 ~ 07时22分]"
+        },
+        {
+          "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
+          "url": "https://www.cls.cn/detail/2251170",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时21分 ~ 09时46分]"
         },
         {
           "title": "（美股）费城金银指数收跌0.97%，报366.95点，美国ISM非制造业指数与职位空缺数据发布后，刷新日低至352.65点，随后逐步收复失地。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.80%，报2585.17点。 （美股）原材料指数跌1.67%，报237.22点，整体呈现出长尾L形走势。 （美股）金属与矿业指数跌0.97%，报230.56点。",
@@ -669,17 +769,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时21分 ~ 06时22分]"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
-          "url": "https://www.cls.cn/detail/2251170",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时21分 ~ 07时22分]"
         },
         {
           "title": "金十图示：2026年01月07日（周三）美股热门股票行情一览（美股收盘）",
@@ -785,8 +874,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 07时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 09时46分]"
         },
         {
           "title": "花旗：Vera Rubin将为英伟达带来5万亿美元人工智能机遇。",
