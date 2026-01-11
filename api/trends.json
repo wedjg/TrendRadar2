@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-11T15:22:15.165264+08:00",
-  "total_titles_processed": 843,
+  "generated_at": "2026-01-11T16:28:52.064219+08:00",
+  "total_titles_processed": 908,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "特朗普放话：我可不要中俄当邻居",
@@ -26,8 +26,24 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时54分 ~ 15时22分]"
+          "appearance_count": 9,
+          "time_info": "[09时54分 ~ 16时28分]"
+        },
+        {
+          "title": "特朗普：很快打击墨西哥境内",
+          "url": "https://wallstreetcn.com/articles/3763023",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[03时16分 ~ 16时28分]"
         },
         {
           "title": "特朗普暗示：突袭式军事行动，或成美未来海外用兵主要模式",
@@ -57,21 +73,6 @@
           "time_info": "[00时25分 ~ 14时33分]"
         },
         {
-          "title": "特朗普：很快打击墨西哥境内",
-          "url": "https://wallstreetcn.com/articles/3763023",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[03时16分 ~ 15时22分]"
-        },
-        {
           "title": "信号比规模重要--高盛解读“特朗普版QE”",
           "url": "https://wallstreetcn.com/articles/3763012",
           "source": "华尔街见闻",
@@ -83,6 +84,19 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时25分 ~ 11时51分]"
+        },
+        {
+          "title": "特朗普被曝已听取军事打击伊朗方案汇报",
+          "url": "https://news.ifeng.com/c/8pp0Cwro8Vo",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时51分 ~ 16时28分]"
         },
         {
           "title": "特朗普：美国将立即开始提炼和销售多达5000万桶委内瑞拉石油，所有国家都可购买",
@@ -141,8 +155,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时51分 ~ 15时22分]"
+          "appearance_count": 7,
+          "time_info": "[11时51分 ~ 16时28分]"
         },
         {
           "title": "俄罗斯回应特朗普释放俄船员",
@@ -159,18 +173,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时19分 ~ 07时21分]"
-        },
-        {
-          "title": "特朗普被曝已听取军事打击伊朗方案汇报",
-          "url": "https://news.ifeng.com/c/8pp0Cwro8Vo",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时51分 ~ 15时22分]"
         },
         {
           "title": "特朗普称「无论难易」都要得到格陵兰岛，美国近期对委内瑞拉和格陵兰岛的一系列动作是否宣告危险时代的来临？",
@@ -246,17 +248,6 @@
           "time_info": "[00时26分 ~ 07时21分]"
         },
         {
-          "title": "伊朗议会议长警告美国总统特朗普，任何袭击都将导致伊朗将以色列和该地区的美国基地视为“合法目标”并予以打击。",
-          "url": "https://flash.jin10.com/detail/20260111143012383800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时21分 ~ 15时22分]"
-        },
-        {
           "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
           "url": "https://www.zhihu.com/question/1993621515099399503",
           "source": "知乎",
@@ -266,8 +257,34 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时51分 ~ 15时22分]"
+          "appearance_count": 6,
+          "time_info": "[11时51分 ~ 16时28分]"
+        },
+        {
+          "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
+          "url": "https://wallstreetcn.com/articles/3763030",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时49分 ~ 16时28分]"
+        },
+        {
+          "title": "伊朗议会议长警告美国总统特朗普，任何袭击都将导致伊朗将以色列和该地区的美国基地视为“合法目标”并予以打击。",
+          "url": "https://flash.jin10.com/detail/20260111143012383800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
         },
         {
           "title": "美国最高法院暂未公布对特朗普关税的判决，市场紧盯下周三",
@@ -319,18 +336,15 @@
           "time_info": "[00时25分 ~ 02时31分]"
         },
         {
-          "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
-          "url": "https://wallstreetcn.com/articles/3763030",
-          "source": "华尔街见闻",
+          "title": "特朗普宣布进入国家紧急状态",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E8%BF%9B%E5%85%A5%E5%9B%BD%E5%AE%B6%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            9,
-            8,
-            6
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时49分 ~ 15时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "特朗普再次威胁伊朗，伊朗军方：团结起来挫败敌人阴谋",
@@ -357,6 +371,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时51分 ~ 14时33分]"
+        },
+        {
+          "title": "意大利总理：不同意特朗普许多做法",
+          "url": "https://www.toutiao.com/trending/7593680373650358291/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时33分 ~ 16时28分]"
         },
         {
           "title": "特朗普再次威胁干涉伊朗 称准备提供“帮助”",
@@ -410,18 +436,6 @@
           "time_info": "[11时51分 ~ 13时26分]"
         },
         {
-          "title": "意大利总理：不同意特朗普许多做法",
-          "url": "https://www.toutiao.com/trending/7593680373650358291/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时33分 ~ 15时22分]"
-        },
-        {
           "title": "据CBS：当地时间今日上午，特朗普按计划前往佛罗里达州当地的牙医诊所就诊。白宫方面表示，此次治疗未使用麻醉剂。",
           "url": "https://flash.jin10.com/detail/20260110232001539800",
           "source": "金十数据",
@@ -466,6 +480,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时49分 ~ 13时26分]"
+        },
+        {
+          "title": "意大利总理：不同意特朗普的许多做法，国际法必须得到充分捍卫",
+          "url": "https://news.ifeng.com/c/8ppArIDCETK",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "特朗普称没必要抓普京",
@@ -522,8 +547,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 15时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时26分 ~ 16时28分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -561,17 +586,18 @@
             11,
             5,
             4,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时51分 ~ 15时22分]"
+          "appearance_count": 6,
+          "time_info": "[11时51分 ~ 16时28分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美国参议员们要求谷歌和苹果下架马斯克的X和Grok应用",
@@ -584,6 +610,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时20分 ~ 09时55分]"
+        },
+        {
+          "title": "谷歌创始人“逃离”硅谷",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E5%88%9B%E5%A7%8B%E4%BA%BA%E2%80%9C%E9%80%83%E7%A6%BB%E2%80%9D%E7%A1%85%E8%B0%B7",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         }
       ]
     },
