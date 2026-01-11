@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-11T17:22:51.210407+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2026-01-11T18:22:30.285433+08:00",
+  "total_titles_processed": 1047,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "为保护所持委石油收入，特朗普宣布进入国家紧急状态",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时54分 ~ 17时22分]"
+          "appearance_count": 11,
+          "time_info": "[09时54分 ~ 18时22分]"
         },
         {
           "title": "特朗普放话：我可不要中俄当邻居",
@@ -40,11 +40,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[03时16分 ~ 17时22分]"
+          "appearance_count": 19,
+          "time_info": "[03时16分 ~ 18时22分]"
         },
         {
           "title": "特朗普暗示：突袭式军事行动，或成美未来海外用兵主要模式",
@@ -60,6 +61,18 @@
           "time_info": "[00时25分 ~ 09时55分]"
         },
         {
+          "title": "委反对派领导人想将诺奖赠予特朗普，诺奖学会发声",
+          "url": "https://news.ifeng.com/c/8pp6FpPkjc3",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时51分 ~ 18时22分]"
+        },
+        {
           "title": "从“房贷QE”到“信用卡限价”：当特朗普开始亲自定价利率",
           "url": "https://wallstreetcn.com/articles/3763015",
           "source": "华尔街见闻",
@@ -72,18 +85,6 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时25分 ~ 14时33分]"
-        },
-        {
-          "title": "委反对派领导人想将诺奖赠予特朗普，诺奖学会发声",
-          "url": "https://news.ifeng.com/c/8pp6FpPkjc3",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时51分 ~ 17时22分]"
         },
         {
           "title": "信号比规模重要--高盛解读“特朗普版QE”",
@@ -169,8 +170,24 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时51分 ~ 17时22分]"
+          "appearance_count": 8,
+          "time_info": "[11时51分 ~ 18时22分]"
+        },
+        {
+          "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
+          "url": "https://wallstreetcn.com/articles/3763030",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时49分 ~ 18时22分]"
         },
         {
           "title": "俄罗斯回应特朗普释放俄船员",
@@ -248,22 +265,6 @@
           "time_info": "[09时54分 ~ 15时22分]"
         },
         {
-          "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
-          "url": "https://wallstreetcn.com/articles/3763030",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时49分 ~ 17时22分]"
-        },
-        {
           "title": "特朗普执政不到一年打 7 国，第二任期以来已下令实施超 620 次空袭，下一个是谁？谁能给他踩下刹车？",
           "url": "https://www.zhihu.com/question/1991889804833599714",
           "source": "知乎",
@@ -326,6 +327,17 @@
           "time_info": "[07时20分 ~ 09时55分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-11）",
+          "url": "https://flash.jin10.com/detail/20260111175613540800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "特朗普“泄密”！提前12小时发帖曝光美非农就业数据",
           "url": "https://wallstreetcn.com/articles/3762989",
           "source": "华尔街见闻",
@@ -336,17 +348,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时25分 ~ 02时31分]"
-        },
-        {
-          "title": "达尔全球首席执行官表示，达尔全球与特朗普集团将推出价值100亿美元的全新沙特房地产项目。",
-          "url": "https://flash.jin10.com/detail/20260111163438424800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
         },
         {
           "title": "特朗普宣布进入国家紧急状态",
@@ -397,6 +398,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时33分 ~ 17时22分]"
+        },
+        {
+          "title": "达尔全球首席执行官表示，达尔全球与特朗普集团将推出价值100亿美元的全新沙特房地产项目。",
+          "url": "https://flash.jin10.com/detail/20260111163438424800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时22分]"
         },
         {
           "title": "特朗普再次威胁干涉伊朗 称准备提供“帮助”",
@@ -473,6 +486,29 @@
           "time_info": "[07时20分 ~ 07时21分]"
         },
         {
+          "title": "意总理：不同意特朗普的许多做法，国际法必须得到充分捍卫",
+          "url": "https://news.ifeng.com/c/8ppArIDCETK",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时22分]"
+        },
+        {
+          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
+          "url": "https://wallstreetcn.com/articles/3763032",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时22分]"
+        },
+        {
           "title": "特朗普回应是否抓捕普京：没必要",
           "url": "https://www.toutiao.com/trending/7593626358950494235/",
           "source": "今日头条",
@@ -502,18 +538,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
-          "title": "意总理：不同意特朗普的许多做法，国际法必须得到充分捍卫",
-          "url": "https://news.ifeng.com/c/8ppArIDCETK",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -529,15 +554,15 @@
           "time_info": "16时28分"
         },
         {
-          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
-          "url": "https://wallstreetcn.com/articles/3763032",
-          "source": "华尔街见闻",
+          "title": "据多家财经媒体及官方渠道披露，达尔环球（Dar Global）与特朗普集团（The Trump Organization）正深化合作。根据最新消息，达尔环球CEO齐亚德·埃尔·查尔（Ziad El Chaar）确认，双方将启动一个总价值约100亿美元 的新沙特房地产项目。",
+          "url": "https://wallstreetcn.com/livenews/3034676",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时22分"
+          "time_info": "18时22分"
         },
         {
           "title": "特朗普称没必要抓普京",
@@ -594,8 +619,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 17时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 18时22分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
