@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T20:49:15.681573+08:00",
-  "total_titles_processed": 1605,
+  "generated_at": "2026-01-12T21:43:24.740801+08:00",
+  "total_titles_processed": 1708,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 64,
       "titles": [
         {
           "title": "特朗普发图自称“委内瑞拉代总统”",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时50分 ~ 20时49分]"
+          "appearance_count": 15,
+          "time_info": "[11时50分 ~ 21时43分]"
         },
         {
           "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
@@ -43,8 +43,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时33分 ~ 20时49分]"
+          "appearance_count": 9,
+          "time_info": "[16时33分 ~ 21时43分]"
         },
         {
           "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
@@ -55,8 +55,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时33分 ~ 20时49分]"
+          "appearance_count": 9,
+          "time_info": "[16时33分 ~ 21时43分]"
         },
         {
           "title": "2026最大的交易主题：输不起的特朗普，国际秩序的终结",
@@ -402,6 +402,18 @@
           "time_info": "09时51分"
         },
         {
+          "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
+          "url": "https://wallstreetcn.com/articles/3763089",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时21分 ~ 21时43分]"
+        },
+        {
           "title": "分析师：特朗普攻击美联储动摇市场信心",
           "url": "https://flash.jin10.com/detail/20260112115831082800",
           "source": "金十数据",
@@ -414,6 +426,19 @@
           "time_info": "[12时51分 ~ 13时31分]"
         },
         {
+          "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32366593",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时21分 ~ 21时43分]"
+        },
+        {
           "title": "美媒爆：5名共和党议员“倒戈”后，特朗普“愤怒”向其打电话并发出威胁",
           "url": "https://wallstreetcn.com/livenews/3034991",
           "source": "华尔街见闻-快讯",
@@ -424,18 +449,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时31分 ~ 14时38分]"
-        },
-        {
-          "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
-          "url": "https://wallstreetcn.com/articles/3763089",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时21分 ~ 20时49分]"
         },
         {
           "title": "美东时间1月11日晚，特朗普在社交平台发帖，自称“委内瑞拉代总统”。（CCTV国际时讯）",
@@ -451,16 +464,15 @@
           "time_info": "[11时50分 ~ 13时31分]"
         },
         {
-          "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32366593",
-          "source": "澎湃新闻",
+          "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
+          "url": "https://wallstreetcn.com/articles/3763082",
+          "source": "华尔街见闻",
           "ranks": [
-            18,
-            20
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时21分 ~ 20时49分]"
+          "appearance_count": 3,
+          "time_info": "[20时48分 ~ 21时43分]"
         },
         {
           "title": "美企业家：特朗普正在损害美国实力",
@@ -473,17 +485,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时26分 ~ 19时22分]"
-        },
-        {
-          "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
-          "url": "https://wallstreetcn.com/articles/3763082",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时48分 ~ 20时49分]"
         },
         {
           "title": "巴克莱股价下跌，此前特朗普呼吁限制信用卡利率。",
@@ -586,6 +587,17 @@
           "time_info": "11时50分"
         },
         {
+          "title": "德国财政部长克林贝伊尔就特朗普抨击美联储发表评论：作为财政部长，央行独立性对我来说是一条不容逾越的红线。",
+          "url": "https://flash.jin10.com/detail/20260112212737636800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
           "title": "美媒称特朗普政府13日将讨论美对伊朗干预方案",
           "url": "https://wallstreetcn.com/livenews/3034877",
           "source": "华尔街见闻-快讯",
@@ -597,6 +609,17 @@
           "time_info": "09时51分"
         },
         {
+          "title": "特朗普将就美联储主席一职面试贝莱德分析师Rick Rieder，面试将于本周进行。（福克斯）",
+          "url": "https://wallstreetcn.com/livenews/3035370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
           "title": "对冲基金经理比尔·阿克曼：美国总统特朗普在中期选举中面临的最大威胁是“负担能力问题”。",
           "url": "https://flash.jin10.com/detail/20260112092101261800",
           "source": "金十数据",
@@ -606,6 +629,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "美媒：特朗普本周将就美联储主席一职面试贝莱德高管里克·里德",
+          "url": "https://flash.jin10.com/detail/20260112212716396800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
         },
         {
           "title": "特朗普称在考虑干预伊朗局势的“强硬选项”",
@@ -630,6 +664,17 @@
           "time_info": "11时50分"
         },
         {
+          "title": "北约秘书长吕特：相信美国总统特朗普为北约做正确的事情。",
+          "url": "https://flash.jin10.com/detail/20260112212210051800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
           "title": "“木头姐”预言：特朗普政府将很快开始采购比特币，建立国家储备！",
           "url": "https://www.cls.cn/detail/2254447",
           "source": "财联社热门",
@@ -639,6 +684,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
+        },
+        {
+          "title": "特朗普将就美联储主席一职面试贝莱德高管里德（Rick Rieder）。面试将于本周举行。",
+          "url": "https://flash.jin10.com/detail/20260112211851443800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
         },
         {
           "title": "美国驻印度大使在新德里表示，希望特朗普在一两年内访问印度。 美国和印度继续积极在贸易、安全和科技领域合作。 有关贸易问题的下一次讨论将在周二进行。",
@@ -710,7 +766,7 @@
     },
     {
       "keyword_group": "美股 微软 亚马逊 博通 台积电 AMD",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
@@ -735,8 +791,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时51分 ~ 20时49分]"
+          "appearance_count": 16,
+          "time_info": "[09时51分 ~ 21时43分]"
         },
         {
           "title": "伊朗局势微妙，鲍威尔被诉，金银再创新高，油价连续走高、美股期货下跌",
@@ -774,6 +830,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时20分 ~ 07时21分]"
+        },
+        {
+          "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，黄金突破4600美元，现货白银涨超6%，铜逼近新高，油价回调",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
         },
         {
           "title": "微软(MSFT.O)：Microsoft Foundry中的Claude增强了面向医疗健康和生命科学客户的能力。",
@@ -862,8 +929,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时28分 ~ 20时49分]"
+          "appearance_count": 10,
+          "time_info": "[15时28分 ~ 21时43分]"
         },
         {
           "title": "美股盘前，明星科技股普跌，英伟达(NVDA.O)跌1.2%、谷歌C(GOOG.O)跌0.95%、甲骨文(ORCL.N)跌1.7%、英特尔(INTC.O)跌2%。",
