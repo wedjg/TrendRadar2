@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T01:24:57.232332+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2026-01-13T02:34:39.147666+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普威胁古巴，委内瑞拉发声",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时34分]"
         },
         {
           "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时34分]"
         },
         {
           "title": "特朗普转发“鲁比奥将成为古巴总统”帖子：听起来不错",
@@ -37,8 +37,41 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时34分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普对委内瑞拉反对派Machado的评估“是现实的”。",
+          "url": "https://wallstreetcn.com/livenews/3035514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
+          "title": "白宫新闻秘书利维特：：特朗普并未设定收购格陵兰岛的时间表。",
+          "url": "https://flash.jin10.com/detail/20260113022632820800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
+          "title": "白宫新闻秘书利维特：特朗普总统已与马斯克就互联网问题进行了沟通。",
+          "url": "https://flash.jin10.com/detail/20260113022328859800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
         },
         {
           "title": "诺和诺德(NVO.N)CEO：与特朗普政府的沟通非常顺畅。",
@@ -72,8 +105,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时34分]"
         },
         {
           "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
@@ -83,8 +116,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时34分]"
         },
         {
           "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
@@ -94,8 +127,41 @@
             19
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时34分]"
+        },
+        {
+          "title": "民调称美民众不爱听特朗普对华叫嚷",
+          "url": "https://www.toutiao.com/trending/7594282363073334847/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时24分]"
+          "time_info": "[01时24分 ~ 02时34分]"
+        },
+        {
+          "title": "美国政府官员：总统特朗普将于周四在白宫会见委内瑞拉反对派Machado。",
+          "url": "https://wallstreetcn.com/livenews/3035504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
+          "title": "白宫新闻秘书利维特：特朗普不惧对伊朗动用军事力量，但更倾向于外交手段。",
+          "url": "https://flash.jin10.com/detail/20260113022137220800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
         },
         {
           "title": "美国参议院共和党成员Cramer：我不相信美联储主席鲍威尔是一个罪犯。 希望（特朗普政府的司法部）对鲍威尔的调查“能尽快结束”。",
@@ -104,7 +170,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
         },
@@ -126,9 +192,42 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "白宫新闻秘书利维特：美国总统特朗普相信美联储的独立性。",
+          "url": "https://flash.jin10.com/detail/20260113021957699800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
+          "title": "白宫新闻秘书利维特：美国总统特朗普并未指示司法部官员调查美联储主席鲍威尔。",
+          "url": "https://flash.jin10.com/detail/20260113021950421800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
+          "title": "特朗普：政府若在关税问题上败诉 美国或面临数万亿债务泥潭",
+          "url": "https://flash.jin10.com/detail/20260113021526999800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
         },
         {
           "title": "墨西哥总统辛鲍姆告诉美国总统特朗普：墨方反对军事干预。 墨西哥不需要美国的军事援助。",
@@ -153,13 +252,24 @@
           "time_info": "00时28分"
         },
         {
+          "title": "白宫新闻秘书利维特：特朗普明天将参观福特工厂。",
+          "url": "https://flash.jin10.com/detail/20260113020925954800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
           "title": "诺和诺德CEO：公司对直接与特朗普政府对话感到欣慰。 预计Wegovy口服药有助于拓展减肥药市场。",
           "url": "https://wallstreetcn.com/livenews/3035459",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
         },
@@ -170,20 +280,42 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
         },
         {
-          "title": "民调称美民众不爱听特朗普对华叫嚷",
-          "url": "https://www.toutiao.com/trending/7594282363073334847/",
-          "source": "今日头条",
+          "title": "美国众议院共和党成员French Hill：（特朗普政府）对美联储主席鲍威尔诉诸法律的做法造成不必要的干扰。",
+          "url": "https://wallstreetcn.com/livenews/3035488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
+          "title": "委内瑞拉“反对派”Machado将于周四会见美国总统特朗普。（CNN）",
+          "url": "https://wallstreetcn.com/livenews/3035486",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时24分"
+          "time_info": "02时34分"
+        },
+        {
+          "title": "美国农产品期货下跌，芝加哥玉米期货跌3%，自2025年10月1日出现历史最长天数政府关门以来，特朗普政府首次披露农产品库存报告。",
+          "url": "https://wallstreetcn.com/livenews/3035485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
         },
         {
           "title": "美国国务院：特朗普总统正在考虑一系列针对伊朗的强硬选项。",
@@ -246,8 +378,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时34分]"
         },
         {
           "title": "苹果选择谷歌Gemini驱动将于今年面世的AI版Siri",
@@ -297,7 +429,7 @@
     },
     {
       "keyword_group": "美股 微软 亚马逊 博通 台积电 AMD",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，黄金突破4620美元，现货白银涨超6%，铜逼近新高，油价回调",
@@ -307,8 +439,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时34分]"
         },
         {
           "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
@@ -318,8 +450,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时34分]"
         },
         {
           "title": "鲍威尔遭调查冲击市场 美股期指集体走低 黄金大涨 | 今夜看点",
@@ -330,8 +462,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时34分]"
         },
         {
           "title": "美股集体低开 中概股逆势走强",
@@ -354,6 +486,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "台积电股价涨幅扩大至1.5%，报329.64美元，逼近盘中历史最高位333.08美元。",
+          "url": "https://wallstreetcn.com/livenews/3035491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
         },
         {
           "title": "行业ETF美股盘初普跌",
