@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T14:35:47.824523+08:00",
-  "total_titles_processed": 1269,
+  "generated_at": "2026-01-14T15:26:39.110290+08:00",
+  "total_titles_processed": 1374,
   "failed_sources": [],
   "trends": [
     {
@@ -119,9 +119,47 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
+        },
+        {
+          "title": "特朗普建议盟友“撤离”伊朗",
+          "url": "https://www.cls.cn/detail/2256898",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时48分 ~ 15时26分]"
+        },
+        {
+          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
+          "url": "https://wallstreetcn.com/articles/3763222",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时48分 ~ 15时26分]"
+        },
+        {
+          "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
+          "url": "https://www.cls.cn/detail/2256871",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时48分 ~ 15时26分]"
         },
         {
           "title": "美国总统特朗普：我希望美联储主席根据好消息而决定降息。 以往，利率就因良好的数据而下跌。 当市场上涨时，美联储应该降低利率。",
@@ -147,18 +185,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时21分 ~ 04时26分]"
-        },
-        {
-          "title": "特朗普建议盟友“撤离”伊朗",
-          "url": "https://www.cls.cn/detail/2256898",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时48分 ~ 14时35分]"
         },
         {
           "title": "美国总统特朗普：通用汽车和Stellantis公司发展势头良好。",
@@ -293,32 +319,6 @@
           "time_info": "[02时32分 ~ 03时21分]"
         },
         {
-          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
-          "url": "https://wallstreetcn.com/articles/3763222",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时48分 ~ 14时35分]"
-        },
-        {
-          "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
-          "url": "https://www.cls.cn/detail/2256871",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时48分 ~ 14时35分]"
-        },
-        {
           "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
           "url": "https://www.cls.cn/detail/2256936",
           "source": "财联社热门",
@@ -328,8 +328,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时48分 ~ 14时35分]"
+          "appearance_count": 4,
+          "time_info": "[12时48分 ~ 15时26分]"
         },
         {
           "title": "美国总统特朗普谈及自己强迫更名的美国墨西哥加拿大贸易协议（USMCA）：加拿大想要USMCA，我们（美国）才不需要。",
@@ -611,6 +611,18 @@
           "time_info": "[12时48分 ~ 13时25分]"
         },
         {
+          "title": "特朗普演讲时突然模仿拜登",
+          "url": "https://www.toutiao.com/trending/7594003113268543524/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 15时26分]"
+        },
+        {
           "title": "美国总统特朗普：我们将开始通过陆路打击毒贩。",
           "url": "https://flash.jin10.com/detail/20260114034918816800",
           "source": "金十数据",
@@ -661,7 +673,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -749,7 +761,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -771,7 +783,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -1084,17 +1096,6 @@
           "time_info": "03时21分"
         },
         {
-          "title": "特朗普演讲时突然模仿拜登",
-          "url": "https://www.toutiao.com/trending/7594003113268543524/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
           "title": "美国总统特朗普：美联储主席鲍威尔要么无能，要么不正直。鲍威尔的工作做得并不好。",
           "url": "https://flash.jin10.com/detail/20260113233652947800",
           "source": "金十数据",
@@ -1143,8 +1144,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时49分 ~ 14时35分]"
+          "appearance_count": 7,
+          "time_info": "[09时49分 ~ 15时26分]"
         },
         {
           "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
@@ -1475,11 +1476,12 @@
           "ranks": [
             9,
             6,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 14时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 15时26分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -1512,7 +1514,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         }
