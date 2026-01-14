@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T18:27:07.697914+08:00",
-  "total_titles_processed": 1690,
+  "generated_at": "2026-01-14T19:23:07.353233+08:00",
+  "total_titles_processed": 1787,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 103,
+      "match_count": 104,
       "titles": [
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -42,6 +42,29 @@
           "time_info": "[00时33分 ~ 07时21分]"
         },
         {
+          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
+          "url": "https://wallstreetcn.com/articles/3763222",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时48分 ~ 19时23分]"
+        },
+        {
+          "title": "特朗普特使秘密见了伊朗末代王储",
+          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 19时23分]"
+        },
+        {
           "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
           "url": "https://www.cls.cn/detail/2256844",
           "source": "财联社热门",
@@ -53,29 +76,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时49分 ~ 14时35分]"
-        },
-        {
-          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
-          "url": "https://wallstreetcn.com/articles/3763222",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时48分 ~ 18时27分]"
-        },
-        {
-          "title": "特朗普特使秘密见了伊朗末代王储",
-          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 18时27分]"
         },
         {
           "title": "伊朗驻联合国代表团指责美国总统特朗普鼓励政治动荡、煽动暴力、威胁伊朗主权，称美国和以色列应对由此造成平民生命损失承担法律责任，特别是青年群体中的伤亡。",
@@ -150,6 +150,19 @@
           "time_info": "[12时48分 ~ 17时31分]"
         },
         {
+          "title": "中方回应“特朗普称不需要国际法”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E9%9C%80%E8%A6%81%E5%9B%BD%E9%99%85%E6%B3%95%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时32分 ~ 19时23分]"
+        },
+        {
           "title": "英国央行委员泰勒：特朗普关税促使出口国寻找替代市场 英国通胀得以缓解",
           "url": "https://flash.jin10.com/detail/20260114171639019800",
           "source": "金十数据",
@@ -196,6 +209,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时48分 ~ 15时26分]"
+        },
+        {
+          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 19时23分]"
         },
         {
           "title": "美国总统特朗普：我希望美联储主席根据好消息而决定降息。 以往，利率就因良好的数据而下跌。 当市场上涨时，美联储应该降低利率。",
@@ -353,31 +379,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时32分 ~ 03时21分]"
-        },
-        {
-          "title": "中方回应“特朗普称不需要国际法”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E9%9C%80%E8%A6%81%E5%9B%BD%E9%99%85%E6%B3%95%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时32分 ~ 18时27分]"
-        },
-        {
-          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 18时27分]"
         },
         {
           "title": "美国总统特朗普谈及自己强迫更名的美国墨西哥加拿大贸易协议（USMCA）：加拿大想要USMCA，我们（美国）才不需要。",
@@ -669,6 +670,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时35分 ~ 15时26分]"
+        },
+        {
+          "title": "刘和平：特朗普抛弃“台独”是算计",
+          "url": "https://www.toutiao.com/trending/7595056380969812031/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 19时23分]"
         },
         {
           "title": "美国总统特朗普：我们将开始通过陆路打击毒贩。",
@@ -1201,8 +1213,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时49分 ~ 18时27分]"
+          "appearance_count": 13,
+          "time_info": "[09时49分 ~ 19时23分]"
         },
         {
           "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
@@ -1444,6 +1456,17 @@
         },
         {
           "title": "美国放宽对英伟达H200芯片出口中国的管制",
+          "url": "https://wallstreetcn.com/articles/3763225",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时48分 ~ 19时23分]"
+        },
+        {
+          "title": "美国放宽对英伟达H200芯片出口中国的管制",
           "url": "https://m.thepaper.cn/newsDetail_forward_32379988",
           "source": "澎湃新闻",
           "ranks": [
@@ -1477,17 +1500,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时27分 ~ 02时32分]"
-        },
-        {
-          "title": "美国放宽对英伟达H200芯片出口中国的管制",
-          "url": "https://wallstreetcn.com/articles/3763225",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时48分 ~ 17时31分]"
         },
         {
           "title": "英伟达维持超过0.4%的涨幅，持稳于日高185.80美元附近。",
@@ -1619,11 +1631,12 @@
           "ranks": [
             19,
             20,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 18时27分]"
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 19时23分]"
         },
         {
           "title": "Apple 芯片设计全球领先，为何大模型训练却认输外包给 Google？",
