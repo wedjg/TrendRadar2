@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T02:38:00.646295+08:00",
-  "total_titles_processed": 442,
+  "generated_at": "2026-01-16T03:26:04.599556+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 35,
       "titles": [
         {
           "title": "美军航母开往中东，特朗普要“速战速决”？",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 02时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 03时26分]"
         },
         {
           "title": "特朗普：我会去委内瑞拉，委代总统将访美",
@@ -26,19 +26,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 02时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 03时26分]"
         },
         {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普希望，有朝一日能看到委内瑞拉举行选举。",
-          "url": "https://wallstreetcn.com/livenews/3038164",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
+          "url": "https://wallstreetcn.com/articles/3763320",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时37分 ~ 02时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 03时26分]"
         },
         {
           "title": "美国白宫：特朗普的医保计划将要求保险公司公布费率和承保范围的对比信息。",
@@ -64,26 +64,27 @@
           "time_info": "[00时36分 ~ 01时33分]"
         },
         {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普已经与以色列总理内塔尼亚胡通话。",
-          "url": "https://wallstreetcn.com/livenews/3038163",
+          "title": "白宫新闻秘书Leavitt：关于格陵兰的会议富有成效。 每2-3周会举行一次关于格陵兰的会议。 欧洲军队（部署）不会影响美国总统特朗普有关（企图吞并）格陵兰的目标。",
+          "url": "https://wallstreetcn.com/livenews/3038173",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时37分 ~ 02时38分]"
+          "time_info": "[03时25分 ~ 03时26分]"
         },
         {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普即将会见委内瑞拉“反对派”Machado。 委内瑞拉代总统Rodriguez一直都配合（美方的要求）。 特朗普期待继续与委内瑞拉合作。",
-          "url": "https://wallstreetcn.com/livenews/3038162",
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普希望，有朝一日能看到委内瑞拉举行选举。",
+          "url": "https://wallstreetcn.com/livenews/3038164",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            3,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时37分 ~ 02时38分]"
+          "appearance_count": 4,
+          "time_info": "[02时37分 ~ 03时26分]"
         },
         {
           "title": "美国白宫：特朗普提议的成本分摊计划可能使最常见的奥巴马医改计划保费降低逾10%。",
@@ -97,15 +98,39 @@
           "time_info": "[00时36分 ~ 00时37分]"
         },
         {
-          "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
-          "url": "https://wallstreetcn.com/articles/3763320",
-          "source": "华尔街见闻",
+          "title": "白宫新闻秘书莱维特：欧洲国家向格陵兰岛派兵不会影响美国总统特朗普关于格陵兰岛的决定。",
+          "url": "https://flash.jin10.com/detail/20260116024657437800",
+          "source": "金十数据",
           "ranks": [
-            10
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 02时38分]"
+          "appearance_count": 2,
+          "time_info": "[03时25分 ~ 03时26分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普已经与以色列总理内塔尼亚胡通话。",
+          "url": "https://wallstreetcn.com/livenews/3038163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时37分 ~ 03时26分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普即将会见委内瑞拉“反对派”Machado。 委内瑞拉代总统Rodriguez一直都配合（美方的要求）。 特朗普期待继续与委内瑞拉合作。",
+          "url": "https://wallstreetcn.com/livenews/3038162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时37分 ~ 03时26分]"
         },
         {
           "title": "白宫发布关于美国总统特朗普医疗保健计划的清单。 特朗普希望降低保费。 特朗普要求国会山编纂关于降低医药成本的（立法）协议。",
@@ -160,6 +185,17 @@
           "time_info": "[00时36分 ~ 01时33分]"
         },
         {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普愿意与任何人共同解决信用卡利率上限问题。",
+          "url": "https://wallstreetcn.com/livenews/3038171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时25分 ~ 03时26分]"
+        },
+        {
           "title": "美国白宫：美国总统特朗普的医疗保健计划将包括一项保险费用分摊削减计划。",
           "url": "https://flash.jin10.com/detail/20260116002546485800",
           "source": "金十数据",
@@ -193,6 +229,17 @@
           "time_info": "[00时36分 ~ 00时37分]"
         },
         {
+          "title": "内塔尼亚胡密电特朗普 劝阻特朗普对伊动武",
+          "url": "https://flash.jin10.com/detail/20260116024433697800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时25分 ~ 03时26分]"
+        },
+        {
           "title": "特朗普直播打瞌睡被小女孩发现",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%9B%B4%E6%92%AD%E6%89%93%E7%9E%8C%E7%9D%A1%E8%A2%AB%E5%B0%8F%E5%A5%B3%E5%AD%A9%E5%8F%91%E7%8E%B0%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -205,6 +252,28 @@
           "time_info": "[00时37分 ~ 01时33分]"
         },
         {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普将在几周内决定美联储主席的人选。 对于下一任美联储主席，特朗普有几个人选。",
+          "url": "https://wallstreetcn.com/livenews/3038168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时25分 ~ 03时26分]"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：特朗普在伊朗问题上保留所有选项。",
+          "url": "https://flash.jin10.com/detail/20260116024403158800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时25分 ~ 03时26分]"
+        },
+        {
           "title": "美国密歇根州州长：特朗普政府延长与加拿大、墨西哥的北美自由贸易协议，对美国的汽车生产至关重要。",
           "url": "https://flash.jin10.com/detail/20260116002253912800",
           "source": "金十数据",
@@ -214,6 +283,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 00时37分]"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：特朗普正密切关注伊朗的局势。",
+          "url": "https://flash.jin10.com/detail/20260116024351365800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时25分 ~ 03时26分]"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：特朗普期望信用卡公司降低成本。",
+          "url": "https://flash.jin10.com/detail/20260116023837254800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时25分 ~ 03时26分]"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：特朗普正处于对美联储人事任命的决策阶段，他目前有几位心仪的人选来出任这一职位。特朗普将在未来几周内就美联储主席人选作出决定。",
+          "url": "https://flash.jin10.com/detail/20260116023610911800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时25分 ~ 03时26分]"
         },
         {
           "title": "声明显示：美国总统特朗普要求国会通过其医改方案。",
@@ -271,6 +373,17 @@
           "time_info": "[02时37分 ~ 02时38分]"
         },
         {
+          "title": "白宫新闻秘书莱维特：特朗普已经与以色列总理内塔尼亚胡通话。",
+          "url": "https://flash.jin10.com/detail/20260116022949055800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时25分 ~ 03时26分]"
+        },
+        {
           "title": "美国白宫：美国总统特朗普的医疗计划旨在针对药房福利管理机构的支付。",
           "url": "https://flash.jin10.com/detail/20260116002858964800",
           "source": "金十数据",
@@ -280,12 +393,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时32分 ~ 01时33分]"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：美国总统特朗普及其团队已告知伊朗，若“杀戮”持续，将面临严重后果。",
+          "url": "https://flash.jin10.com/detail/20260116022638083800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时25分 ~ 03时26分]"
         }
       ]
     },
     {
       "keyword_group": "美股 微软 亚马逊 博通 台积电 AMD",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -296,19 +420,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 02时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 03时26分]"
         },
         {
           "title": "台积电财报点燃市场情绪，美股指集体高开，台积电涨超4%，伊朗局势暂时降温，原油跌5%，白银一度跌7%",
           "url": "https://wallstreetcn.com/articles/3763348",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 02时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 03时26分]"
         },
         {
           "title": "台积电法说会全文：产能非常紧张，未来三年资本支出将显著增加",
@@ -318,8 +443,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 02时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 03时26分]"
         },
         {
           "title": "A股成交缩量超1万亿，台积电大幅上调资本开支点燃算力硬件股，商业航天集体大跌，恒科指跌超1%，携程重挫20%",
@@ -329,8 +454,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 02时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 03时26分]"
         },
         {
           "title": "AI需求猛如虎！台积电财报会实录：大幅投资扩产仍难缓解供应短缺",
@@ -341,8 +466,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 02时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 03时26分]"
         },
         {
           "title": "台积电三季度业绩报告要点总结：AI巨头需求引爆，Q4利润激增35%再破纪录",
@@ -356,6 +481,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时36分 ~ 01时33分]"
+        },
+        {
+          "title": "台积电季报提振市场信心 芯片股美股盘前集体上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2259424",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时25分 ~ 03时26分]"
         },
         {
           "title": "金十图示：2026年01月15日（周四）美股热门股票行情一览（美股盘中）",
@@ -403,11 +539,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 02时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 03时26分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
@@ -480,11 +617,12 @@
           "ranks": [
             20,
             22,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 02时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 03时26分]"
         }
       ]
     },
@@ -501,8 +639,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 02时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 03时26分]"
         }
       ]
     },
@@ -519,8 +657,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 02时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 03时26分]"
         }
       ]
     },
