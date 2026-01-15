@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T15:26:41.827527+08:00",
-  "total_titles_processed": 1419,
+  "generated_at": "2026-01-15T16:32:36.951733+08:00",
+  "total_titles_processed": 1527,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 76,
+      "match_count": 79,
       "titles": [
         {
           "title": "特朗普特使秘密见了伊朗末代王储",
@@ -36,11 +36,24 @@
           "url": "https://news.ifeng.com/c/8pvmkwWCoVQ",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时41分 ~ 15时26分]"
+          "appearance_count": 6,
+          "time_info": "[12时41分 ~ 16时32分]"
+        },
+        {
+          "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
+          "url": "https://wallstreetcn.com/articles/3763310",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时45分 ~ 16时32分]"
         },
         {
           "title": "多国敦促公民离开伊朗 特朗普称将观望伊朗局势发展 | 环球市场",
@@ -67,16 +80,18 @@
           "time_info": "[05时22分 ~ 07时19分]"
         },
         {
-          "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
-          "url": "https://wallstreetcn.com/articles/3763310",
-          "source": "华尔街见闻",
+          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
+          "url": "https://www.cls.cn/detail/2258223",
+          "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时45分 ~ 15时26分]"
+          "appearance_count": 6,
+          "time_info": "[12时41分 ~ 16时32分]"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普将于美国东部时间下午2点签署法案，允许学校提供全脂牛奶和2%低脂牛奶。",
@@ -101,18 +116,15 @@
           "time_info": "[02时34分 ~ 02时35分]"
         },
         {
-          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
-          "url": "https://www.cls.cn/detail/2258223",
-          "source": "财联社热门",
+          "title": "特朗普：我会去委内瑞拉，委代总统将访美",
+          "url": "https://news.ifeng.com/c/8pw6KwgQUWD",
+          "source": "凤凰网",
           "ranks": [
-            8,
-            7,
-            6,
-            5
+            2
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时41分 ~ 15时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "【特朗普称观望伊朗局势发展】当地时间1月14日下午，美国总统特朗普在白宫对媒体谈及伊朗局势时表示，“我们要先观望局势发展”。他同时指出美国政府收到了“来自伊朗非常积极的声明”。不过他也并未排除美国采取军事行动的可能性。美媒分析指出，特朗普的这番言论“似乎意在缓解外界对局势可能升级为更广泛地区冲突的担忧”。(CCTV国际时讯",
@@ -769,6 +781,17 @@
           "time_info": "07时19分"
         },
         {
+          "title": "特朗普邀请记者喝放了5天的牛奶",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%82%80%E8%AF%B7%E8%AE%B0%E8%80%85%E5%96%9D%E6%94%BE%E4%BA%865%E5%A4%A9%E7%9A%84%E7%89%9B%E5%A5%B6%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "特朗普：对未用于美国AI的进口芯片征收25%关税",
           "url": "https://flash.jin10.com/detail/20260115043632565800",
           "source": "金十数据",
@@ -824,6 +847,17 @@
           "time_info": "09时45分"
         },
         {
+          "title": "外媒：特朗普称会前往委内瑞拉，并预计委代总统将访问美国",
+          "url": "https://wallstreetcn.com/livenews/3037765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "市场消息：在会见委内瑞拉反对派领导人马查多的前一天，美国总统特朗普称赞马杜罗接班人罗德里格斯。",
           "url": "https://flash.jin10.com/detail/20260115091239147800",
           "source": "金十数据",
@@ -871,7 +905,7 @@
     },
     {
       "keyword_group": "美股 微软 亚马逊 博通 台积电 AMD",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -886,6 +920,17 @@
           "time_info": "[00时31分 ~ 07时19分]"
         },
         {
+          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3763270",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时45分 ~ 16时32分]"
+        },
+        {
           "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
           "url": "https://wallstreetcn.com/articles/3763270",
           "source": "华尔街见闻",
@@ -897,17 +942,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时34分 ~ 06时23分]"
-        },
-        {
-          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3763270",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时45分 ~ 15时26分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 七巨头全军覆没 银行股持续回落",
@@ -985,7 +1019,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -1122,7 +1156,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -1136,6 +1170,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
+        },
+        {
+          "title": "台积电业绩公布后，阿斯麦公司股价上涨6.7%。",
+          "url": "https://flash.jin10.com/detail/20260115161212747800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "在台积电上调业绩指引后，阿斯麦股价大涨7.6%，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3037795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "台积电：正准备提升产能以支持客户。",
@@ -1327,6 +1383,91 @@
       ]
     },
     {
+      "keyword_group": "英伟达 NVIDIA NVDA H200",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "H200难入境,老黄哭晕在厕所",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349179&amp;topic_name=H200%E9%9A%BE%E5%85%A5%E5%A2%83%2C%E8%80%81%E9%BB%84%E5%93%AD%E6%99%95%E5%9C%A8%E5%8E%95%E6%89%80",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时42分 ~ 16时32分]"
+        },
+        {
+          "title": "标普500指数跌幅扩大至1%、纳指跌1.56%，英伟达(NVDA.O)跌2.3%。",
+          "url": "https://flash.jin10.com/detail/20260114234958587800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
+        },
+        {
+          "title": "标普500指数初步收跌0.6%，可选消费板块跌1.8%，科技板块跌1.5%，电信板块跌0.6%，必需品板块涨1.1%，能源板块涨2.2%。 纳斯达克100指数初步收跌1.1%，成分股中，Applovin跌7.8%，Intuit跌6.4%，Shopify跌5.9%，博通跌4.1%，拼多多跌3.8%，德州仪器涨2.5%，英特尔涨3%，卡夫亨氏涨3.4%，Strategy涨3.8%。 亚马逊初步收跌2.4%，微软跌2.4%，英伟达跌1.5%，思科跌1.4%，领跌道指成分股，雪佛龙、强生、Merck则涨超2%。 半导体指数跌0.6%，银行指数跌0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3037293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时22分"
+        },
+        {
+          "title": "美国政府将批准向中国出售H200人工智能芯片，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3037694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "美国政府将批准向中国出售H200人工智能芯片 外交部回应",
+          "url": "https://www.cls.cn/detail/2258750",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "美国白宫：特朗普还对某些先进计算芯片征收了25%的关税，例如英伟达H200和AMD MI325X。",
+          "url": "https://flash.jin10.com/detail/20260115053106355800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
+          "title": "中方回应美将批准对华出售H200芯片",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%B0%86%E6%89%B9%E5%87%86%E5%AF%B9%E5%8D%8E%E5%87%BA%E5%94%AEH200%E8%8A%AF%E7%89%87",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 6,
       "titles": [
@@ -1401,68 +1542,6 @@
       ]
     },
     {
-      "keyword_group": "英伟达 NVIDIA NVDA H200",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "H200难入境,老黄哭晕在厕所",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349179&amp;topic_name=H200%E9%9A%BE%E5%85%A5%E5%A2%83%2C%E8%80%81%E9%BB%84%E5%93%AD%E6%99%95%E5%9C%A8%E5%8E%95%E6%89%80",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 15时26分]"
-        },
-        {
-          "title": "标普500指数跌幅扩大至1%、纳指跌1.56%，英伟达(NVDA.O)跌2.3%。",
-          "url": "https://flash.jin10.com/detail/20260114234958587800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
-        },
-        {
-          "title": "标普500指数初步收跌0.6%，可选消费板块跌1.8%，科技板块跌1.5%，电信板块跌0.6%，必需品板块涨1.1%，能源板块涨2.2%。 纳斯达克100指数初步收跌1.1%，成分股中，Applovin跌7.8%，Intuit跌6.4%，Shopify跌5.9%，博通跌4.1%，拼多多跌3.8%，德州仪器涨2.5%，英特尔涨3%，卡夫亨氏涨3.4%，Strategy涨3.8%。 亚马逊初步收跌2.4%，微软跌2.4%，英伟达跌1.5%，思科跌1.4%，领跌道指成分股，雪佛龙、强生、Merck则涨超2%。 半导体指数跌0.6%，银行指数跌0.7%。",
-          "url": "https://wallstreetcn.com/livenews/3037293",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时22分"
-        },
-        {
-          "title": "美国政府将批准向中国出售H200人工智能芯片，外交部回应",
-          "url": "https://wallstreetcn.com/livenews/3037694",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时26分"
-        },
-        {
-          "title": "美国白宫：特朗普还对某些先进计算芯片征收了25%的关税，例如英伟达H200和AMD MI325X。",
-          "url": "https://flash.jin10.com/detail/20260115053106355800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 4,
       "titles": [
@@ -1475,11 +1554,12 @@
             12,
             15,
             9,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时42分 ~ 15时26分]"
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 16时32分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
