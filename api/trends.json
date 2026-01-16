@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T21:38:59.274933+08:00",
-  "total_titles_processed": 1951,
+  "generated_at": "2026-01-16T22:25:20.167714+08:00",
+  "total_titles_processed": 2037,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 96,
+      "match_count": 104,
       "titles": [
         {
           "title": "欧洲多国向格陵兰岛派遣军事人员，白宫：影响不了特朗普",
@@ -73,11 +73,12 @@
             2,
             3,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时36分 ~ 21时38分]"
+          "appearance_count": 9,
+          "time_info": "[14时36分 ~ 22时25分]"
         },
         {
           "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
@@ -90,8 +91,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时40分 ~ 21时38分]"
+          "appearance_count": 13,
+          "time_info": "[11时40分 ~ 22时25分]"
         },
         {
           "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
@@ -116,6 +117,32 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时36分 ~ 05时22分]"
+        },
+        {
+          "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32398697",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时28分 ~ 22时25分]"
+        },
+        {
+          "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
+          "url": "https://www.zhihu.com/question/1995430633518944539",
+          "source": "知乎",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时31分 ~ 22时25分]"
         },
         {
           "title": "美国白宫：特朗普的医保计划将要求保险公司公布费率和承保范围的对比信息。",
@@ -202,31 +229,6 @@
           "time_info": "[19时20分 ~ 19时21分]"
         },
         {
-          "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32398697",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时28分 ~ 21时38分]"
-        },
-        {
-          "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
-          "url": "https://www.zhihu.com/question/1995430633518944539",
-          "source": "知乎",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时31分 ~ 21时38分]"
-        },
-        {
           "title": "白宫发布关于美国总统特朗普医疗保健计划的清单。 特朗普希望降低保费。 特朗普要求国会山编纂关于降低医药成本的（立法）协议。",
           "url": "https://wallstreetcn.com/livenews/3038125",
           "source": "华尔街见闻-快讯",
@@ -249,6 +251,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "特朗普暂缓对关键矿产进口征收新关税 白银市场出现获利了结和价格回撤",
+          "url": "https://flash.jin10.com/detail/20260116215118029800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "美国总统特朗普：欧盟对美国科技公司非常不公平。 对美国公司和美国人来说，欧盟科技罚款都非常不公平。",
@@ -300,6 +313,29 @@
           "time_info": "07时22分"
         },
         {
+          "title": "美指走高和特朗普对伊威胁缓解推动金银价格双双下跌",
+          "url": "https://flash.jin10.com/detail/20260116214827667800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
+          "url": "https://wallstreetcn.com/articles/3763449",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时20分 ~ 22时25分]"
+        },
+        {
           "title": "白宫新闻秘书莱维特：欧洲国家向格陵兰岛派兵不会影响美国总统特朗普关于格陵兰岛的决定。",
           "url": "https://flash.jin10.com/detail/20260116024657437800",
           "source": "金十数据",
@@ -334,18 +370,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时22分]"
-        },
-        {
-          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
-          "url": "https://wallstreetcn.com/articles/3763449",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时20分 ~ 21时38分]"
         },
         {
           "title": "美国总统特朗普赞赏美国股市今天创新高。",
@@ -384,6 +408,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时36分 ~ 01时33分]"
+        },
+        {
+          "title": "释新闻｜特朗普为何暂缓对伊朗动武？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32397863",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时21分 ~ 22时25分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普愿意与任何人共同解决信用卡利率上限问题。",
@@ -433,18 +470,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时40分 ~ 13时27分]"
-        },
-        {
-          "title": "释新闻｜特朗普为何暂缓对伊朗动武？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32397863",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时21分 ~ 21时38分]"
         },
         {
           "title": "美国白宫：美国总统特朗普的医疗保健计划将包括一项保险费用分摊削减计划。",
@@ -758,6 +783,28 @@
           "time_info": "05时22分"
         },
         {
+          "title": "据Politico：美国众议院共和党人自行设定的禁止投票挑战特朗普关税政策的禁令将于本月底到期。",
+          "url": "https://flash.jin10.com/detail/20260116214324557800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "报道：特朗普下周将借达沃斯场合公布利用401(k)支付购房首付的计划",
+          "url": "https://wallstreetcn.com/livenews/3038874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "美国总统特朗普：今天公布了非常亮眼的金融数据，我们的国家从未表现得如此出色！很多人问我原因是什么，我只用一个词回答他们——关税！我们已经获得了数千亿美元的收入，而且几乎没有通胀。",
           "url": "https://flash.jin10.com/detail/20260116064346264800",
           "source": "金十数据",
@@ -769,15 +816,37 @@
           "time_info": "07时22分"
         },
         {
+          "title": "委内瑞拉反对派领导人马查多：委内瑞拉人“支持美国总统特朗普的行动”。",
+          "url": "https://flash.jin10.com/detail/20260116214042937800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "由于特朗普政府将签署协议以抑制电价，一些电力公司股价在盘前下跌，Talen Energy下跌6.8%，Vistra下跌3.2%，Constellation Energy下跌2.6%。",
           "url": "https://wallstreetcn.com/livenews/3038829",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
+        },
+        {
+          "title": "美媒：特朗普称美国“甚至不该”举行中期选举，白宫回应",
+          "url": "https://wallstreetcn.com/livenews/3038864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：无论特朗普选择谁担任主席，美联储都将保持独立性。",
@@ -863,9 +932,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
+        },
+        {
+          "title": "委内瑞拉反对派领导人马查多：特朗普“值得”获得诺贝尔和平奖。",
+          "url": "https://flash.jin10.com/detail/20260116213904331800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "委反对派领袖会见特朗普，后者拒绝为其掌权背书",
@@ -945,6 +1025,17 @@
           "time_info": "09时47分"
         },
         {
+          "title": "委内瑞拉反对派领导人马查多：告诉美国总统特朗普要信任委内瑞拉人民。",
+          "url": "https://flash.jin10.com/detail/20260116213732205800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "“先别打伊朗”，以总理劝告特朗普避免隔靴搔痒式进攻",
           "url": "https://flash.jin10.com/detail/20260116034226096800",
           "source": "金十数据",
@@ -1017,7 +1108,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
         },
@@ -1061,7 +1152,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
         },
@@ -1083,7 +1174,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
         },
@@ -1113,7 +1204,7 @@
     },
     {
       "keyword_group": "美股 微软 亚马逊 博通 台积电 AMD",
-      "match_count": 36,
+      "match_count": 39,
       "titles": [
         {
           "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
@@ -1124,8 +1215,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时47分 ~ 21时38分]"
+          "appearance_count": 17,
+          "time_info": "[09时47分 ~ 22时25分]"
         },
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -1176,8 +1267,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时40分 ~ 21时38分]"
+          "appearance_count": 14,
+          "time_info": "[12时40分 ~ 22时25分]"
         },
         {
           "title": "A股成交缩量超1万亿，台积电大幅上调资本开支点燃算力硬件股，商业航天集体大跌，恒科指跌超1%，携程重挫20%",
@@ -1455,6 +1546,28 @@
           "time_info": "17时28分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-16）",
+          "url": "https://flash.jin10.com/detail/20260116214314914800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "Riot Platforms与AMD签订数据中心租赁协议。 其中包括初步部署25 MW算力，可能会扩张至200 MW算力的选项。 预计这笔交易将带来3.11亿美元承包收入，如果全面扩张可能会达到大约10亿美元。 Riot将在Rockdale购买200英亩土地，交易金额0.96亿美元。 Riot美股盘前涨5%。",
+          "url": "https://wallstreetcn.com/livenews/3038870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "美股收盘：三大股指小幅收涨 大型金融股走强",
           "url": "https://flash.jin10.com/detail/20260116050146912800",
           "source": "金十数据",
@@ -1497,6 +1610,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3038861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "（美股）费城金银指数收涨0.36%，报394.75点，继续创收盘历史新高。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.18%，报2762.08点，也继续创收盘历史新高，北京时间22:30美股开盘之前主要维持微跌状态、持稳于2750点上方，之后跳水至2718.19点，03:24刷新日高至2775点上方。 （美股）原材料指数涨0.13%，报252.76点。 （美股）金属与矿业指数涨0.65%，报244.57点。",
@@ -1546,7 +1670,7 @@
     },
     {
       "keyword_group": "英伟达 NVIDIA NVDA H200",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "英伟达悄然修改论文错误 数据中心铜需求重估",
@@ -1574,11 +1698,25 @@
             19,
             20,
             21,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时37分 ~ 21时38分]"
+          "appearance_count": 21,
+          "time_info": "[00时37分 ~ 22时25分]"
+        },
+        {
+          "title": "杰富瑞：将英伟达(NVDA.O)目标价从250美元上调至275美元。",
+          "url": "https://flash.jin10.com/detail/20260116125850741800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            18,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时26分 ~ 22时25分]"
         },
         {
           "title": "英伟达改口，铜价悬了？丨Hi，今天怎么看？",
@@ -1592,18 +1730,6 @@
           "time_info": "20时45分"
         },
         {
-          "title": "杰富瑞：将英伟达(NVDA.O)目标价从250美元上调至275美元。",
-          "url": "https://flash.jin10.com/detail/20260116125850741800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时26分 ~ 14时36分]"
-        },
-        {
           "title": "老黄“领先一步”，当所有人都在争夺台积电产能，英伟达在“抢地”",
           "url": "https://wallstreetcn.com/articles/3763432",
           "source": "华尔街见闻",
@@ -1611,8 +1737,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 21时38分]"
+          "appearance_count": 4,
+          "time_info": "[17时28分 ~ 22时25分]"
         },
         {
           "title": "美国政府批准向中国出口英伟达 H200 芯片，这对中国 AI 算力市场和国产芯片发展意味着什么？",
@@ -1660,6 +1786,17 @@
           "time_info": "05时22分"
         },
         {
+          "title": "杰富瑞：将英伟达目标价从250美元上调至275美元。",
+          "url": "https://wallstreetcn.com/livenews/3038854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "英伟达收涨超2.1%，领跑美国科技股七巨头，台积电涨超4.4%创收盘历史新高",
           "url": "https://wallstreetcn.com/livenews/3038226",
           "source": "华尔街见闻-快讯",
@@ -1702,8 +1839,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时40分 ~ 21时38分]"
+          "appearance_count": 11,
+          "time_info": "[12时40分 ~ 22时25分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
