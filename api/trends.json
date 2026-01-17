@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T11:23:41.054644+08:00",
-  "total_titles_processed": 854,
+  "generated_at": "2026-01-17T12:33:23.857602+08:00",
+  "total_titles_processed": 915,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 11时23分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 12时33分]"
         },
         {
           "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
@@ -52,11 +52,12 @@
             11,
             12,
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 11时23分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 12时33分]"
         },
         {
           "title": "释新闻｜特朗普为何暂缓对伊朗动武？",
@@ -66,11 +67,12 @@
             13,
             14,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 11时23分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 12时33分]"
         },
         {
           "title": "梦想成真!特朗普喜提二手诺奖",
@@ -90,11 +92,24 @@
           "source": "凤凰网",
           "ranks": [
             1,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时21分 ~ 12时33分]"
+        },
+        {
+          "title": "特朗普：这是卡尼该做的事，签协议是好事",
+          "url": "https://news.ifeng.com/c/8pyqg7dqBOh",
+          "source": "凤凰网",
+          "ranks": [
+            2,
             4
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时21分 ~ 11时23分]"
+          "time_info": "[09时41分 ~ 12时33分]"
         },
         {
           "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
@@ -108,15 +123,17 @@
           "time_info": "[00时31分 ~ 07时21分]"
         },
         {
-          "title": "特朗普：这是卡尼该做的事，签协议是好事",
-          "url": "https://news.ifeng.com/c/8pyqg7dqBOh",
-          "source": "凤凰网",
+          "title": "特朗普称可能对不支持美获得格陵兰岛计划的国家加征关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32403340",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            7,
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时41分 ~ 11时23分]"
+          "appearance_count": 4,
+          "time_info": "[09时41分 ~ 12时33分]"
         },
         {
           "title": "特朗普拟推紧急电力拍卖 科技巨头或成最大赢家",
@@ -146,11 +163,25 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时41分 ~ 11时23分]"
+          "appearance_count": 4,
+          "time_info": "[09时41分 ~ 12时33分]"
+        },
+        {
+          "title": "哈塞特“出局”？沃什呼声大增！特朗普称希望哈塞特继续担任白宫顾问",
+          "url": "https://wallstreetcn.com/articles/3763493",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时41分 ~ 12时33分]"
         },
         {
           "title": "美国财长贝森特：美联储主席候选人减少一位，至四人。 贝莱德分析师Rick Rieder昨天会见总统特朗普。 对于美联储理事鲍曼，最合适的安排就是继续担任现在的职务。",
@@ -162,18 +193,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
-        },
-        {
-          "title": "特朗普称可能对不支持美获得格陵兰岛计划的国家加征关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32403340",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时41分 ~ 11时23分]"
         },
         {
           "title": "据美国哥伦比亚广播公司（CBS）：消息人士表示，前波多黎各总督Wanda Vazquez Garced正获得特朗普的赦免。",
@@ -298,16 +317,30 @@
           "time_info": "[03时20分 ~ 04时23分]"
         },
         {
-          "title": "哈塞特“出局”？沃什呼声大增！特朗普称希望哈塞特继续担任白宫顾问",
-          "url": "https://wallstreetcn.com/articles/3763493",
-          "source": "华尔街见闻",
+          "title": "媒体调查：民众对美国总统特朗普的经济管理不满",
+          "url": "https://flash.jin10.com/detail/20260117080445022800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            6
+            13,
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时41分 ~ 11时23分]"
+          "appearance_count": 4,
+          "time_info": "[09时41分 ~ 12时33分]"
+        },
+        {
+          "title": "美国总统特朗普购买100万美元奈飞和华纳兄弟探索公司的债券。 此举是在宣布两家公司有望合并的消息之后。（华盛顿邮报）",
+          "url": "https://wallstreetcn.com/livenews/3039055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时41分 ~ 12时33分]"
         },
         {
           "title": "美国总统特朗普：现在没有理由在明尼苏达州使用叛乱法。",
@@ -320,30 +353,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时34分 ~ 03时21分]"
-        },
-        {
-          "title": "媒体调查：民众对美国总统特朗普的经济管理不满",
-          "url": "https://flash.jin10.com/detail/20260117080445022800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时41分 ~ 11时23分]"
-        },
-        {
-          "title": "美国总统特朗普购买100万美元奈飞和华纳兄弟探索公司的债券。 此举是在宣布两家公司有望合并的消息之后。（华盛顿邮报）",
-          "url": "https://wallstreetcn.com/livenews/3039055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时41分 ~ 11时23分]"
         },
         {
           "title": "美国总统特朗普在致埃及总统塞西的信中表示，美国已准备好重启在埃及与埃塞俄比亚之间的调解工作，以期“一劳永逸”地解决尼罗河水分配问题。",
@@ -744,6 +753,19 @@
           "time_info": "[02时34分 ~ 07时21分]"
         },
         {
+          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
+          "url": "https://www.cls.cn/detail/2260993",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时21分 ~ 12时33分]"
+        },
+        {
           "title": "金十图示：2026年01月16日（周五）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260117050528991800",
           "source": "金十数据",
@@ -754,18 +776,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时22分 ~ 09时42分]"
-        },
-        {
-          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
-          "url": "https://www.cls.cn/detail/2260993",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时21分 ~ 11时23分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.06%，报395.01点，本周累计上涨5.47%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.06%，报2760.43点，特朗普谈论哈塞特带来一波尖锐的V形走势，本周累涨5.38%。 （美股）原材料指数收跌0.21%，报252.23点，本周累涨2.89%。 （美股）金属与矿业指数收跌1.09%，报241.90点，本周累涨4.46%。",
@@ -924,11 +934,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时41分 ~ 11时23分]"
+          "appearance_count": 4,
+          "time_info": "[09时41分 ~ 12时33分]"
         },
         {
           "title": "OpenAI推出ChatGPT Go，美国订阅费用为每个月8美元。 在全球范围内对ChatGPT提供三层订阅方案。 ChatGPT Plus月租20美元，ChatGPT Pro月租200美元。 Plus、Pro、Bussiness、Enterprise都不包含广告。 还没有在ChatGPT推出广告。 将免费测试广告功能，将在成年人群体实施分层订阅方案。 未来数周将开始测试第一批广告格式。 将在ChatGPT答案的底部测试广告。 广告将有清晰的标签，与答案有分隔。",
@@ -1045,11 +1056,12 @@
           "ranks": [
             23,
             24,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 11时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 12时33分]"
         },
         {
           "title": "英伟达修改数据中心铜用量表述",
@@ -1058,7 +1070,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -1067,11 +1079,12 @@
           "url": "https://flash.jin10.com/detail/20260117093435565800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 12时33分]"
         }
       ]
     },
@@ -1111,11 +1124,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             16,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时41分 ~ 11时23分]"
+          "appearance_count": 4,
+          "time_info": "[09时41分 ~ 12时33分]"
         }
       ]
     }
