@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T14:32:19.738212+08:00",
-  "total_titles_processed": 1024,
+  "generated_at": "2026-01-17T15:20:34.803875+08:00",
+  "total_titles_processed": 1078,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时25分 ~ 06时22分]"
+        },
+        {
+          "title": "特朗普为夺岛发出关税威胁，美议员组队唱反调",
+          "url": "https://news.ifeng.com/c/8pyaPdxiAtr",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时21分 ~ 15时20分]"
         },
         {
           "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
@@ -45,19 +58,6 @@
           "time_info": "[00时31分 ~ 07时21分]"
         },
         {
-          "title": "特朗普为夺岛发出关税威胁，美议员组队唱反调",
-          "url": "https://news.ifeng.com/c/8pyaPdxiAtr",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时21分 ~ 14时32分]"
-        },
-        {
           "title": "特朗普：这是卡尼该做的事，签协议是好事",
           "url": "https://news.ifeng.com/c/8pyqg7dqBOh",
           "source": "凤凰网",
@@ -66,8 +66,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时41分 ~ 14时32分]"
+          "appearance_count": 7,
+          "time_info": "[09时41分 ~ 15时20分]"
+        },
+        {
+          "title": "特朗普称可能对不支持美获得格陵兰岛计划的国家加征关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32403340",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时41分 ~ 15时20分]"
         },
         {
           "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
@@ -112,19 +125,6 @@
           "time_info": "[00时31分 ~ 09时42分]"
         },
         {
-          "title": "特朗普称可能对不支持美获得格陵兰岛计划的国家加征关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32403340",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时41分 ~ 14时32分]"
-        },
-        {
           "title": "哈塞特“出局”？沃什呼声大增！特朗普称希望哈塞特继续担任白宫顾问",
           "url": "https://wallstreetcn.com/articles/3763493",
           "source": "华尔街见闻",
@@ -135,19 +135,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时41分 ~ 14时32分]"
-        },
-        {
-          "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
-          "url": "https://www.zhihu.com/question/1995430633518944539",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 07时21分]"
+          "appearance_count": 7,
+          "time_info": "[09时41分 ~ 15时20分]"
         },
         {
           "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
@@ -161,8 +150,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时41分 ~ 14时32分]"
+          "appearance_count": 7,
+          "time_info": "[09时41分 ~ 15时20分]"
+        },
+        {
+          "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
+          "url": "https://www.zhihu.com/question/1995430633518944539",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 07时21分]"
         },
         {
           "title": "特朗普拟推紧急电力拍卖 科技巨头或成最大赢家",
@@ -574,7 +574,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -629,7 +629,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -762,6 +762,20 @@
           "time_info": "[00时31分 ~ 07时21分]"
         },
         {
+          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
+          "url": "https://www.cls.cn/detail/2260993",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时21分 ~ 15时20分]"
+        },
+        {
           "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
           "url": "https://www.cls.cn/detail/2260838",
           "source": "财联社热门",
@@ -774,20 +788,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时31分 ~ 13时21分]"
-        },
-        {
-          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
-          "url": "https://www.cls.cn/detail/2260993",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时21分 ~ 14时32分]"
         },
         {
           "title": "科技股助推美股指全线上涨，纳指涨0.5%，白银价格逆势重挫5%",
@@ -912,7 +912,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "清华姚班陈立杰加入OpenAI",
@@ -935,11 +935,12 @@
             9,
             14,
             20,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时41分 ~ 14时32分]"
+          "appearance_count": 7,
+          "time_info": "[09时41分 ~ 15时20分]"
         },
         {
           "title": "OpenAI：目前尚未推出广告，但我们计划在未来几周内开始在美国针对ChatGPT免费版和Go层级的已登录成年人进行测试。",
@@ -979,6 +980,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时34分 ~ 04时23分]"
+        },
+        {
+          "title": "解读ChatGPT加入广告背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBChatGPT%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         },
         {
           "title": "OpenAI推出ChatGPT Go，美国订阅费用为每个月8美元。 在全球范围内对ChatGPT提供三层订阅方案。 ChatGPT Plus月租20美元，ChatGPT Pro月租200美元。 Plus、Pro、Bussiness、Enterprise都不包含广告。 还没有在ChatGPT推出广告。 将免费测试广告功能，将在成年人群体实施分层订阅方案。 未来数周将开始测试第一批广告格式。 将在ChatGPT答案的底部测试广告。 广告将有清晰的标签，与答案有分隔。",
@@ -1111,8 +1123,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 14时32分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 15时20分]"
         },
         {
           "title": "英伟达修改数据中心铜用量表述",
