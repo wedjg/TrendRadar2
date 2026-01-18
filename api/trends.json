@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T17:22:42.616201+08:00",
-  "total_titles_processed": 1011,
+  "generated_at": "2026-01-18T18:23:17.549434+08:00",
+  "total_titles_processed": 1083,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "欧洲极右翼忙“割席”：特朗普过分了",
@@ -187,6 +187,21 @@
           "time_info": "[00时24分 ~ 07时20分]"
         },
         {
+          "title": "异军突起！周四与特朗普会面顺利，贝莱德的里德尔竞选美联储主席呼声渐起",
+          "url": "https://wallstreetcn.com/articles/3763532",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时24分 ~ 18时23分]"
+        },
+        {
           "title": "特朗普首次提及：可能对不支持美获得格陵兰岛计划的国家加征关税",
           "url": "https://wallstreetcn.com/articles/3763499",
           "source": "华尔街见闻",
@@ -213,6 +228,17 @@
           "time_info": "[11时47分 ~ 15时21分]"
         },
         {
+          "title": "特朗普发黑白照：我是关税之王(图)",
+          "url": "https://news.ifeng.com/c/8q0nQjJB7h7",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时24分 ~ 18时23分]"
+        },
+        {
           "title": "特朗普关税美遭议员批评，民主党将阻止其征税",
           "url": "https://flash.jin10.com/detail/20260118121713560800",
           "source": "金十数据",
@@ -225,6 +251,21 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时42分 ~ 15时21分]"
+        },
+        {
+          "title": "特朗普因格陵兰岛向欧洲8国加税",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%A0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%90%91%E6%AC%A7%E6%B4%B28%E5%9B%BD%E5%8A%A0%E7%A8%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7,
+            16,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时47分 ~ 18时23分]"
         },
         {
           "title": "在对欧洲征税前，特朗普发个人照“关税之王”",
@@ -284,45 +325,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时24分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普发黑白照：我是关税之王(图)",
-          "url": "https://news.ifeng.com/c/8q0nQjJB7h7",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时24分 ~ 17时22分]"
-        },
-        {
-          "title": "异军突起！周四与特朗普会面顺利，贝莱德的里德尔竞选美联储主席呼声渐起",
-          "url": "https://wallstreetcn.com/articles/3763532",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时24分 ~ 17时22分]"
-        },
-        {
-          "title": "特朗普因格陵兰岛向欧洲8国加税",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%A0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%90%91%E6%AC%A7%E6%B4%B28%E5%9B%BD%E5%8A%A0%E7%A8%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            7,
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时47分 ~ 17时22分]"
         },
         {
           "title": "特朗普拟对加沙和平委员会常任席位收取逾十亿美元会费",
@@ -485,6 +487,29 @@
           "time_info": "[00时24分 ~ 01时18分]"
         },
         {
+          "title": "约旦表示，阿卜杜拉国王收到了美国总统特朗普发出的加入加沙和平委员会的邀请。",
+          "url": "https://flash.jin10.com/detail/20260118162133517800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时23分]"
+        },
+        {
+          "title": "特朗普欲将加沙“和平委员会”模式全球复制，视为“联合国的可能替代机构”",
+          "url": "https://wallstreetcn.com/articles/3763529",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 18时23分]"
+        },
+        {
           "title": "特朗普和平委员会是什么机构",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E5%B9%B3%E5%A7%94%E5%91%98%E4%BC%9A%E6%98%AF%E4%BB%80%E4%B9%88%E6%9C%BA%E6%9E%84",
           "source": "bilibili 热搜",
@@ -556,15 +581,15 @@
           "time_info": "[00时24分 ~ 07时20分]"
         },
         {
-          "title": "约旦表示，阿卜杜拉国王收到了美国总统特朗普发出的加入加沙和平委员会的邀请。",
-          "url": "https://flash.jin10.com/detail/20260118162133517800",
+          "title": "德国工程协会表示，欧盟委员会应考虑采取反胁迫工具，以应对美国总统特朗普针对格陵兰岛的关税威胁。",
+          "url": "https://flash.jin10.com/detail/20260118171938820800",
           "source": "金十数据",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时22分"
+          "time_info": "18时23分"
         },
         {
           "title": "特朗普称他“说服了自己”暂缓对伊朗采取军事行动",
@@ -578,15 +603,15 @@
           "time_info": "07时20分"
         },
         {
-          "title": "特朗普欲将加沙“和平委员会”模式全球复制，视为“联合国的可能替代机构”",
-          "url": "https://wallstreetcn.com/articles/3763529",
-          "source": "华尔街见闻",
+          "title": "欧洲指责特朗普引发“危险恶性循环”，将面临哪些艰难抉择？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32410190",
+          "source": "澎湃新闻",
           "ranks": [
-            10
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时28分"
+          "time_info": "18时23分"
         },
         {
           "title": "法国总统马克龙表示，美国总统特朗普关于格陵兰岛的关税威胁不可接受。",
@@ -617,7 +642,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -678,11 +703,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时32分 ~ 17时22分]"
+          "appearance_count": 6,
+          "time_info": "[14时32分 ~ 18时23分]"
         },
         {
           "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
@@ -693,8 +719,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时43分 ~ 17时22分]"
+          "appearance_count": 7,
+          "time_info": "[12时43分 ~ 18时23分]"
         },
         {
           "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
@@ -754,11 +780,12 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            24
+            24,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时21分 ~ 17时22分]"
+          "appearance_count": 4,
+          "time_info": "[15时21分 ~ 18时23分]"
         }
       ]
     },
@@ -776,8 +803,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时24分 ~ 17时22分]"
+          "appearance_count": 8,
+          "time_info": "[13时24分 ~ 18时23分]"
         }
       ]
     },
@@ -796,11 +823,12 @@
             8,
             9,
             15,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时53分 ~ 17时22分]"
+          "appearance_count": 12,
+          "time_info": "[09时53分 ~ 18时23分]"
         }
       ]
     }
