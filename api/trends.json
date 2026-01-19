@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T00:31:45.792837+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-20T01:25:00.921162+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时25分]"
         },
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -26,8 +26,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时25分]"
+        },
+        {
+          "title": "克罗地亚总统乱抖包袱：特朗普还不如占领斯瓦尔巴群岛",
+          "url": "https://news.ifeng.com/c/8q2uSgRf3ld",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时25分]"
         },
         {
           "title": "丹麦外交部长：相信英国首相斯塔默已与美国总统特朗普直接通话。",
@@ -41,48 +52,52 @@
           "time_info": "00时31分"
         },
         {
+          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
+          "url": "https://wallstreetcn.com/articles/3763548",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时25分]"
+        },
+        {
+          "title": "特朗普“私信”震惊欧洲：“因未获诺贝尔和平奖，我不再只考虑“和平”，美国必须完全控制格陵兰”",
+          "url": "https://wallstreetcn.com/articles/3763623",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时25分]"
+        },
+        {
           "title": "特朗普拒绝说明是否会以武力夺取格陵兰",
           "url": "https://wallstreetcn.com/livenews/3039855",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "克罗地亚总统乱抖包袱：特朗普还不如占领斯瓦尔巴群岛",
-          "url": "https://news.ifeng.com/c/8q2uSgRf3ld",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时25分]"
         },
         {
           "title": "特朗普被问及如果无法达成格陵兰岛交易，是否会按计划对欧洲国家加征关税，他回答“我百分之百会这么做”。",
           "url": "https://wallstreetcn.com/livenews/3039854",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
-          "url": "https://wallstreetcn.com/articles/3763548",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时25分]"
         },
         {
           "title": "普京被邀请加入特朗普“和平委员会”",
@@ -92,19 +107,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "特朗普“私信”震惊欧洲：“因未获诺贝尔和平奖，我不再只考虑“和平”，美国必须完全控制格陵兰”",
-          "url": "https://wallstreetcn.com/articles/3763623",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时25分]"
         },
         {
           "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
@@ -114,8 +118,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时25分]"
         },
         {
           "title": "美国总统特朗普：（当被问及在未能达成格陵兰岛协议的情况下，是否会落实对欧洲国家加征关税的计划时）我会的，百分之百！",
@@ -253,8 +257,25 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌6.01%，暂报3824.50点，保持一段时间的微幅上涨状态之后，北京时间07:00从日高4106.50点跳水，迅速在08:08刷新日低至3714.89点。 MarketVectorTM数字资产100中盘指数跌5.90%，报3514.13点，06:54刷新日高至3765.08点，08:08刷新日低至3430.70点。 MarketVector数字资产100指数跌2.63%，报19159.74点， 07:00出现一波跳水行情，从日高19774.12点快速跌至18952.97点刷新日低。 目前，Solana跌5.73%，狗狗币跌6.17%，XRP跌1.61%。 比特币跌2.23%，暂报93184.25美元；以太坊跌3.75%，暂报3218.33美元。",
+          "url": "https://wallstreetcn.com/livenews/3039869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 01时25分]"
         }
       ]
     },
@@ -270,8 +291,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时25分]"
         }
       ]
     }
