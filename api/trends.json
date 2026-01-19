@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T20:51:56.680447+08:00",
-  "total_titles_processed": 1595,
+  "generated_at": "2026-01-19T21:46:48.368924+08:00",
+  "total_titles_processed": 1682,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 79,
+      "match_count": 83,
       "titles": [
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时51分 ~ 20时51分]"
+          "appearance_count": 14,
+          "time_info": "[09时51分 ~ 21时46分]"
         },
         {
           "title": "特朗普挥关税大棒强索格陵兰岛，意大利总理：这是个“错误”",
@@ -90,8 +90,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时53分 ~ 20时51分]"
+          "appearance_count": 11,
+          "time_info": "[12时53分 ~ 21时46分]"
         },
         {
           "title": "伊朗总统警告特朗普：攻击哈梅内伊将引发全面战争",
@@ -305,6 +305,17 @@
           "time_info": "[03时16分 ~ 07时21分]"
         },
         {
+          "title": "欧盟将召开紧急峰会应对特朗普“夺岛”关税",
+          "url": "https://wallstreetcn.com/livenews/3039803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
+        },
+        {
           "title": "金十整理：从突袭委内瑞拉、威胁伊朗到为格陵兰岛对欧发动关税战，特朗普开年三周的“三连击”将如何搅动市场？",
           "url": "https://flash.jin10.com/detail/20260119182634326800",
           "source": "金十数据",
@@ -405,6 +416,17 @@
           "time_info": "16时34分"
         },
         {
+          "title": "特朗普为何对欧洲8国加税",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E5%AF%B9%E6%AC%A7%E6%B4%B28%E5%9B%BD%E5%8A%A0%E7%A8%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
+        },
+        {
           "title": "斯塔默与特朗普通话，称对北约盟国加税是错误做法",
           "url": "https://wallstreetcn.com/livenews/3039313",
           "source": "华尔街见闻-快讯",
@@ -427,6 +449,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时20分 ~ 07时21分]"
+        },
+        {
+          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
+          "url": "https://wallstreetcn.com/articles/3763556",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时35分 ~ 21时46分]"
         },
         {
           "title": "伊朗：将追究特朗普等人责任",
@@ -474,20 +510,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时31分 ~ 19时22分]"
-        },
-        {
-          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
-          "url": "https://wallstreetcn.com/articles/3763556",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时35分 ~ 20时51分]"
         },
         {
           "title": "出于多重考虑 特朗普没有下达对伊朗动武指令",
@@ -634,6 +656,18 @@
           "time_info": "[18时31分 ~ 19时22分]"
         },
         {
+          "title": "据报道，挪威首相获邀加入特朗普的加沙“和平委员会”。",
+          "url": "https://wallstreetcn.com/livenews/3039760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 21时46分]"
+        },
+        {
           "title": "消息人士：格陵兰岛只是开胃菜，特朗普的下一个目标是加拿大",
           "url": "https://flash.jin10.com/detail/20260119141748687800",
           "source": "金十数据",
@@ -704,15 +738,16 @@
           "time_info": "[12时53分 ~ 13时33分]"
         },
         {
-          "title": "据报道，挪威首相获邀加入特朗普的加沙“和平委员会”。",
-          "url": "https://wallstreetcn.com/livenews/3039760",
-          "source": "华尔街见闻-快讯",
+          "title": "普京收到加入特朗普和平委员会邀请",
+          "url": "https://www.toutiao.com/trending/7596940910904573978/",
+          "source": "今日头条",
           "ranks": [
-            9
+            24,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 21时46分]"
         },
         {
           "title": "欧盟委员会发言人：目前达沃斯尚未安排欧盟委员会主席冯德莱恩与美国总统特朗普会面。",
@@ -732,9 +767,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
+        },
+        {
+          "title": "研究显示特朗普关税96%成本由美国国内承担 如同对美国民众征收消费税",
+          "url": "https://wallstreetcn.com/livenews/3039789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
         },
         {
           "title": "美国邀约60国加入特朗普版联合国",
@@ -869,17 +915,6 @@
           "time_info": "19时22分"
         },
         {
-          "title": "普京收到加入特朗普和平委员会邀请",
-          "url": "https://www.toutiao.com/trending/7596940910904573978/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
-        },
-        {
           "title": "德国政府发言人：德国感谢美国总统特朗普发出的和平理事会邀请。",
           "url": "https://flash.jin10.com/detail/20260119184323133800",
           "source": "金十数据",
@@ -897,7 +932,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -908,7 +943,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -922,6 +957,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
+        },
+        {
+          "title": "德国总理默茨：我们知道，美国总统特朗普威胁要征收关税，但谈判也促使他放弃实施这些关税。这一直是我的策略，我将继续坚持这一策略。",
+          "url": "https://flash.jin10.com/detail/20260119210126922800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
         },
         {
           "title": "美财长声援特朗普加税夺岛",
@@ -949,7 +995,7 @@
     },
     {
       "keyword_group": "美股 微软 亚马逊 博通 台积电 AMD",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股明日休市 金银油交易提前结束",
@@ -986,6 +1032,17 @@
           "time_info": "16时34分"
         },
         {
+          "title": "格陵兰引发关税战风险，美股指期货走低，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
+        },
+        {
           "title": "A股制冷剂概念股震荡拉升，昊华科技涨停，永和股份、三美股份、巨化股份、金石资源跟涨。",
           "url": "https://wallstreetcn.com/livenews/3039552",
           "source": "华尔街见闻-快讯",
@@ -1006,6 +1063,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时39分 ~ 14时40分]"
+        },
+        {
+          "title": "台积电2纳米芯片价格暴涨 或带动iPhone 18系列涨价",
+          "url": "https://wallstreetcn.com/livenews/3039792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
         }
       ]
     },
@@ -1066,6 +1134,18 @@
           "time_info": "[00时25分 ~ 07时21分]"
         },
         {
+          "title": "“大空头”放话：AI繁荣即将转为长期低迷，英伟达掉下神坛只是时间问题！",
+          "url": "https://www.cls.cn/detail/2262181",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 21时46分]"
+        },
+        {
           "title": "马斯克：AI5双芯片协同相当于英伟达Blackwell水平",
           "url": "https://flash.jin10.com/detail/20260119125355949800",
           "source": "金十数据",
@@ -1075,17 +1155,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
-        },
-        {
-          "title": "“大空头”放话：AI繁荣即将转为长期低迷，英伟达掉下神坛只是时间问题！",
-          "url": "https://www.cls.cn/detail/2262181",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
         }
       ]
     },
@@ -1122,8 +1191,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时51分 ~ 20时51分]"
+          "appearance_count": 13,
+          "time_info": "[11时51分 ~ 21时46分]"
         }
       ]
     }
