@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T16:33:32.423820+08:00",
-  "total_titles_processed": 1510,
+  "generated_at": "2026-01-21T17:33:58.812480+08:00",
+  "total_titles_processed": 1608,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 117,
+      "match_count": 122,
       "titles": [
         {
           "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
@@ -61,11 +61,12 @@
           "source": "凤凰网",
           "ranks": [
             2,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时45分 ~ 16时33分]"
+          "appearance_count": 8,
+          "time_info": "[11时45分 ~ 17时33分]"
         },
         {
           "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
@@ -81,6 +82,22 @@
           "time_info": "[00时37分 ~ 07时23分]"
         },
         {
+          "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            15,
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时49分 ~ 17时33分]"
+        },
+        {
           "title": "“拿地”的诱惑：格陵兰岛替代方案全否定，特朗普想要的是产权",
           "url": "https://news.ifeng.com/c/8q5TLuwIzXC",
           "source": "凤凰网",
@@ -93,32 +110,6 @@
           "time_info": "[09时49分 ~ 13时29分]"
         },
         {
-          "title": "特朗普关税威胁不留情面，芬兰总统格外尴尬",
-          "url": "https://news.ifeng.com/c/8q5VLcoKihU",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时49分 ~ 13时29分]"
-        },
-        {
-          "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16,
-            15,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时49分 ~ 16时33分]"
-        },
-        {
           "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
           "url": "https://wallstreetcn.com/articles/3763739",
           "source": "华尔街见闻",
@@ -128,8 +119,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时45分 ~ 16时33分]"
+          "appearance_count": 8,
+          "time_info": "[11时45分 ~ 17时33分]"
+        },
+        {
+          "title": "特朗普关税威胁不留情面，芬兰总统格外尴尬",
+          "url": "https://news.ifeng.com/c/8q5VLcoKihU",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 13时29分]"
         },
         {
           "title": "冯德莱恩回应特朗普：你错了，无论政治还是商业，协议就是协议",
@@ -152,6 +154,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时37分 ~ 07时23分]"
+        },
+        {
+          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时45分 ~ 17时33分]"
         },
         {
           "title": "特朗普计划于4月访华？外交部回应",
@@ -204,19 +220,6 @@
           "time_info": "[00时37分 ~ 06时24分]"
         },
         {
-          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时45分 ~ 16时33分]"
-        },
-        {
           "title": "马克龙在达沃斯喊话特朗普",
           "url": "https://www.douyin.com/hot/2374693",
           "source": "抖音",
@@ -243,6 +246,17 @@
           "time_info": "04时13分"
         },
         {
+          "title": "特朗普回应不去G7峰会",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%8D%E5%8E%BBG7%E5%B3%B0%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
           "title": "特朗普重返白宫一周年，过半美国民众：表现失败",
           "url": "https://news.ifeng.com/c/8q4dfuUNG75",
           "source": "凤凰网",
@@ -263,6 +277,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普抵达达沃斯。",
+          "url": "https://flash.jin10.com/detail/20260121172709023800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
         },
         {
           "title": "美国财长贝森特：丹麦在国债市场中的地位无关紧要，这个国家本身也是如此。 已与日本方面取得联系，他们将使市场趋于稳定。 格陵兰岛应当成为美国的一部分。 目前尚未安排与英国的贸易谈判事宜。 欧洲应该打破内部贸易壁垒。 欧洲也应该打破外部贸易壁垒。 特朗普到达沃斯会迟到大约三个小时。",
@@ -287,6 +312,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时45分 ~ 14时38分]"
+        },
+        {
+          "title": "芬兰总统“出招”：邀特朗普蒸桑拿",
+          "url": "https://news.ifeng.com/c/8q65PAAxlZG",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
         },
         {
           "title": "美国总统特朗普：我们占领了墨西哥湾，现在它成了美国湾。我们拥有92%的海岸线。这事儿一直让我耿耿于怀……我本来想把它叫做“特朗普湾”。我开玩笑的。不过这名字听起来确实不错。",
@@ -397,6 +433,18 @@
           "time_info": "[05时21分 ~ 06时24分]"
         },
         {
+          "title": "特朗普称“和平委员会”可能取代联合国，中方回应",
+          "url": "https://www.cls.cn/detail/2264936",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 17时33分]"
+        },
+        {
           "title": "欧洲央行行长拉加德：（与美国总统特朗普紧密相关的）不确定性卷土重来。 特朗普的威胁是我们曾经观看过的电影。 （欧美之间的）信任正被破坏。",
           "url": "https://wallstreetcn.com/livenews/3040685",
           "source": "华尔街见闻-快讯",
@@ -458,6 +506,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时45分 ~ 13时29分]"
+        },
+        {
+          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
+          "url": "https://www.zhihu.com/question/1996540321803301777",
+          "source": "知乎",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 17时33分]"
         },
         {
           "title": "以色列总理办公室：总理内塔尼亚胡已接受邀请，将加入特朗普的和平委员会。",
@@ -565,17 +625,6 @@
           "time_info": "[14时37分 ~ 14时38分]"
         },
         {
-          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
-          "url": "https://www.zhihu.com/question/1996540321803301777",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 16时33分]"
-        },
-        {
           "title": "据国际文传电讯社：阿塞拜疆同意加入美国总统特朗普的和平委员会。",
           "url": "https://flash.jin10.com/detail/20260121134843317800",
           "source": "金十数据",
@@ -626,7 +675,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -662,17 +711,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
-        },
-        {
-          "title": "特朗普称“和平委员会”可能取代联合国，中方回应",
-          "url": "https://www.cls.cn/detail/2264936",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时33分"
         },
         {
           "title": "美国总统特朗普：很多人合法入境，但他们必须证明他们热爱我们的国家。",
@@ -835,7 +873,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -893,6 +931,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "继挪威和法国之后，瑞典拒绝加入特朗普的“加沙和平委员会”",
+          "url": "https://flash.jin10.com/detail/20260121171832769800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
         },
         {
           "title": "美国总统特朗普：格陵兰将大大提高“金穹”系统的效能。 在达沃斯期间可能会与欧洲达成某种解决方案。",
@@ -1036,6 +1085,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "以色列罕见与特朗普公开叫板",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E7%BD%95%E8%A7%81%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E5%8F%AB%E6%9D%BF%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
         },
         {
           "title": "美国总统特朗普：“收回”巴拿马运河在考虑范围内。",
@@ -1349,7 +1409,7 @@
     },
     {
       "keyword_group": "美股 微软 亚马逊 博通 台积电 AMD",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
@@ -1359,8 +1419,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时23分 ~ 16时33分]"
+          "appearance_count": 10,
+          "time_info": "[07时23分 ~ 17时33分]"
         },
         {
           "title": "美股收盘：关税阴影再度笼罩市场 三大指数集体大跌 纳指跌超2%",
@@ -1476,6 +1536,18 @@
           "time_info": "[05时21分 ~ 06时24分]"
         },
         {
+          "title": "拼多多美股夜盘一度涨超9%。",
+          "url": "https://wallstreetcn.com/livenews/3041116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 17时33分]"
+        },
+        {
           "title": "全球科技股指数ETF收跌将近3%，领跌美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3040692",
           "source": "华尔街见闻-快讯",
@@ -1510,17 +1582,6 @@
           "time_info": "04时13分"
         },
         {
-          "title": "拼多多美股夜盘一度涨超9%。",
-          "url": "https://wallstreetcn.com/livenews/3041116",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
           "title": "金十图示：2026年01月20日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260121015850758800",
           "source": "金十数据",
@@ -1543,13 +1604,35 @@
           "time_info": "02时38分"
         },
         {
+          "title": "拼多多美股盘前涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3041149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
+          "title": "美股存储板块盘前普涨，闪迪(SNDK.O)涨超3%，西部数据(WDC.O)、美光科技(MU.O)涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260121171634449800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
           "title": "拼多多美股夜盘涨超5%。",
           "url": "https://wallstreetcn.com/livenews/3041102",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         }
@@ -1816,8 +1899,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时45分 ~ 16时33分]"
+          "appearance_count": 7,
+          "time_info": "[11时45分 ~ 17时33分]"
         }
       ]
     },
