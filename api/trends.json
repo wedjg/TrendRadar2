@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T18:31:41.981899+08:00",
-  "total_titles_processed": 1692,
+  "generated_at": "2026-01-21T19:25:46.170509+08:00",
+  "total_titles_processed": 1796,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 127,
+      "match_count": 129,
       "titles": [
         {
           "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
@@ -69,6 +69,37 @@
           "time_info": "[11时45分 ~ 17时33分]"
         },
         {
+          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
+          "url": "https://wallstreetcn.com/articles/3763739",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时45分 ~ 19时25分]"
+        },
+        {
+          "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            15,
+            12,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时49分 ~ 19时25分]"
+        },
+        {
           "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
           "url": "https://wallstreetcn.com/articles/3763642",
           "source": "华尔街见闻",
@@ -82,34 +113,19 @@
           "time_info": "[00时37分 ~ 07时23分]"
         },
         {
-          "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
+          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
           "source": "澎湃新闻",
           "ranks": [
             20,
-            16,
+            19,
+            17,
             15,
-            12,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时49分 ~ 18时31分]"
-        },
-        {
-          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
-          "url": "https://wallstreetcn.com/articles/3763739",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
+            14
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[11时45分 ~ 18时31分]"
+          "time_info": "[12时45分 ~ 19时25分]"
         },
         {
           "title": "“拿地”的诱惑：格陵兰岛替代方案全否定，特朗普想要的是产权",
@@ -135,20 +151,6 @@
           "time_info": "[09时49分 ~ 13时29分]"
         },
         {
-          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时45分 ~ 18时31分]"
-        },
-        {
           "title": "冯德莱恩回应特朗普：你错了，无论政治还是商业，协议就是协议",
           "url": "https://news.ifeng.com/c/8q4kJoceknE",
           "source": "凤凰网",
@@ -158,6 +160,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时49分 ~ 12时45分]"
+        },
+        {
+          "title": "芬兰总统“出招”：邀特朗普蒸桑拿",
+          "url": "https://news.ifeng.com/c/8q65PAAxlZG",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时33分 ~ 19时25分]"
+        },
+        {
+          "title": "特朗普称“和平委员会”可能取代联合国，中方回应",
+          "url": "https://www.cls.cn/detail/2264936",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 19时25分]"
         },
         {
           "title": "特朗普称将对法国葡萄酒和香槟征收 200% 的关税，以此迫使马克龙加入「和平委员会」，如何看待此事？",
@@ -184,17 +211,6 @@
           "time_info": "[00时37分 ~ 07时23分]"
         },
         {
-          "title": "芬兰总统“出招”：邀特朗普蒸桑拿",
-          "url": "https://news.ifeng.com/c/8q65PAAxlZG",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时33分 ~ 18时31分]"
-        },
-        {
           "title": "美国总统特朗普：（谈庇护城市）庇护城市将不再获得资金，他们可以起诉我们，也许他们会赢。",
           "url": "https://flash.jin10.com/detail/20260121034907075800",
           "source": "金十数据",
@@ -215,19 +231,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
-        },
-        {
-          "title": "特朗普称“和平委员会”可能取代联合国，中方回应",
-          "url": "https://www.cls.cn/detail/2264936",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时33分 ~ 18时31分]"
         },
         {
           "title": "特朗普2.0政府：月月惊奇桩桩怪象",
@@ -350,6 +353,17 @@
           "time_info": "04时13分"
         },
         {
+          "title": "世界经济论坛：特朗普演讲将按计划于当地时间下午2:30（北京时间晚21:30）开始。",
+          "url": "https://wallstreetcn.com/livenews/3041250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
           "title": "美国总统特朗普：与委内瑞拉领导人相处融洽。",
           "url": "https://flash.jin10.com/detail/20260121033511635800",
           "source": "金十数据",
@@ -409,6 +423,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时38分 ~ 07时23分]"
+        },
+        {
+          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
+          "url": "https://www.zhihu.com/question/1996540321803301777",
+          "source": "知乎",
+          "ranks": [
+            20,
+            18,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时29分 ~ 19时25分]"
         },
         {
           "title": "特朗普借他人之口自比巴菲特",
@@ -484,19 +512,6 @@
           "time_info": "[11时45分 ~ 15时29分]"
         },
         {
-          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
-          "url": "https://www.zhihu.com/question/1996540321803301777",
-          "source": "知乎",
-          "ranks": [
-            20,
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时29分 ~ 18时31分]"
-        },
-        {
           "title": "特朗普发插旗图有何目的",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%8F%92%E6%97%97%E5%9B%BE%E6%9C%89%E4%BD%95%E7%9B%AE%E7%9A%84",
           "source": "bilibili 热搜",
@@ -521,6 +536,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时45分 ~ 13时29分]"
+        },
+        {
+          "title": "特朗普刚喊完中俄威胁，转头就否了",
+          "url": "https://news.ifeng.com/c/8q61Pub3oAS",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 19时25分]"
         },
         {
           "title": "以色列总理办公室：总理内塔尼亚胡已接受邀请，将加入特朗普的和平委员会。",
@@ -649,17 +675,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时37分 ~ 14时38分]"
-        },
-        {
-          "title": "特朗普刚喊完中俄威胁，转头就否了",
-          "url": "https://news.ifeng.com/c/8q61Pub3oAS",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时31分"
         },
         {
           "title": "美国总统特朗普：很快就会打击陆路毒品走私。",
@@ -811,7 +826,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -954,7 +969,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -1075,7 +1090,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -1100,6 +1115,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "城堡基金CEO格里芬：美国总统特朗普试图鼓励美联储推行的宽松货币政策加大了通胀风险。",
+          "url": "https://flash.jin10.com/detail/20260121185148194800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "美国财长暗示特朗普对国防企业的潜在限制未来可能放宽",
@@ -1251,7 +1277,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -1478,8 +1504,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时23分 ~ 18时31分]"
+          "appearance_count": 12,
+          "time_info": "[07时23分 ~ 19时25分]"
         },
         {
           "title": "美股收盘：关税阴影再度笼罩市场 三大指数集体大跌 纳指跌超2%",
@@ -1595,6 +1621,18 @@
           "time_info": "[05时21分 ~ 06时24分]"
         },
         {
+          "title": "寄望达沃斯“降温地缘局势”，美股指期货齐涨，拼多多盘前涨7%，黄金新高后回落，日债大幅反弹",
+          "url": "https://wallstreetcn.com/articles/3763768",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 19时25分]"
+        },
+        {
           "title": "拼多多美股夜盘一度涨超9%。",
           "url": "https://wallstreetcn.com/livenews/3041116",
           "source": "华尔街见闻-快讯",
@@ -1653,17 +1691,6 @@
           "time_info": "04时13分"
         },
         {
-          "title": "寄望达沃斯“降温地缘局势”，美股指期货齐涨，拼多多盘前涨7%，黄金新高后回落，日债大幅反弹",
-          "url": "https://wallstreetcn.com/articles/3763768",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时31分"
-        },
-        {
           "title": "金十图示：2026年01月20日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260121015850758800",
           "source": "金十数据",
@@ -1706,6 +1733,193 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达 NVIDIA NVDA H200",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "【早报】欧美股市齐跌，英伟达、特斯拉跌逾4%；近期多家银行卫星上天",
+          "url": "https://www.cls.cn/detail/2264320",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时49分 ~ 14时38分]"
+        },
+        {
+          "title": "英伟达修改数据中心铜需求「笔误」，50 万吨下调至 200 吨，如何看待此事？是否动摇了铜的投资逻辑？",
+          "url": "https://www.zhihu.com/question/1995534550126833961",
+          "source": "知乎",
+          "ranks": [
+            16,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 07时23分]"
+        },
+        {
+          "title": "英伟达对AI初创公司Baseten投资1.5亿美元，对后者的估值为50亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3040636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时38分 ~ 04时13分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜英伟达收跌将近4.4%，特斯拉跌约4.2%，苹果和亚马逊至少跌3.4%",
+          "url": "https://wallstreetcn.com/livenews/3040693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时23分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：人工智能将有助于缩小发达经济体与新兴经济体之间的技术鸿沟。",
+          "url": "https://flash.jin10.com/detail/20260121185920177800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
+          "title": "美股收盘：三大股指大跌 英伟达跌超4%",
+          "url": "https://flash.jin10.com/detail/20260121050048735800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：人工智能正在提高生产力，促使各行各业的企业加大招聘力度。",
+          "url": "https://flash.jin10.com/detail/20260121185405679800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
+          "title": "纳斯达克100指数跌幅收窄至不足1%。 成分股Strategy目前跌6.6%，FAST跌4%，Shopify跌3.9%，博通跌3.5%跌幅第四大，英伟达跌2.9%、特斯拉跌2.8%、铿腾电子（芯片软件设计/EDA公司）跌2.8%、科磊跌2.8%跌幅居前，美光科技则涨3.3%，西部数据涨3.4%，英特尔涨5.3%。",
+          "url": "https://wallstreetcn.com/livenews/3040588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时37分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：人工智能是人类历史上规模最大的基础设施建设。",
+          "url": "https://flash.jin10.com/detail/20260121184937992800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
+          "title": "G42的CEO Peng Xiao：预计阿联酋将在未来数月获得第一批由（由英伟达、Cerebras Inc.等供应的）高级AI芯片。",
+          "url": "https://wallstreetcn.com/livenews/3040577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时37分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：人工智能是一场“平台变革”。 需要建设数万亿美元规模的基础设施项目。 人工智能产业正在创造就业机会。 GPU租赁服务的现货价格正在上涨。",
+          "url": "https://wallstreetcn.com/livenews/3041219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：人工智能产业正在创造就业机会。",
+          "url": "https://flash.jin10.com/detail/20260121184841870800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：能源、半导体及其他人工智能应用领域已在经济上受益。",
+          "url": "https://flash.jin10.com/detail/20260121184659056800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：人工智能本质上是一个由“五层蛋糕”组成的架构，能够带动经济增长。人工智能的层级包括能源、芯片、基础设施、模型以及人工智能应用。由于跨行业经济效益，人工智能应用是最重要的一层。",
+          "url": "https://flash.jin10.com/detail/20260121184448101800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：与以往的技术进步相比，人工智能更容易理解。",
+          "url": "https://flash.jin10.com/detail/20260121184354050800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：数万亿美元的基础设施亟待建设。",
+          "url": "https://flash.jin10.com/detail/20260121184319331800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         }
       ]
     },
@@ -1755,7 +1969,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -1843,97 +2057,9 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英伟达 NVIDIA NVDA H200",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "【早报】欧美股市齐跌，英伟达、特斯拉跌逾4%；近期多家银行卫星上天",
-          "url": "https://www.cls.cn/detail/2264320",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时49分 ~ 14时38分]"
-        },
-        {
-          "title": "英伟达修改数据中心铜需求「笔误」，50 万吨下调至 200 吨，如何看待此事？是否动摇了铜的投资逻辑？",
-          "url": "https://www.zhihu.com/question/1995534550126833961",
-          "source": "知乎",
-          "ranks": [
-            16,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 07时23分]"
-        },
-        {
-          "title": "英伟达对AI初创公司Baseten投资1.5亿美元，对后者的估值为50亿美元。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3040636",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时38分 ~ 04时13分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜英伟达收跌将近4.4%，特斯拉跌约4.2%，苹果和亚马逊至少跌3.4%",
-          "url": "https://wallstreetcn.com/livenews/3040693",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 07时23分]"
-        },
-        {
-          "title": "美股收盘：三大股指大跌 英伟达跌超4%",
-          "url": "https://flash.jin10.com/detail/20260121050048735800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "纳斯达克100指数跌幅收窄至不足1%。 成分股Strategy目前跌6.6%，FAST跌4%，Shopify跌3.9%，博通跌3.5%跌幅第四大，英伟达跌2.9%、特斯拉跌2.8%、铿腾电子（芯片软件设计/EDA公司）跌2.8%、科磊跌2.8%跌幅居前，美光科技则涨3.3%，西部数据涨3.4%，英特尔涨5.3%。",
-          "url": "https://wallstreetcn.com/livenews/3040588",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
-          "title": "G42的CEO Peng Xiao：预计阿联酋将在未来数月获得第一批由（由英伟达、Cerebras Inc.等供应的）高级AI芯片。",
-          "url": "https://wallstreetcn.com/livenews/3040577",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
         }
       ]
     },
@@ -1990,11 +2116,12 @@
             6,
             9,
             8,
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时45分 ~ 18时31分]"
+          "appearance_count": 9,
+          "time_info": "[11时45分 ~ 19时25分]"
         }
       ]
     },
