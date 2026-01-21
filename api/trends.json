@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T13:29:59.816416+08:00",
-  "total_titles_processed": 1178,
+  "generated_at": "2026-01-21T14:38:06.119396+08:00",
+  "total_titles_processed": 1295,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 106,
+      "match_count": 110,
       "titles": [
         {
           "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 13时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时37分 ~ 14时38分]"
         },
         {
           "title": "一图看懂｜特朗普发持星条旗登岛图，格陵兰岛的战略价值在哪",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 13时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时37分 ~ 14时38分]"
         },
         {
           "title": "特朗普暗示吞并加拿大、格陵兰、委内瑞拉(图)",
@@ -42,6 +42,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时37分 ~ 07时23分]"
+        },
+        {
+          "title": "特朗普和马克龙，直接开干了",
+          "url": "https://news.ifeng.com/c/8q5SVoWM0NJ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时49分 ~ 14时38分]"
         },
         {
           "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
@@ -57,16 +69,16 @@
           "time_info": "[00时37分 ~ 07时23分]"
         },
         {
-          "title": "特朗普和马克龙，直接开干了",
-          "url": "https://news.ifeng.com/c/8q5SVoWM0NJ",
+          "title": "特朗普：中俄只是“妖怪”，北约和联合国是“真威胁”",
+          "url": "https://news.ifeng.com/c/8q5cMiwVA1q",
           "source": "凤凰网",
           "ranks": [
-            1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时49分 ~ 13时29分]"
+          "appearance_count": 5,
+          "time_info": "[11时45分 ~ 14时38分]"
         },
         {
           "title": "“拿地”的诱惑：格陵兰岛替代方案全否定，特朗普想要的是产权",
@@ -90,18 +102,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时49分 ~ 13时29分]"
-        },
-        {
-          "title": "特朗普：中俄只是“妖怪”，北约和联合国是“真威胁”",
-          "url": "https://news.ifeng.com/c/8q5cMiwVA1q",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时45分 ~ 13时29分]"
         },
         {
           "title": "冯德莱恩回应特朗普：你错了，无论政治还是商业，协议就是协议",
@@ -161,6 +161,19 @@
           "time_info": "09时49分"
         },
         {
+          "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时49分 ~ 14时38分]"
+        },
+        {
           "title": "特朗普2.0政府：月月惊奇桩桩怪象",
           "url": "https://www.toutiao.com/trending/7597438425674812937/",
           "source": "今日头条",
@@ -209,6 +222,19 @@
           "time_info": "04时13分"
         },
         {
+          "title": "特朗普晒马克龙私信",
+          "url": "https://www.douyin.com/hot/2374658",
+          "source": "抖音",
+          "ranks": [
+            21,
+            23,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时45分 ~ 14时38分]"
+        },
+        {
           "title": "美国总统特朗普：我们占领了墨西哥湾，现在它成了美国湾。我们拥有92%的海岸线。这事儿一直让我耿耿于怀……我本来想把它叫做“特朗普湾”。我开玩笑的。不过这名字听起来确实不错。",
           "url": "https://flash.jin10.com/detail/20260121033913590800",
           "source": "金十数据",
@@ -218,6 +244,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
+          "url": "https://wallstreetcn.com/articles/3763739",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时45分 ~ 14时38分]"
         },
         {
           "title": "美国总统特朗普：与委内瑞拉领导人相处融洽。",
@@ -267,6 +305,20 @@
           "time_info": "[00时37分 ~ 05时21分]"
         },
         {
+          "title": "马克龙在达沃斯喊话特朗普",
+          "url": "https://www.douyin.com/hot/2374693",
+          "source": "抖音",
+          "ranks": [
+            23,
+            11,
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时45分 ~ 14时38分]"
+        },
+        {
           "title": "特朗普公开马克龙给他的私信",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E9%A9%AC%E5%85%8B%E9%BE%99%E7%BB%99%E4%BB%96%E7%9A%84%E7%A7%81%E4%BF%A1%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -279,19 +331,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时38分 ~ 07时23分]"
-        },
-        {
-          "title": "马克龙在达沃斯喊话特朗普",
-          "url": "https://www.douyin.com/hot/2374693",
-          "source": "抖音",
-          "ranks": [
-            23,
-            11,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时45分 ~ 13时29分]"
         },
         {
           "title": "特朗普借他人之口自比巴菲特",
@@ -354,29 +393,28 @@
           "time_info": "[06时24分 ~ 07时23分]"
         },
         {
-          "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
+          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
           "source": "澎湃新闻",
           "ranks": [
-            20,
-            16,
-            15
+            20
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时49分 ~ 13时29分]"
+          "time_info": "[12时45分 ~ 14时38分]"
         },
         {
-          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
-          "url": "https://wallstreetcn.com/articles/3763739",
-          "source": "华尔街见闻",
+          "title": "特朗普发插旗图有何目的",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%8F%92%E6%97%97%E5%9B%BE%E6%9C%89%E4%BD%95%E7%9B%AE%E7%9A%84",
+          "source": "bilibili 热搜",
           "ranks": [
-            8,
-            7
+            9,
+            10,
+            23
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时45分 ~ 13时29分]"
+          "time_info": "[12时45分 ~ 14时38分]"
         },
         {
           "title": "达利欧：特朗普或引爆“资本战争” 海外资金正重估美元资产",
@@ -392,16 +430,27 @@
           "time_info": "[11时45分 ~ 13时29分]"
         },
         {
-          "title": "特朗普晒马克龙私信",
-          "url": "https://www.douyin.com/hot/2374658",
-          "source": "抖音",
+          "title": "暗示动武？特朗普：若关税工具受限 可采用其他手段夺取格陵兰岛！",
+          "url": "https://www.cls.cn/detail/2264363",
+          "source": "财联社热门",
           "ranks": [
-            21,
-            23
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时45分 ~ 13时29分]"
+          "time_info": "[11时45分 ~ 14时38分]"
+        },
+        {
+          "title": "以色列总理办公室：总理内塔尼亚胡已接受邀请，将加入特朗普的和平委员会。",
+          "url": "https://flash.jin10.com/detail/20260121141939966800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 14时38分]"
         },
         {
           "title": "特朗普：不会前往巴黎参加七国集团峰会",
@@ -428,18 +477,6 @@
           "time_info": "[06时24分 ~ 07时23分]"
         },
         {
-          "title": "特朗普发插旗图有何目的",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%8F%92%E6%97%97%E5%9B%BE%E6%9C%89%E4%BD%95%E7%9B%AE%E7%9A%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 13时29分]"
-        },
-        {
           "title": "美国总统特朗普：允许人工智能公司自行发电。 用关税收入取代所得税是一个选项。",
           "url": "https://wallstreetcn.com/livenews/3040916",
           "source": "华尔街见闻-快讯",
@@ -462,6 +499,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时38分 ~ 04时13分]"
+        },
+        {
+          "title": "空军一号因电路故障返航 导致特朗普的达沃斯之行延迟",
+          "url": "https://wallstreetcn.com/livenews/3041004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 14时38分]"
         },
         {
           "title": "特朗普：若最高法限制联邦政府关税政策，还可采用其他手段",
@@ -488,15 +536,26 @@
           "time_info": "[12时45分 ~ 13时29分]"
         },
         {
-          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
-          "source": "澎湃新闻",
+          "title": "欧盟官员：欧盟不应在对特朗普采取报复措施方面有所保留",
+          "url": "https://flash.jin10.com/detail/20260121140459089800",
+          "source": "金十数据",
           "ranks": [
-            20
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时45分 ~ 13时29分]"
+          "time_info": "[14时37分 ~ 14时38分]"
+        },
+        {
+          "title": "据国际文传电讯社：阿塞拜疆同意加入美国总统特朗普的和平委员会。",
+          "url": "https://flash.jin10.com/detail/20260121134843317800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 14时38分]"
         },
         {
           "title": "美国总统特朗普：很快就会打击陆路毒品走私。",
@@ -708,17 +767,6 @@
           "time_info": "09时49分"
         },
         {
-          "title": "暗示动武？特朗普：若关税工具受限 可采用其他手段夺取格陵兰岛！",
-          "url": "https://www.cls.cn/detail/2264363",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时45分"
-        },
-        {
           "title": "特朗普：我们国家如今面临的所有犯罪问题，都是“昏睡乔（美国前总统拜登）”和围在白宫椭圆形办公室决策桌旁的激进左翼暴徒一手造成的——当然，还包括对自动签字笔（Auto Pen）的非法使用！！！他们都该进监狱！",
           "url": "https://flash.jin10.com/detail/20260121005256279800",
           "source": "金十数据",
@@ -912,7 +960,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -934,7 +982,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -1217,8 +1265,32 @@
     },
     {
       "keyword_group": "美股 微软 亚马逊 博通 台积电 AMD",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
+          "url": "https://wallstreetcn.com/articles/3763668",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时23分 ~ 14时38分]"
+        },
+        {
+          "title": "美股收盘：关税阴影再度笼罩市场 三大指数集体大跌 纳指跌超2%",
+          "url": "https://www.cls.cn/detail/2264307",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时23分 ~ 14时38分]"
+        },
         {
           "title": "格陵兰岛事件升温欧美股市普跌 现货黄金、白银再创新高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2264127",
@@ -1246,30 +1318,6 @@
           "time_info": "[00时37分 ~ 06时24分]"
         },
         {
-          "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
-          "url": "https://wallstreetcn.com/articles/3763668",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时23分 ~ 13时29分]"
-        },
-        {
-          "title": "美股收盘：关税阴影再度笼罩市场 三大指数集体大跌 纳指跌超2%",
-          "url": "https://www.cls.cn/detail/2264307",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时23分 ~ 13时29分]"
-        },
-        {
           "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
           "url": "https://wallstreetcn.com/articles/3763546",
           "source": "华尔街见闻",
@@ -1291,6 +1339,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时23分]"
+        },
+        {
+          "title": "美股存储概念股齐刷新高！闪迪暴涨10% 投行大幅上调目标价",
+          "url": "https://www.cls.cn/detail/2264507",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时45分 ~ 14时38分]"
         },
         {
           "title": "纽约期银涨6.7%，美股盘前刷新历史高位，逼近96美元",
@@ -1329,18 +1390,6 @@
           "time_info": "[05时21分 ~ 06时24分]"
         },
         {
-          "title": "美股存储概念股齐刷新高！闪迪暴涨10% 投行大幅上调目标价",
-          "url": "https://www.cls.cn/detail/2264507",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 13时29分]"
-        },
-        {
           "title": "全球科技股指数ETF收跌将近3%，领跌美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3040692",
           "source": "华尔街见闻-快讯",
@@ -1351,6 +1400,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时23分]"
+        },
+        {
+          "title": "台积电3纳米产能满载至2027年",
+          "url": "https://wallstreetcn.com/livenews/3040978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 14时38分]"
         },
         {
           "title": "美股三大股指持续走低，标普500指数跌超2%，道指现跌约1.8%，纳指跌2.2%。",
@@ -1444,7 +1504,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -1518,8 +1578,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时49分 ~ 13时29分]"
+          "appearance_count": 6,
+          "time_info": "[09时49分 ~ 14时38分]"
         },
         {
           "title": "英伟达修改数据中心铜需求「笔误」，50 万吨下调至 200 吨，如何看待此事？是否动摇了铜的投资逻辑？",
@@ -1643,11 +1703,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时45分 ~ 13时29分]"
+          "appearance_count": 4,
+          "time_info": "[11时45分 ~ 14时38分]"
         }
       ]
     },
