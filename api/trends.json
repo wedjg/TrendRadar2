@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T17:33:58.812480+08:00",
-  "total_titles_processed": 1608,
+  "generated_at": "2026-01-21T18:31:41.981899+08:00",
+  "total_titles_processed": 1692,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 122,
+      "match_count": 127,
       "titles": [
         {
           "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
@@ -91,11 +91,25 @@
             15,
             12,
             9,
-            8
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时49分 ~ 18时31分]"
+        },
+        {
+          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
+          "url": "https://wallstreetcn.com/articles/3763739",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[09时49分 ~ 17时33分]"
+          "time_info": "[11时45分 ~ 18时31分]"
         },
         {
           "title": "“拿地”的诱惑：格陵兰岛替代方案全否定，特朗普想要的是产权",
@@ -110,19 +124,6 @@
           "time_info": "[09时49分 ~ 13时29分]"
         },
         {
-          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
-          "url": "https://wallstreetcn.com/articles/3763739",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时45分 ~ 17时33分]"
-        },
-        {
           "title": "特朗普关税威胁不留情面，芬兰总统格外尴尬",
           "url": "https://news.ifeng.com/c/8q5VLcoKihU",
           "source": "凤凰网",
@@ -132,6 +133,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时49分 ~ 13时29分]"
+        },
+        {
+          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时45分 ~ 18时31分]"
         },
         {
           "title": "冯德莱恩回应特朗普：你错了，无论政治还是商业，协议就是协议",
@@ -156,20 +171,6 @@
           "time_info": "[00时37分 ~ 07时23分]"
         },
         {
-          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时45分 ~ 17时33分]"
-        },
-        {
           "title": "特朗普计划于4月访华？外交部回应",
           "url": "https://www.toutiao.com/trending/7596273635871031359/",
           "source": "今日头条",
@@ -181,6 +182,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时37分 ~ 07时23分]"
+        },
+        {
+          "title": "芬兰总统“出招”：邀特朗普蒸桑拿",
+          "url": "https://news.ifeng.com/c/8q65PAAxlZG",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 18时31分]"
         },
         {
           "title": "美国总统特朗普：（谈庇护城市）庇护城市将不再获得资金，他们可以起诉我们，也许他们会赢。",
@@ -203,6 +215,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        },
+        {
+          "title": "特朗普称“和平委员会”可能取代联合国，中方回应",
+          "url": "https://www.cls.cn/detail/2264936",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时33分 ~ 18时31分]"
         },
         {
           "title": "特朗普2.0政府：月月惊奇桩桩怪象",
@@ -252,7 +277,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -285,7 +310,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -312,17 +337,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时45分 ~ 14时38分]"
-        },
-        {
-          "title": "芬兰总统“出招”：邀特朗普蒸桑拿",
-          "url": "https://news.ifeng.com/c/8q65PAAxlZG",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时33分"
         },
         {
           "title": "美国总统特朗普：我们占领了墨西哥湾，现在它成了美国湾。我们拥有92%的海岸线。这事儿一直让我耿耿于怀……我本来想把它叫做“特朗普湾”。我开玩笑的。不过这名字听起来确实不错。",
@@ -433,18 +447,6 @@
           "time_info": "[05时21分 ~ 06时24分]"
         },
         {
-          "title": "特朗普称“和平委员会”可能取代联合国，中方回应",
-          "url": "https://www.cls.cn/detail/2264936",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 17时33分]"
-        },
-        {
           "title": "欧洲央行行长拉加德：（与美国总统特朗普紧密相关的）不确定性卷土重来。 特朗普的威胁是我们曾经观看过的电影。 （欧美之间的）信任正被破坏。",
           "url": "https://wallstreetcn.com/livenews/3040685",
           "source": "华尔街见闻-快讯",
@@ -482,6 +484,19 @@
           "time_info": "[11时45分 ~ 15时29分]"
         },
         {
+          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
+          "url": "https://www.zhihu.com/question/1996540321803301777",
+          "source": "知乎",
+          "ranks": [
+            20,
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时29分 ~ 18时31分]"
+        },
+        {
           "title": "特朗普发插旗图有何目的",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%8F%92%E6%97%97%E5%9B%BE%E6%9C%89%E4%BD%95%E7%9B%AE%E7%9A%84",
           "source": "bilibili 热搜",
@@ -506,18 +521,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时45分 ~ 13时29分]"
-        },
-        {
-          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
-          "url": "https://www.zhihu.com/question/1996540321803301777",
-          "source": "知乎",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时29分 ~ 17时33分]"
         },
         {
           "title": "以色列总理办公室：总理内塔尼亚胡已接受邀请，将加入特朗普的和平委员会。",
@@ -625,6 +628,18 @@
           "time_info": "[14时37分 ~ 14时38分]"
         },
         {
+          "title": "以色列罕见与特朗普公开叫板",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E7%BD%95%E8%A7%81%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E5%8F%AB%E6%9D%BF%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 18时31分]"
+        },
+        {
           "title": "据国际文传电讯社：阿塞拜疆同意加入美国总统特朗普的和平委员会。",
           "url": "https://flash.jin10.com/detail/20260121134843317800",
           "source": "金十数据",
@@ -634,6 +649,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时37分 ~ 14时38分]"
+        },
+        {
+          "title": "特朗普刚喊完中俄威胁，转头就否了",
+          "url": "https://news.ifeng.com/c/8q61Pub3oAS",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "美国总统特朗普：很快就会打击陆路毒品走私。",
@@ -779,6 +805,17 @@
           "time_info": "04时13分"
         },
         {
+          "title": "瑞典表示不会签署特朗普和平委员会计划的现行版本",
+          "url": "https://wallstreetcn.com/livenews/3041184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "立陶宛总统：希望在达沃斯听到美国总统特朗普就缓和格陵兰岛问题传来的令人鼓舞的消息。",
           "url": "https://flash.jin10.com/detail/20260121003051968800",
           "source": "金十数据",
@@ -911,6 +948,17 @@
           "time_info": "04时13分"
         },
         {
+          "title": "埃及外交部：埃及接受美国总统特朗普的邀请，加入“和平委员会”。",
+          "url": "https://flash.jin10.com/detail/20260121180923591800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "美国总统特朗普：美国贸易逆差下降77%。",
           "url": "https://flash.jin10.com/detail/20260121031920273800",
           "source": "金十数据",
@@ -939,7 +987,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -1021,6 +1069,17 @@
           "time_info": "05时21分"
         },
         {
+          "title": "克里姆林宫：（就特朗普关于“世界其他地区所不知的秘密武器”的言论）我们尚未收到美方就美国总统所指内容作出的说明。",
+          "url": "https://flash.jin10.com/detail/20260121180546914800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "美国总统特朗普：我不知道最高法院会在关税问题上做出什么裁决。",
           "url": "https://flash.jin10.com/detail/20260121030957820800",
           "source": "金十数据",
@@ -1085,17 +1144,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
-        },
-        {
-          "title": "以色列罕见与特朗普公开叫板",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E7%BD%95%E8%A7%81%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E5%8F%AB%E6%9D%BF%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时33分"
         },
         {
           "title": "美国总统特朗普：“收回”巴拿马运河在考虑范围内。",
@@ -1195,6 +1243,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "土耳其总统埃尔多安：与美国总统特朗普就叙利亚问题进行了富有成效的通话，其中包括就与“伊斯兰国”的战斗进行磋商。",
+          "url": "https://flash.jin10.com/detail/20260121175748272800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "美国总统特朗普：美国“可能会”“强行收回”巴拿马运河。",
@@ -1409,7 +1468,7 @@
     },
     {
       "keyword_group": "美股 微软 亚马逊 博通 台积电 AMD",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
@@ -1419,8 +1478,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时23分 ~ 17时33分]"
+          "appearance_count": 11,
+          "time_info": "[07时23分 ~ 18时31分]"
         },
         {
           "title": "美股收盘：关税阴影再度笼罩市场 三大指数集体大跌 纳指跌超2%",
@@ -1560,6 +1619,18 @@
           "time_info": "[06时24分 ~ 07时23分]"
         },
         {
+          "title": "拼多多美股盘前涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3041149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 18时31分]"
+        },
+        {
           "title": "台积电3纳米产能满载至2027年",
           "url": "https://wallstreetcn.com/livenews/3040978",
           "source": "华尔街见闻-快讯",
@@ -1580,6 +1651,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "寄望达沃斯“降温地缘局势”，美股指期货齐涨，拼多多盘前涨7%，黄金新高后回落，日债大幅反弹",
+          "url": "https://wallstreetcn.com/articles/3763768",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "金十图示：2026年01月20日（周二）美股热门股票行情一览（美股盘中）",
@@ -1604,24 +1686,13 @@
           "time_info": "02时38分"
         },
         {
-          "title": "拼多多美股盘前涨超7%。",
-          "url": "https://wallstreetcn.com/livenews/3041149",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时33分"
-        },
-        {
           "title": "美股存储板块盘前普涨，闪迪(SNDK.O)涨超3%，西部数据(WDC.O)、美光科技(MU.O)涨超2%。",
           "url": "https://flash.jin10.com/detail/20260121171634449800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -1640,7 +1711,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "OpenAI已开始向数十家广告商展示其全新的聊天机器人广告。OpenAI将于2月份正式推出聊天机器人广告，并将根据广告曝光量（浏览量）进行计费。（The Information）",
@@ -1676,6 +1747,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
+        },
+        {
+          "title": "OpenAI：作为“OpenAI面向各国”倡议的一部分，推出面向各国的OpenAI教育项目。",
+          "url": "https://wallstreetcn.com/livenews/3041189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "OpenAI披露其关于年龄预测的方式。 公司在ChatGPT消费者计划推出年龄预测。 未来数周，将在欧洲市场推出年龄预测功能。",
@@ -1753,6 +1835,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "OpenAI：作为“OpenAI面向各国”倡议的一部分，推出面向各国的OpenAI教育项目。",
+          "url": "https://flash.jin10.com/detail/20260121175350755800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         }
       ]
     },
@@ -1896,11 +1989,12 @@
             3,
             6,
             9,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时45分 ~ 17时33分]"
+          "appearance_count": 8,
+          "time_info": "[11时45分 ~ 18时31分]"
         }
       ]
     },
