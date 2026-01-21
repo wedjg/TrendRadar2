@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T15:29:47.166109+08:00",
-  "total_titles_processed": 1399,
+  "generated_at": "2026-01-21T16:33:32.423820+08:00",
+  "total_titles_processed": 1510,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 114,
+      "match_count": 117,
       "titles": [
         {
           "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
@@ -33,6 +33,18 @@
           "time_info": "[00时37分 ~ 15时29分]"
         },
         {
+          "title": "特朗普和马克龙，直接开干了",
+          "url": "https://news.ifeng.com/c/8q5SVoWM0NJ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时49分 ~ 16时33分]"
+        },
+        {
           "title": "特朗普暗示吞并加拿大、格陵兰、委内瑞拉(图)",
           "url": "https://news.ifeng.com/c/8q4QMT6vE0S",
           "source": "凤凰网",
@@ -44,18 +56,6 @@
           "time_info": "[00时37分 ~ 07时23分]"
         },
         {
-          "title": "特朗普和马克龙，直接开干了",
-          "url": "https://news.ifeng.com/c/8q5SVoWM0NJ",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时49分 ~ 15时29分]"
-        },
-        {
           "title": "特朗普：中俄只是“妖怪”，北约和联合国是“真威胁”",
           "url": "https://news.ifeng.com/c/8q5cMiwVA1q",
           "source": "凤凰网",
@@ -64,8 +64,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时45分 ~ 15时29分]"
+          "appearance_count": 7,
+          "time_info": "[11时45分 ~ 16时33分]"
         },
         {
           "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
@@ -104,6 +104,34 @@
           "time_info": "[09时49分 ~ 13时29分]"
         },
         {
+          "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            15,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时49分 ~ 16时33分]"
+        },
+        {
+          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
+          "url": "https://wallstreetcn.com/articles/3763739",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时45分 ~ 16时33分]"
+        },
+        {
           "title": "冯德莱恩回应特朗普：你错了，无论政治还是商业，协议就是协议",
           "url": "https://news.ifeng.com/c/8q4kJoceknE",
           "source": "凤凰网",
@@ -126,20 +154,6 @@
           "time_info": "[00时37分 ~ 07时23分]"
         },
         {
-          "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时49分 ~ 15时29分]"
-        },
-        {
           "title": "特朗普计划于4月访华？外交部回应",
           "url": "https://www.toutiao.com/trending/7596273635871031359/",
           "source": "今日头条",
@@ -151,19 +165,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时37分 ~ 07时23分]"
-        },
-        {
-          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
-          "url": "https://wallstreetcn.com/articles/3763739",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时45分 ~ 15时29分]"
         },
         {
           "title": "美国总统特朗普：（谈庇护城市）庇护城市将不再获得资金，他们可以起诉我们，也许他们会赢。",
@@ -201,6 +202,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时37分 ~ 06时24分]"
+        },
+        {
+          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时45分 ~ 16时33分]"
         },
         {
           "title": "马克龙在达沃斯喊话特朗普",
@@ -257,7 +271,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -345,18 +359,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时38分 ~ 07时23分]"
-        },
-        {
-          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时45分 ~ 15时29分]"
         },
         {
           "title": "特朗普借他人之口自比巴菲特",
@@ -563,6 +565,17 @@
           "time_info": "[14时37分 ~ 14时38分]"
         },
         {
+          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
+          "url": "https://www.zhihu.com/question/1996540321803301777",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 16时33分]"
+        },
+        {
           "title": "据国际文传电讯社：阿塞拜疆同意加入美国总统特朗普的和平委员会。",
           "url": "https://flash.jin10.com/detail/20260121134843317800",
           "source": "金十数据",
@@ -607,6 +620,17 @@
           "time_info": "07时23分"
         },
         {
+          "title": "西门子能源董事长：如果美国最高法院推翻特朗普的部分关税，我很可能会鼓励管理层申请退税。",
+          "url": "https://flash.jin10.com/detail/20260121161610375800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "雪佛龙在纠结：如何能迎合特朗普，又避免在委内瑞拉亏钱",
           "url": "https://news.ifeng.com/c/8q4peEzXW4m",
           "source": "凤凰网",
@@ -638,6 +662,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        },
+        {
+          "title": "特朗普称“和平委员会”可能取代联合国，中方回应",
+          "url": "https://www.cls.cn/detail/2264936",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "美国总统特朗普：很多人合法入境，但他们必须证明他们热爱我们的国家。",
@@ -679,7 +714,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -794,13 +829,24 @@
           "time_info": "09时49分"
         },
         {
+          "title": "西门子能源董事长：公司首席执行官将于今天晚些时候出席美国总统特朗普与高管的会议。",
+          "url": "https://flash.jin10.com/detail/20260121161147233800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "特朗普：联合国应继续存在 但“和平委员会”可能取而代之",
           "url": "https://www.cls.cn/detail/2264327",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -992,17 +1038,6 @@
           "time_info": "05时21分"
         },
         {
-          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
-          "url": "https://www.zhihu.com/question/1996540321803301777",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时29分"
-        },
-        {
           "title": "美国总统特朗普：“收回”巴拿马运河在考虑范围内。",
           "url": "https://flash.jin10.com/detail/20260121043153039800",
           "source": "金十数据",
@@ -1031,7 +1066,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -1314,7 +1349,7 @@
     },
     {
       "keyword_group": "美股 微软 亚马逊 博通 台积电 AMD",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
@@ -1324,8 +1359,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时23分 ~ 15时29分]"
+          "appearance_count": 9,
+          "time_info": "[07时23分 ~ 16时33分]"
         },
         {
           "title": "美股收盘：关税阴影再度笼罩市场 三大指数集体大跌 纳指跌超2%",
@@ -1385,11 +1420,12 @@
             11,
             9,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时45分 ~ 15时29分]"
+          "appearance_count": 6,
+          "time_info": "[12时45分 ~ 16时33分]"
         },
         {
           "title": "（美股）费城金银指数收涨5.23%，报415.65点，美股长周末归来跳空高开、全天持续高位窄幅震荡。 （全球时段）纽约证交所ARCA金矿开采商指数涨4.65%，报2912.14点，继续创收盘历史新高，北京时间22:30美股开盘之前大致持稳于2780点附近，随后跳空走高至2880点一线并持续高位窄幅震荡。 （美股）原材料指数收涨0.42%，（美股）金属与矿业指数收涨0.96%。",
@@ -1474,6 +1510,17 @@
           "time_info": "04时13分"
         },
         {
+          "title": "拼多多美股夜盘一度涨超9%。",
+          "url": "https://wallstreetcn.com/livenews/3041116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "金十图示：2026年01月20日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260121015850758800",
           "source": "金十数据",
@@ -1494,6 +1541,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "拼多多美股夜盘涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3041102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         }
       ]
     },
@@ -1758,8 +1816,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时45分 ~ 15时29分]"
+          "appearance_count": 6,
+          "time_info": "[11时45分 ~ 16时33分]"
         }
       ]
     },
