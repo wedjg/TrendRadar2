@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T18:29:06.594419+08:00",
-  "total_titles_processed": 1681,
+  "generated_at": "2026-01-22T19:24:51.196702+08:00",
+  "total_titles_processed": 1769,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 187,
+      "match_count": 192,
       "titles": [
         {
           "title": "特朗普大闹达沃斯，全世界哭笑不得",
@@ -64,6 +64,17 @@
           "time_info": "[09时49分 ~ 16时34分]"
         },
         {
+          "title": "特朗普讽刺欧洲，瑞典首相站出来了",
+          "url": "https://news.ifeng.com/c/8q7HRYEmKHC",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时36分 ~ 19时24分]"
+        },
+        {
           "title": "特朗普演绎“TACO星期三”！美国市场“雷阵雨转晴” 华尔街如何看？",
           "url": "https://www.cls.cn/detail/2265890",
           "source": "财联社热门",
@@ -100,19 +111,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时49分 ~ 18时29分]"
-        },
-        {
-          "title": "特朗普讽刺欧洲，瑞典首相站出来了",
-          "url": "https://news.ifeng.com/c/8q7HRYEmKHC",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时36分 ~ 18时29分]"
+          "appearance_count": 14,
+          "time_info": "[09时49分 ~ 19时24分]"
         },
         {
           "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
@@ -163,6 +163,19 @@
           "time_info": "[00时47分 ~ 09时49分]"
         },
         {
+          "title": "不动武了、也不加税了！特朗普达沃斯上演“格陵兰TACO”",
+          "url": "https://wallstreetcn.com/articles/3763883",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时29分 ~ 19时24分]"
+        },
+        {
           "title": "特朗普要败诉？美最高法对罢免美联储理事库克态度谨慎，大法官警告“粉碎”央行独立性",
           "url": "https://wallstreetcn.com/articles/3763857",
           "source": "华尔街见闻",
@@ -173,8 +186,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时26分 ~ 18时29分]"
+          "appearance_count": 16,
+          "time_info": "[07时26分 ~ 19时24分]"
         },
         {
           "title": "特朗普达沃斯演讲再提“收购格陵兰岛” 否认会动武强夺 现货黄金短线震荡",
@@ -188,6 +201,21 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[01时55分 ~ 13时29分]"
+        },
+        {
+          "title": "特朗普称「和平委员会」可能取代联合国，「和平委员会」到底是什么？特朗普成立该机构的真实意图是什么？",
+          "url": "https://www.zhihu.com/question/1997263966708196399",
+          "source": "知乎",
+          "ranks": [
+            6,
+            14,
+            11,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时49分 ~ 19时24分]"
         },
         {
           "title": "特朗普再提收购格陵兰岛 奈飞绩后大跌超7% | 今夜看点",
@@ -212,35 +240,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时49分 ~ 18时29分]"
+          "appearance_count": 13,
+          "time_info": "[11时49分 ~ 19时24分]"
         },
         {
-          "title": "不动武了、也不加税了！特朗普达沃斯上演“格陵兰TACO”",
-          "url": "https://wallstreetcn.com/articles/3763883",
-          "source": "华尔街见闻",
+          "title": "“阻击”特朗普，国会横插一脚：中国用三流芯片都能击败我们",
+          "url": "https://news.ifeng.com/c/8q7ObeyfwPG",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            7
+            7,
+            9
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[13时29分 ~ 18时29分]"
-        },
-        {
-          "title": "特朗普称「和平委员会」可能取代联合国，「和平委员会」到底是什么？特朗普成立该机构的真实意图是什么？",
-          "url": "https://www.zhihu.com/question/1997263966708196399",
-          "source": "知乎",
-          "ranks": [
-            6,
-            14,
-            11,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时49分 ~ 18时29分]"
+          "time_info": "[14时36分 ~ 19时24分]"
         },
         {
           "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
@@ -257,16 +270,15 @@
           "time_info": "[00时47分 ~ 09时49分]"
         },
         {
-          "title": "“阻击”特朗普，国会横插一脚：中国用三流芯片都能击败我们",
-          "url": "https://news.ifeng.com/c/8q7ObeyfwPG",
+          "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
+          "url": "https://news.ifeng.com/c/8q7kEg1He8Y",
           "source": "凤凰网",
           "ranks": [
-            7,
-            9
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时36分 ~ 18时29分]"
+          "appearance_count": 4,
+          "time_info": "[17时33分 ~ 19时24分]"
         },
         {
           "title": "伊朗警告特朗普",
@@ -298,17 +310,6 @@
           "time_info": "[09时49分 ~ 15时28分]"
         },
         {
-          "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
-          "url": "https://news.ifeng.com/c/8q7kEg1He8Y",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时33分 ~ 18时29分]"
-        },
-        {
           "title": "乌克兰总统泽连斯基即将于达沃斯会晤美国总统特朗普，乌克兰国际债券最高上涨2.5美分。",
           "url": "https://flash.jin10.com/detail/20260122162215338800",
           "source": "金十数据",
@@ -323,17 +324,6 @@
           "title": "美国总统特朗普：在结束加沙冲突方面只剩下小规模的冲突了。",
           "url": "https://flash.jin10.com/detail/20260122181949713800",
           "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 18时29分]"
-        },
-        {
-          "title": "特朗普指出西班牙并未承诺达到北约5%的军费开支目标。",
-          "url": "https://wallstreetcn.com/livenews/3041992",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
@@ -403,17 +393,6 @@
           "time_info": "[18时28分 ~ 18时29分]"
         },
         {
-          "title": "特朗普重申美国每年1.5万亿美元国防开支的愿望。",
-          "url": "https://wallstreetcn.com/livenews/3041990",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 18时29分]"
-        },
-        {
           "title": "格陵兰岛协定泄露，特朗普获得了什么？丨Hi，今天怎么看？",
           "url": "https://flash.jin10.com/detail/20260122161949604800",
           "source": "金十数据",
@@ -445,17 +424,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 04时32分]"
-        },
-        {
-          "title": "特朗普：结束加沙战争只剩下一些零星的火苗。 必须对真主党和黎巴嫩采取行动。 与委内瑞拉领导人关系良好。",
-          "url": "https://wallstreetcn.com/livenews/3041989",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 18时29分]"
         },
         {
           "title": "美国总统特朗普：相信俄乌和平即将到来。",
@@ -513,15 +481,15 @@
           "time_info": "05时29分"
         },
         {
-          "title": "解读特朗普和平委员会宪章",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E5%B9%B3%E5%A7%94%E5%91%98%E4%BC%9A%E5%AE%AA%E7%AB%A0",
-          "source": "bilibili 热搜",
+          "title": "美国总统特朗普在和平委员会活动上结束讲话。",
+          "url": "https://flash.jin10.com/detail/20260122191056521800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时29分"
+          "time_info": "19时24分"
         },
         {
           "title": "美国总统特朗普：人们在信用卡利息上支付了太多费用。 信用卡公司应该给人们一些喘息的机会。",
@@ -574,6 +542,18 @@
           "time_info": "[17时33分 ~ 18时29分]"
         },
         {
+          "title": "特朗普指出西班牙并未承诺达到北约5%的军费开支目标。",
+          "url": "https://wallstreetcn.com/livenews/3041992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 19时24分]"
+        },
+        {
           "title": "美国总统特朗普：我们与埃及有着极好的关系。",
           "url": "https://flash.jin10.com/detail/20260122003439909800",
           "source": "金十数据",
@@ -622,6 +602,18 @@
           "time_info": "[04时31分 ~ 05时29分]"
         },
         {
+          "title": "特朗普重申美国每年1.5万亿美元国防开支的愿望。",
+          "url": "https://wallstreetcn.com/livenews/3041990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 19时24分]"
+        },
+        {
           "title": "白宫顾问Leavitt：美国总统特朗普将会见北约秘书长吕特。 双方将讨论格陵兰问题。 特朗普在（吞并且）拥有格陵兰方面是顽固的。",
           "url": "https://wallstreetcn.com/livenews/3041467",
           "source": "华尔街见闻-快讯",
@@ -632,6 +624,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时43分 ~ 03时28分]"
+        },
+        {
+          "title": "特朗普：结束加沙战争只剩下一些零星的火苗。 必须对真主党和黎巴嫩采取行动。 与委内瑞拉领导人关系良好。",
+          "url": "https://wallstreetcn.com/livenews/3041989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 19时24分]"
         },
         {
           "title": "特朗普达沃斯发言闹乌龙：格陵兰多次被称为冰岛",
@@ -658,6 +662,30 @@
           "time_info": "[04时31分 ~ 05时29分]"
         },
         {
+          "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
+          "url": "https://news.ifeng.com/c/8q7huMODUfi",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时33分 ~ 19时24分]"
+        },
+        {
+          "title": "解读特朗普和平委员会宪章",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E5%B9%B3%E5%A7%94%E5%91%98%E4%BC%9A%E5%AE%AA%E7%AB%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 19时24分]"
+        },
+        {
           "title": "特朗普就格陵兰问题表态“软化”",
           "url": "https://www.toutiao.com/trending/7597760219610877482/",
           "source": "今日头条",
@@ -669,16 +697,15 @@
           "time_info": "[01时55分 ~ 04时32分]"
         },
         {
-          "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
-          "url": "https://news.ifeng.com/c/8q7huMODUfi",
+          "title": "特朗普达沃斯演讲，被群嘲了",
+          "url": "https://news.ifeng.com/c/8q7oOaAst69",
           "source": "凤凰网",
           "ranks": [
-            6,
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时33分 ~ 18时29分]"
+          "time_info": "[18时28分 ~ 19时24分]"
         },
         {
           "title": "美国总统特朗普：（谈格陵兰岛）我希望北约确实会保卫美国。北约希望为所有人提供安全。",
@@ -703,6 +730,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时26分 ~ 07时27分]"
+        },
+        {
+          "title": "特朗普：和平委员会将与联合国合作。 感谢白宫官员在达沃斯所做的工作。",
+          "url": "https://wallstreetcn.com/livenews/3041983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 19时24分]"
         },
         {
           "title": "美国总统特朗普：（谈格陵兰岛）可能会看到一个合理的价格。",
@@ -739,6 +778,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时26分 ~ 07时27分]"
+        },
+        {
+          "title": "瑞士媒体：面对欧洲，特朗普只有敷衍的疲态笑容",
+          "url": "https://wallstreetcn.com/livenews/3041980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 19时24分]"
         },
         {
           "title": "北约秘书长吕特对美国总统特朗普说：“你的盟友将与你同在。”",
@@ -932,15 +983,16 @@
           "time_info": "[00时47分 ~ 01时56分]"
         },
         {
-          "title": "特朗普达沃斯演讲，被群嘲了",
-          "url": "https://news.ifeng.com/c/8q7oOaAst69",
-          "source": "凤凰网",
+          "title": "中方回应特朗普达沃斯涉华言论",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%BE%BE%E6%B2%83%E6%96%AF%E6%B6%89%E5%8D%8E%E8%A8%80%E8%AE%BA",
+          "source": "百度热搜",
           "ranks": [
-            6
+            26,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 18时29分]"
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 19时24分]"
         },
         {
           "title": "美国最高法院或拒绝特朗普罢免美联储理事库克的请求",
@@ -998,17 +1050,6 @@
           "time_info": "[04时31分 ~ 04时32分]"
         },
         {
-          "title": "特朗普：和平委员会将与联合国合作。 感谢白宫官员在达沃斯所做的工作。",
-          "url": "https://wallstreetcn.com/livenews/3041983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 18时29分]"
-        },
-        {
           "title": "特朗普称不武夺格陵兰岛",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E6%AD%A6%E5%A4%BA%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B",
           "source": "bilibili 热搜",
@@ -1040,17 +1081,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 04时32分]"
-        },
-        {
-          "title": "瑞士媒体：面对欧洲，特朗普只有敷衍的疲态笑容",
-          "url": "https://wallstreetcn.com/livenews/3041980",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 18时29分]"
         },
         {
           "title": "北约发言人：北约盟国就特朗普所提及的框架展开的讨论，将重点放在通过盟国的集体努力确保北极安全，尤其是七位北极盟国的努力。",
@@ -1498,17 +1528,6 @@
           "time_info": "[16时33分 ~ 16时34分]"
         },
         {
-          "title": "中方回应特朗普达沃斯涉华言论",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%BE%BE%E6%B2%83%E6%96%AF%E6%B6%89%E5%8D%8E%E8%A8%80%E8%AE%BA",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 18时29分]"
-        },
-        {
           "title": "北约秘书长马克·吕特：昨天与美国总统特朗普在会谈中没有讨论格陵兰主权问题。",
           "url": "https://wallstreetcn.com/livenews/3041946",
           "source": "华尔街见闻-快讯",
@@ -1597,6 +1616,17 @@
           "time_info": "00时47分"
         },
         {
+          "title": "特朗普签署和平委员会章程。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3042001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "美国总统特朗普在达沃斯会见了波兰总统纳夫罗基。",
           "url": "https://flash.jin10.com/detail/20260122002539772800",
           "source": "金十数据",
@@ -1683,6 +1713,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "特朗普：联合国拥有巨大的潜力。",
+          "url": "https://wallstreetcn.com/livenews/3041996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "联合声明：沙特、土耳其、埃及、约旦、印尼、巴基斯坦、卡塔尔接受邀请，加入美国总统特朗普的和平委员会；各国将根据本国法律程序签署加入文件。",
@@ -1793,6 +1834,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "特朗普说普京同意了普京说还没",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E6%99%AE%E4%BA%AC%E5%90%8C%E6%84%8F%E4%BA%86%E6%99%AE%E4%BA%AC%E8%AF%B4%E8%BF%98%E6%B2%A1%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "美国总统特朗普：如果鲍威尔不离开美联储（即卸任主席后继续担任美联储理事），他的日子不会好过。",
@@ -2026,6 +2078,17 @@
           "time_info": "11时49分"
         },
         {
+          "title": "法国用特朗普表情包回怼特朗普",
+          "url": "https://www.toutiao.com/trending/7597353774646624262/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "美国总统特朗普：（当被问及是否会在格陵兰岛使用武力时表示）我不认为我们会与丹麦开战。",
           "url": "https://flash.jin10.com/detail/20260122041828432800",
           "source": "金十数据",
@@ -2150,7 +2213,7 @@
     },
     {
       "keyword_group": "美股 微软 亚马逊 博通 台积电 AMD",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
@@ -2160,8 +2223,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时49分 ~ 18时29分]"
+          "appearance_count": 14,
+          "time_info": "[09时49分 ~ 19时24分]"
         },
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
@@ -2200,18 +2263,6 @@
           "time_info": "[07时26分 ~ 15时28分]"
         },
         {
-          "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
-          "url": "https://wallstreetcn.com/articles/3763863",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时49分 ~ 18时29分]"
-        },
-        {
           "title": "AMD一年来最长连涨、英特尔四年新高！AI狂热烧向CPU 明晨大考来临",
           "url": "https://www.cls.cn/detail/2266084",
           "source": "财联社热门",
@@ -2222,8 +2273,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时36分 ~ 18时29分]"
+          "appearance_count": 9,
+          "time_info": "[14时36分 ~ 19时24分]"
+        },
+        {
+          "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
+          "url": "https://wallstreetcn.com/articles/3763863",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[09时49分 ~ 19时24分]"
         },
         {
           "title": "特朗普上演“TACO”式反转，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
@@ -2272,6 +2335,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时55分 ~ 01时56分]"
+        },
+        {
+          "title": "花旗：将微软(MSFT.O)目标价从690美元下调至660美元。",
+          "url": "https://flash.jin10.com/detail/20260122191035451800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "（美股）费城金银指数收跌1.22%，报410.57点。 （全球时段）纽约证交所ARCA金矿开采商指数跌0.55%，报2896.08点。 （美股）原材料指数收涨1.52%，（美股）金属与矿业指数收涨2.33%。",
@@ -2646,8 +2720,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时33分 ~ 18时29分]"
+          "appearance_count": 6,
+          "time_info": "[16时33分 ~ 19时24分]"
         },
         {
           "title": "中国政府只在特殊情况下批准购买 H200芯片？商务部回应",
