@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T13:29:09.324155+08:00",
-  "total_titles_processed": 1244,
+  "generated_at": "2026-01-23T14:37:03.550541+08:00",
+  "total_titles_processed": 1354,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 99,
+      "match_count": 100,
       "titles": [
         {
           "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
@@ -41,19 +41,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时36分 ~ 13时29分]"
+          "appearance_count": 20,
+          "time_info": "[00时36分 ~ 14时37分]"
         },
         {
           "title": "特朗普称加拿大因美国而存在，加总理回应",
           "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时46分 ~ 13时29分]"
+          "appearance_count": 8,
+          "time_info": "[09时46分 ~ 14时37分]"
         },
         {
           "title": "特朗普达沃斯演讲，被群嘲了",
@@ -67,6 +68,17 @@
           "time_info": "[00时36分 ~ 13时29分]"
         },
         {
+          "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
+          "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时43分 ~ 14时37分]"
+        },
+        {
           "title": "“我们已没有足够能力”，“特朗普”级战列舰遭唱衰",
           "url": "https://news.ifeng.com/c/8q7nDFVG9w6",
           "source": "凤凰网",
@@ -75,8 +87,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时36分 ~ 13时29分]"
+          "appearance_count": 20,
+          "time_info": "[00时36分 ~ 14时37分]"
         },
         {
           "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
@@ -98,8 +110,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时36分 ~ 13时29分]"
+          "appearance_count": 20,
+          "time_info": "[00时36分 ~ 14时37分]"
         },
         {
           "title": "马克龙戴太阳镜亮相遭特朗普调侃",
@@ -146,26 +158,16 @@
           "time_info": "[00时36分 ~ 09时47分]"
         },
         {
-          "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
-          "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时43分 ~ 13时29分]"
-        },
-        {
           "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
           "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时43分 ~ 13时29分]"
+          "appearance_count": 6,
+          "time_info": "[11时43分 ~ 14时37分]"
         },
         {
           "title": "特朗普达沃斯演讲：格陵兰岛是美国核心安全利益，但美不会武力夺取，寻求立即谈判",
@@ -248,6 +250,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时30分 ~ 07时22分]"
+        },
+        {
+          "title": "特朗普回应手背再现瘀青：我非常好，手磕到桌子",
+          "url": "https://news.ifeng.com/c/8q96HMKxd1u",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 14时37分]"
         },
         {
           "title": "美国总统特朗普：美国将申办2035年世界博览会。",
@@ -337,6 +350,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时25分 ~ 04时29分]"
+        },
+        {
+          "title": "特朗普起诉摩根大通及其CEO戴蒙 索赔至少50亿美元",
+          "url": "https://www.cls.cn/detail/2267102",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时43分 ~ 14时37分]"
         },
         {
           "title": "美国总统特朗普：听取了关于美联储理事库克被解雇案的最高法院部分庭审。",
@@ -445,17 +469,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时25分 ~ 04时29分]"
-        },
-        {
-          "title": "特朗普起诉摩根大通及其CEO戴蒙 索赔至少50亿美元",
-          "url": "https://www.cls.cn/detail/2267102",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时43分 ~ 13时29分]"
         },
         {
           "title": "美国参议员沃伦警告AI债务隐忧，敦促特朗普政府调查“不透明”的数据中心融资",
@@ -1168,8 +1181,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时22分 ~ 13时29分]"
+          "appearance_count": 9,
+          "time_info": "[07时22分 ~ 14时37分]"
         },
         {
           "title": "特朗普TACO助推全球股市反弹，美股指集体高开，纳指涨0.9%，美债承压",
@@ -1625,11 +1638,12 @@
             19,
             17,
             10,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时30分 ~ 13时29分]"
+          "appearance_count": 9,
+          "time_info": "[01时30分 ~ 14时37分]"
         },
         {
           "title": "英伟达四季度完成对英特尔50亿美元投资。",
