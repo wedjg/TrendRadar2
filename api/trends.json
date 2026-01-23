@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-23T14:37:03.550541+08:00",
-  "total_titles_processed": 1354,
+  "generated_at": "2026-01-23T15:27:04.600443+08:00",
+  "total_titles_processed": 1478,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 100,
+      "match_count": 103,
       "titles": [
+        {
+          "title": "特朗普称加拿大因美国而存在，加总理回应",
+          "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时46分 ~ 15时27分]"
+        },
         {
           "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
           "url": "https://news.ifeng.com/c/8q7kEg1He8Y",
@@ -45,18 +57,6 @@
           "time_info": "[00时36分 ~ 14时37分]"
         },
         {
-          "title": "特朗普称加拿大因美国而存在，加总理回应",
-          "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时46分 ~ 14时37分]"
-        },
-        {
           "title": "特朗普达沃斯演讲，被群嘲了",
           "url": "https://news.ifeng.com/c/8q7oOaAst69",
           "source": "凤凰网",
@@ -68,15 +68,16 @@
           "time_info": "[00时36分 ~ 13时29分]"
         },
         {
-          "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
-          "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
+          "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
+          "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
           "source": "凤凰网",
           "ranks": [
-            4
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时43分 ~ 14时37分]"
+          "appearance_count": 8,
+          "time_info": "[11时43分 ~ 15时27分]"
         },
         {
           "title": "“我们已没有足够能力”，“特朗普”级战列舰遭唱衰",
@@ -87,8 +88,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时36分 ~ 14时37分]"
+          "appearance_count": 22,
+          "time_info": "[00时36分 ~ 15时27分]"
         },
         {
           "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
@@ -100,6 +101,18 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时36分 ~ 09时47分]"
+        },
+        {
+          "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
+          "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时43分 ~ 15时27分]"
         },
         {
           "title": "1小时闭门会谈后，特朗普称与泽连斯基会晤非常好",
@@ -158,16 +171,16 @@
           "time_info": "[00时36分 ~ 09时47分]"
         },
         {
-          "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
-          "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
+          "title": "特朗普回应手背再现瘀青：我非常好，手磕到桌子",
+          "url": "https://news.ifeng.com/c/8q96HMKxd1u",
           "source": "凤凰网",
           "ranks": [
             5,
-            6
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时43分 ~ 14时37分]"
+          "appearance_count": 4,
+          "time_info": "[14时36分 ~ 15时27分]"
         },
         {
           "title": "特朗普达沃斯演讲：格陵兰岛是美国核心安全利益，但美不会武力夺取，寻求立即谈判",
@@ -252,15 +265,15 @@
           "time_info": "[01时30分 ~ 07时22分]"
         },
         {
-          "title": "特朗普回应手背再现瘀青：我非常好，手磕到桌子",
-          "url": "https://news.ifeng.com/c/8q96HMKxd1u",
+          "title": "达沃斯后，特朗普狂发80条帖子…",
+          "url": "https://news.ifeng.com/c/8q9DLsy9hjV",
           "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时36分 ~ 14时37分]"
+          "time_info": "[15时26分 ~ 15时27分]"
         },
         {
           "title": "美国总统特朗普：美国将申办2035年世界博览会。",
@@ -482,6 +495,17 @@
           "time_info": "[00时36分 ~ 00时37分]"
         },
         {
+          "title": "特朗普称将于4月访问中国，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3042688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时26分 ~ 15时27分]"
+        },
+        {
           "title": "特朗普要败诉？美最高法对罢免美联储理事库克态度谨慎，大法官警告“粉碎”央行独立性",
           "url": "https://wallstreetcn.com/articles/3763857",
           "source": "华尔街见闻",
@@ -515,6 +539,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时22分]"
+        },
+        {
+          "title": "可“全面进入”格陵兰岛？特朗普透露协议细节，又被“光速打脸”！",
+          "url": "https://www.cls.cn/detail/2267216",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时26分 ~ 15时27分]"
         },
         {
           "title": "克里姆林宫：美方分享了他们对特朗普与泽连斯基会晤的评估。",
@@ -1585,7 +1620,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "Alphabet旗下谷歌公司提供新的选项，帮助用于把搜索结果个性化。 谷歌允许用户从谷歌旗下图像和Email等其他应用获取数据。",
@@ -1609,6 +1644,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时25分 ~ 04时29分]"
+        },
+        {
+          "title": "谷歌投资Sakana AI 旨在提升Gemini在日本的业务",
+          "url": "https://flash.jin10.com/detail/20260123151617900800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时26分 ~ 15时27分]"
+        },
+        {
+          "title": "市场消息：谷歌投资Sakana AI，旨在提升Gemini在日本的业务。",
+          "url": "https://flash.jin10.com/detail/20260123150451290800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时26分 ~ 15时27分]"
         },
         {
           "title": "谷歌：即日起，谷歌AI Pro和AI Ultra订阅用户可选择安全地将Gmail和谷歌相册连接到AI模式。",
@@ -1639,11 +1696,12 @@
             17,
             10,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时30分 ~ 14时37分]"
+          "appearance_count": 10,
+          "time_info": "[01时30分 ~ 15时27分]"
         },
         {
           "title": "英伟达四季度完成对英特尔50亿美元投资。",
