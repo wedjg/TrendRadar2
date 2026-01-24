@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T15:21:35.318975+08:00",
-  "total_titles_processed": 1060,
+  "generated_at": "2026-01-24T16:28:36.356869+08:00",
+  "total_titles_processed": 1145,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "特朗普称将于4月访问中国，外交部回应",
@@ -52,17 +52,6 @@
           "time_info": "[00时31分 ~ 09时44分]"
         },
         {
-          "title": "没想到特朗普这样侮辱人，英国气炸了",
-          "url": "https://news.ifeng.com/c/8qAYkEI9nB9",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时28分 ~ 15时21分]"
-        },
-        {
           "title": "斯塔默要求特朗普道歉，白宫回应",
           "url": "https://news.ifeng.com/c/8qAZ4sSmnvP",
           "source": "凤凰网",
@@ -70,8 +59,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时28分 ~ 15时21分]"
+          "appearance_count": 7,
+          "time_info": "[11时28分 ~ 16时28分]"
         },
         {
           "title": "特朗普变卦",
@@ -79,6 +68,17 @@
           "source": "凤凰网",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时28分 ~ 16时28分]"
+        },
+        {
+          "title": "没想到特朗普这样侮辱人，英国气炸了",
+          "url": "https://news.ifeng.com/c/8qAYkEI9nB9",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -141,6 +141,19 @@
           "time_info": "[00时32分 ~ 09时44分]"
         },
         {
+          "title": "格陵兰岛开启，随后是日债崩盘、特朗普TACO，日元干预收尾--“头条主宰市场”的一周结束了",
+          "url": "https://wallstreetcn.com/articles/3764066",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时36分 ~ 16时28分]"
+        },
+        {
           "title": "英国首相：特朗普应就北约盟友“脱离前线”言论道歉",
           "url": "https://flash.jin10.com/detail/20260124090807365800",
           "source": "金十数据",
@@ -193,18 +206,6 @@
           "time_info": "[09时43分 ~ 15时21分]"
         },
         {
-          "title": "格陵兰岛开启，随后是日债崩盘、特朗普TACO，日元干预收尾--“头条主宰市场”的一周结束了",
-          "url": "https://wallstreetcn.com/articles/3764066",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时36分 ~ 15时21分]"
-        },
-        {
           "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
           "url": "https://flash.jin10.com/detail/20260124113127622800",
           "source": "金十数据",
@@ -217,6 +218,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时36分 ~ 15时21分]"
+        },
+        {
+          "title": "达沃斯论坛受挫后，特朗普狂发80条帖子，一度每4分钟发一条",
+          "url": "https://v.ifeng.com/c/8q9T6e8iY2X",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时28分 ~ 16时28分]"
         },
         {
           "title": "白宫晒特朗普格陵兰牵企鹅照翻车",
@@ -244,17 +256,6 @@
           "time_info": "[03时25分 ~ 07时22分]"
         },
         {
-          "title": "达沃斯论坛受挫后，特朗普狂发80条帖子，一度每4分钟发一条",
-          "url": "https://v.ifeng.com/c/8q9T6e8iY2X",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时28分 ~ 15时21分]"
-        },
-        {
           "title": "报道：特朗普要求格陵兰全面放开军事限制",
           "url": "https://wallstreetcn.com/articles/3764043",
           "source": "华尔街见闻",
@@ -263,8 +264,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时43分 ~ 13时23分]"
+          "appearance_count": 7,
+          "time_info": "[09时43分 ~ 16时28分]"
         },
         {
           "title": "特朗普称联邦紧急事务管理局已做好充分准备应对冬季风暴",
@@ -279,6 +280,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时43分 ~ 13时23分]"
+        },
+        {
+          "title": "加拿大卡尼“反霸凌”演讲“捅了马蜂窝”，特朗普团队“勃然大怒”",
+          "url": "https://wallstreetcn.com/articles/3764068",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 16时28分]"
         },
         {
           "title": "巴西总统卢拉：美国总统特朗普企图打造一个只能由自己把控的“新联合国”。",
@@ -317,6 +330,17 @@
           "time_info": "[09时43分 ~ 11时28分]"
         },
         {
+          "title": "深度解析特朗普365天赢学",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE365%E5%A4%A9%E8%B5%A2%E5%AD%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "斯塔默要求特朗普道歉，白宫回应",
           "url": "https://wallstreetcn.com/livenews/3043194",
           "source": "华尔街见闻-快讯",
@@ -347,7 +371,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -463,6 +487,18 @@
           "time_info": "[00时31分 ~ 01时27分]"
         },
         {
+          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友：格陵兰岛没企鹅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32456544",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 16时28分]"
+        },
+        {
           "title": "特朗普自创委员会后，马斯克灵魂发问：和平还是瓜分？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32448273",
           "source": "澎湃新闻",
@@ -474,15 +510,16 @@
           "time_info": "[09时43分 ~ 11时28分]"
         },
         {
-          "title": "加拿大卡尼“反霸凌”演讲“捅了马蜂窝”，特朗普团队“勃然大怒”",
-          "url": "https://wallstreetcn.com/articles/3764068",
-          "source": "华尔街见闻",
+          "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
+          "url": "https://www.cls.cn/detail/2268566",
+          "source": "财联社热门",
           "ranks": [
-            6
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时33分 ~ 15时21分]"
+          "time_info": "[15时21分 ~ 16时28分]"
         },
         {
           "title": "欧洲军工股普遍收涨。 捷克国防企业捷克奥斯洛伐克集团（CSG）荷兰阿姆斯特丹上市首日收涨31.4%，报32.85欧元，此前给出的IPO发行价为每股25欧元。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收涨2.20%，本周累计下跌1.96%，整体持续走低，投资者关注美国总统特朗普对格陵兰问题的态度。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收涨1.46%，本周累跌0.86%。",
@@ -508,17 +545,6 @@
           "time_info": "[09时43分 ~ 09时44分]"
         },
         {
-          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友：格陵兰岛没企鹅",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32456544",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 15时21分]"
-        },
-        {
           "title": "特朗普卡尼“口水仗”升级",
           "url": "https://www.toutiao.com/trending/7597980626083610630/",
           "source": "今日头条",
@@ -541,17 +567,6 @@
           "time_info": "11时28分"
         },
         {
-          "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
-          "url": "https://www.cls.cn/detail/2268566",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        },
-        {
           "title": "美国总统特朗普：加拿大反对在格陵兰岛建造“金穹”。",
           "url": "https://wallstreetcn.com/livenews/3043110",
           "source": "华尔街见闻-快讯",
@@ -561,6 +576,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：俄罗斯对能源设施的打击证明，防空物资供应绝不能拖延，与美国总统特朗普在达沃斯达成的防空协议必须得到全面落实。",
+          "url": "https://flash.jin10.com/detail/20260124152358340800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "特朗普去达沃斯做买卖",
@@ -588,8 +614,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时22分 ~ 15时21分]"
+          "appearance_count": 10,
+          "time_info": "[07时22分 ~ 16时28分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -601,8 +627,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时22分 ~ 15时21分]"
+          "appearance_count": 10,
+          "time_info": "[07时22分 ~ 16时28分]"
         },
         {
           "title": "地缘风险仍未消散，美股周线承压，英特尔跌14%，美元遭遇半年来最差一周，纽约期银突破100美元，创历史新高",
@@ -843,7 +869,7 @@
     },
     {
       "keyword_group": "英伟达 NVIDIA NVDA H200",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "仅用半小时！Claude Code“终结”英伟达“最强护城河”？",
@@ -870,6 +896,17 @@
           "time_info": "05时22分"
         },
         {
+          "title": "黄仁勋现身上海陆家嘴街道菜市场，将参加英伟达上海年会",
+          "url": "https://wallstreetcn.com/livenews/3043244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "英伟达：Persis Drell从董事会辞职。",
           "url": "https://wallstreetcn.com/livenews/3043154",
           "source": "华尔街见闻-快讯",
@@ -884,7 +921,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
@@ -912,6 +949,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时27分 ~ 05时22分]"
+        },
+        {
+          "title": "谷歌高管谈AI开发的危与机",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E9%AB%98%E7%AE%A1%E8%B0%88AI%E5%BC%80%E5%8F%91%E7%9A%84%E5%8D%B1%E4%B8%8E%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         }
       ]
     }
