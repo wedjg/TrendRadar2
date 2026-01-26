@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T04:29:14.232195+08:00",
-  "total_titles_processed": 509,
+  "generated_at": "2026-01-27T05:26:06.318585+08:00",
+  "total_titles_processed": 559,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普就加中贸易协定发出威胁，中方回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 04时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 05时26分]"
         },
         {
           "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 04时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 05时26分]"
         },
         {
           "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
@@ -37,8 +37,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 04时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 05时26分]"
         },
         {
           "title": "美伊局势持续紧张：“哈梅内伊进入地堡”，特朗普表态自相矛盾",
@@ -48,19 +48,31 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 04时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 05时26分]"
+        },
+        {
+          "title": "特朗普提议维持医疗保险向保险公司支付的费率不变",
+          "url": "https://flash.jin10.com/detail/20260127051213344800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 05时26分]"
         },
         {
           "title": "美国官员：美国总统特朗普完全赞同以色列总理内塔尼亚胡的声明，即在哈马斯实现非军事化和解除武装之前，加沙的重建不会开始。",
           "url": "https://flash.jin10.com/detail/20260127041616450800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时28分 ~ 04时29分]"
+          "appearance_count": 4,
+          "time_info": "[04时28分 ~ 05时26分]"
         },
         {
           "title": "特朗普将于周二前往爱荷华州就美国经济发表演讲",
@@ -109,6 +121,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时24分 ~ 04时29分]"
+        },
+        {
+          "title": "美国稀土上市公司披露获特朗普政府投资意向 年内股价接近翻3倍",
+          "url": "https://www.cls.cn/detail/2270329",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时28分 ~ 05时26分]"
         },
         {
           "title": "美国白宫：总统特朗普将于周二前往艾奥瓦州就经济发表演讲。",
@@ -169,6 +192,17 @@
           "time_info": "[04时28分 ~ 04时29分]"
         },
         {
+          "title": "特朗普政府提议维持联邦医疗保险优势计划（Medicare Advantage）费率不变。",
+          "url": "https://flash.jin10.com/detail/20260127050517298800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 05时26分]"
+        },
+        {
           "title": "巴西：总统卢拉与美国总统特朗普通电话。 卢拉告知特朗普，所谓的“和平委员会”应当仅限于处置加沙问题。",
           "url": "https://wallstreetcn.com/livenews/3044121",
           "source": "华尔街见闻-快讯",
@@ -179,6 +213,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时31分 ~ 02时37分]"
+        },
+        {
+          "title": "民调：特朗普严打移民 支持率降至低位",
+          "url": "https://flash.jin10.com/detail/20260127050316323800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 05时26分]"
         },
         {
           "title": "美国总统特朗普：明尼苏达州长Tim Walz打电话给我。 这次通话很顺利。 Walz希望（联邦政府的移民执法部门与当地）合作。 我们俩将在不久的将来再次对话。",
@@ -193,17 +238,6 @@
           "time_info": "[01时31分 ~ 02时37分]"
         },
         {
-          "title": "美国稀土上市公司披露获特朗普政府投资意向 年内股价接近翻3倍",
-          "url": "https://www.cls.cn/detail/2270329",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时28分 ~ 04时29分]"
-        },
-        {
           "title": "白宫：特朗普“不希望任何美国人丧生”",
           "url": "https://wallstreetcn.com/livenews/3044152",
           "source": "华尔街见闻-快讯",
@@ -213,6 +247,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时28分 ~ 04时29分]"
+        },
+        {
+          "title": "卢拉与特朗普通电话 讨论两国关系和委内瑞拉局势",
+          "url": "https://flash.jin10.com/detail/20260127044150899800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 05时26分]"
+        },
+        {
+          "title": "特朗普政府表示正在重组联邦航空管理局的架构，将把安全活动集中到一个办公室。",
+          "url": "https://flash.jin10.com/detail/20260127042724482800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 05时26分]"
+        },
+        {
+          "title": "特朗普认为伊朗希望达成协议",
+          "url": "https://flash.jin10.com/detail/20260127042710644800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 05时26分]"
         },
         {
           "title": "卢拉与特朗普通电话，讨论两国关系和委内瑞拉局势",
@@ -261,8 +328,165 @@
       ]
     },
     {
+      "keyword_group": "美股 微软 亚马逊 博通 台积电 AMD",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 05时26分]"
+        },
+        {
+          "title": "美股期指小幅走低 美国稀土盘前涨超20% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2270324",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 05时26分]"
+        },
+        {
+          "title": "网络股指数ETF收涨超1.5%，领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3044195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 05时26分]"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.75%，暂报3615.83点，北京时间04:37跌至3455.34点刷新日低——至亚太早盘呈现出V形走势，09:00以来持稳于3600点下方，美股开盘以来微幅上涨。 MarketVectorTM数字资产100中盘指数跌0.30%，报3409.47点。 MarketVector数字资产100指数持平，报17939.14点。 目前，Solana涨5.33%，狗狗币涨3.81%，XRP涨5.57%。 比特币目前涨1.41%，暂报87563.98美元；以太坊涨3.62%，报2900.74美元。",
+          "url": "https://wallstreetcn.com/livenews/3044129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 03时25分]"
+        },
+        {
+          "title": "金十图示：2026年01月26日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260127050540534800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 05时26分]"
+        },
+        {
+          "title": "金十图示：2026年01月26日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260127050519889800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 05时26分]"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 苹果涨近3%",
+          "url": "https://flash.jin10.com/detail/20260127050110831800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 05时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美元指数DXY失守97，日内跌幅0.48%。",
+          "url": "https://flash.jin10.com/detail/20260127050513890800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 05时26分]"
+        },
+        {
+          "title": "美元指数跌至4个月新低，现跌0.33%，报96.9。",
+          "url": "https://flash.jin10.com/detail/20260126235706137800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 00时36分]"
+        },
+        {
+          "title": "美元指数跌约0.6%，一度创逾四个月新低",
+          "url": "https://wallstreetcn.com/livenews/3044178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 05时26分]"
+        },
+        {
+          "title": "美元指数26日下跌",
+          "url": "https://flash.jin10.com/detail/20260127044040593800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 05时26分]"
+        },
+        {
+          "title": "非洲股市收盘播报｜周一（1月26日），南非富时/JSE非洲领先40可交易指数收涨2.06%，刷新收盘历史高位至11.65万点上方，2026年迄今累计上涨8.09%、同期本币南非兰特兑美元涨3.65%、现货黄金涨17.99%。",
+          "url": "https://wallstreetcn.com/livenews/3044099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        },
+        {
+          "title": "美国上市新兴市场ETFs资金流入在1月23日当周达到68.3亿美元，连续14周获得流入。 MSCI新兴市场指数2026年迄今累计上涨7.2%。",
+          "url": "https://wallstreetcn.com/livenews/3044081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "英伟达 NVIDIA NVDA H200",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "微软发布第二代AI芯片Maia 200 ，希望降低对英伟达的依赖",
@@ -299,86 +523,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 01时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 微软 亚马逊 博通 台积电 AMD",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 04时29分]"
         },
         {
-          "title": "美股期指小幅走低 美国稀土盘前涨超20% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2270324",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 04时29分]"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.75%，暂报3615.83点，北京时间04:37跌至3455.34点刷新日低——至亚太早盘呈现出V形走势，09:00以来持稳于3600点下方，美股开盘以来微幅上涨。 MarketVectorTM数字资产100中盘指数跌0.30%，报3409.47点。 MarketVector数字资产100指数持平，报17939.14点。 目前，Solana涨5.33%，狗狗币涨3.81%，XRP涨5.57%。 比特币目前涨1.41%，暂报87563.98美元；以太坊涨3.62%，报2900.74美元。",
-          "url": "https://wallstreetcn.com/livenews/3044129",
+          "title": "标普500指数初步收涨0.5%，电信板块涨1.3%，科技板块涨0.9%，可选消费板块跌0.6%。 纳斯达克100指数初步收涨0.4%，成分股中，Atlassian涨超5%，贝克休斯涨4.4%，希捷科技涨3.8%，CrowdStrike涨3.4%，思科涨3.1%，苹果涨2.9%，核电股CEG、Strategy则收跌超1%，美光科技跌2.4%，特斯拉跌3%，AMD跌3.4%，英特尔跌5.6%。 思科初步收涨3.2%，和苹果领跑道指成分股，亚马逊则跌0.3%，英伟达跌0.6%，波音跌1.4%，3M跌1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3044187",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 03时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美元指数跌至4个月新低，现跌0.33%，报96.9。",
-          "url": "https://flash.jin10.com/detail/20260126235706137800",
-          "source": "金十数据",
-          "ranks": [
-            11
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时35分 ~ 00时36分]"
-        },
-        {
-          "title": "非洲股市收盘播报｜周一（1月26日），南非富时/JSE非洲领先40可交易指数收涨2.06%，刷新收盘历史高位至11.65万点上方，2026年迄今累计上涨8.09%、同期本币南非兰特兑美元涨3.65%、现货黄金涨17.99%。",
-          "url": "https://wallstreetcn.com/livenews/3044099",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "美国上市新兴市场ETFs资金流入在1月23日当周达到68.3亿美元，连续14周获得流入。 MSCI新兴市场指数2026年迄今累计上涨7.2%。",
-          "url": "https://wallstreetcn.com/livenews/3044081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "time_info": "[05时25分 ~ 05时26分]"
         }
       ]
     },
@@ -459,11 +614,12 @@
           "ranks": [
             12,
             10,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时37分 ~ 04时29分]"
+          "appearance_count": 4,
+          "time_info": "[02时37分 ~ 05时26分]"
         }
       ]
     }
