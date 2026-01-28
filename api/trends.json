@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T06:28:29.019217+08:00",
-  "total_titles_processed": 682,
+  "generated_at": "2026-01-29T07:27:42.654088+08:00",
+  "total_titles_processed": 763,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 06时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 07时27分]"
         },
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -27,8 +27,23 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 06时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 07时27分]"
+        },
+        {
+          "title": "特朗普再施压伊朗：庞大舰队已部署在途 谈判时间所剩无几",
+          "url": "https://www.cls.cn/detail/2273193",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 07时27分]"
         },
         {
           "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
@@ -54,20 +69,6 @@
           "time_info": "[00时38分 ~ 05时31分]"
         },
         {
-          "title": "特朗普再施压伊朗：庞大舰队已部署在途 谈判时间所剩无几",
-          "url": "https://www.cls.cn/detail/2273193",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 06时28分]"
-        },
-        {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
           "url": "https://m.thepaper.cn/newsDetail_forward_32482780",
           "source": "澎湃新闻",
@@ -75,11 +76,12 @@
             14,
             12,
             9,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 06时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 07时27分]"
         },
         {
           "title": "美国总统特朗普结束在“特朗普账号”活动上的发言。",
@@ -301,7 +303,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -323,9 +325,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "特朗普再派舰队施压伊朗",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%B4%BE%E8%88%B0%E9%98%9F%E6%96%BD%E5%8E%8B%E4%BC%8A%E6%9C%97",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         },
         {
           "title": "美国国务卿鲁比奥：本周末在阿布扎比举行的乌克兰会谈中可能会有美国代表出席，但不会是美国总统特使威特科夫和特朗普女婿库什纳。",
@@ -375,7 +388,7 @@
     },
     {
       "keyword_group": "美股 微软 亚马逊 博通 台积电 AMD",
-      "match_count": 20,
+      "match_count": 27,
       "titles": [
         {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
@@ -387,8 +400,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 06时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 07时27分]"
         },
         {
           "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
@@ -399,8 +412,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 06时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 07时27分]"
         },
         {
           "title": "美股三大指数短线波动不大。",
@@ -414,6 +427,17 @@
           "time_info": "[03时29分 ~ 03时30分]"
         },
         {
+          "title": "美联储决议无新意，美股涨跌互现，希捷飙升19%领涨存储股，黄金突破5400美元",
+          "url": "https://wallstreetcn.com/articles/3764338",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
           "title": "微软第二财季营收812.7亿美元，分析师预期803.1亿美元。智能云营收329.1亿美元，预期323.9亿美元。",
           "url": "https://wallstreetcn.com/livenews/3045829",
           "source": "华尔街见闻-快讯",
@@ -425,13 +449,24 @@
           "time_info": "05时31分"
         },
         {
+          "title": "特斯拉美股盘后快速回吐涨幅，该公司称2026年资本开支将超200亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3045885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
           "title": "美股七巨头收盘播报｜周三（1月28日），美国科技股七巨头（Magnificent 7）指数涨0.22%，报209.62点，整体呈现出V形反转行情，美联储发布决议声明后持续走高。 “超大”市值科技股指数涨0.04%，报398.55点，跳空高开之后持续回吐涨幅并多次转跌。",
           "url": "https://wallstreetcn.com/livenews/3045853",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -442,7 +477,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -482,15 +517,37 @@
           "time_info": "02时39分"
         },
         {
+          "title": "微软：企业（客户）采购1500万份Copilot许可。",
+          "url": "https://wallstreetcn.com/livenews/3045881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
           "title": "微软云业务增长放缓 盘后一度下跌8%",
           "url": "https://flash.jin10.com/detail/20260129055535297800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "微软高管：内存价格上涨将影响资本支出。",
+          "url": "https://flash.jin10.com/detail/20260129070818969800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         },
         {
           "title": "金十图示：2026年01月28日（周三）美股热门股票行情一览（美股收盘）",
@@ -526,6 +583,17 @@
           "time_info": "05时31分"
         },
         {
+          "title": "微软高管：由于内存芯片价格上涨可能对个人电脑市场产生影响，Windows OEM收入预计将下降约10%。",
+          "url": "https://flash.jin10.com/detail/20260129070728608800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
           "title": "微软(MSFT.O)第二财季Azure和其他云服务收入增长38%。",
           "url": "https://flash.jin10.com/detail/20260129050244294800",
           "source": "金十数据",
@@ -537,13 +605,24 @@
           "time_info": "05时31分"
         },
         {
+          "title": "微软：按固定汇率计算，第三财季Azure及其他云服务收入增长预期为37%至38%。",
+          "url": "https://flash.jin10.com/detail/20260129070121580800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
           "title": "特斯拉(TSLA.O)美股盘后现涨3%。",
           "url": "https://flash.jin10.com/detail/20260129053426174800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -554,7 +633,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -579,6 +658,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        },
+        {
+          "title": "微软高管预计第三财季营收为806.5亿至817.5亿美元。",
+          "url": "https://flash.jin10.com/detail/20260129070018936800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 英特尔涨11%",
@@ -656,6 +746,62 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌同意就与蜂窝数据处理相关的集体诉讼达成和解协议，谷歌将支付1.35亿美元作为集体诉讼和解的一部分。",
+          "url": "https://flash.jin10.com/detail/20260129021221208800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时39分"
+        },
+        {
+          "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
+          "url": "https://wallstreetcn.com/livenews/3045867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "一位前OpenAI高级研究员创办了一家新的人工智能初创公司，目标是筹集高达10亿美元的资金。",
+          "url": "https://flash.jin10.com/detail/20260129071859575800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "OpenAI至少从编码初创公司Cline招聘了七名员工。",
+          "url": "https://flash.jin10.com/detail/20260129071311535800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -680,23 +826,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时29分 ~ 03时30分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌同意就与蜂窝数据处理相关的集体诉讼达成和解协议，谷歌将支付1.35亿美元作为集体诉讼和解的一部分。",
-          "url": "https://flash.jin10.com/detail/20260129021221208800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
         }
       ]
     }
