@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-28T12:45:23.762651+08:00",
-  "total_titles_processed": 1128,
+  "generated_at": "2026-01-28T13:29:13.122304+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 61,
       "titles": [
-        {
-          "title": "美媒：特朗普一周内两次妥协",
-          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 07时23分]"
-        },
         {
           "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
           "url": "https://www.cls.cn/detail/2271933",
@@ -26,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时48分 ~ 12时45分]"
+          "appearance_count": 6,
+          "time_info": "[09时48分 ~ 13时29分]"
         },
         {
           "title": "美国公民遭执法人员当街枪杀，拜登怒批特朗普",
@@ -38,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时48分 ~ 12时45分]"
+          "appearance_count": 6,
+          "time_info": "[09时48分 ~ 13时29分]"
         },
         {
           "title": "特朗普：将很快宣布新的美联储主席人选",
@@ -49,8 +38,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时48分 ~ 12时45分]"
+          "appearance_count": 6,
+          "time_info": "[09时48分 ~ 13时29分]"
+        },
+        {
+          "title": "美媒：特朗普一周内两次妥协",
+          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 07时23分]"
         },
         {
           "title": "美国总统特朗普：听说伊拉克可能会做出非常糟糕的选择，重新任命努里·马利基为总理。如果他当选，美利坚合众国将不再援助伊拉克。",
@@ -89,6 +89,18 @@
           "time_info": "[01时28分 ~ 02时42分]"
         },
         {
+          "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
+          "url": "https://wallstreetcn.com/articles/3764299",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时46分 ~ 13时29分]"
+        },
+        {
           "title": "美国总统特朗普所谓“和平委员会”料将让（开发商出身的）特朗普掌握对加沙的广泛权力。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3044930",
           "source": "华尔街见闻-快讯",
@@ -100,6 +112,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时41分 ~ 04时27分]"
+        },
+        {
+          "title": "特朗普，两天内动手？",
+          "url": "https://news.ifeng.com/c/8qGwey6pidp",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时48分 ~ 13时29分]"
         },
         {
           "title": "美国总统特朗普：与叙利亚总统进行了精彩对话。",
@@ -138,17 +162,6 @@
           "time_info": "07时23分"
         },
         {
-          "title": "特朗普放狠话：若民主党赢得中期选举 后果会很糟糕",
-          "url": "https://flash.jin10.com/detail/20260128123413943800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时45分"
-        },
-        {
           "title": "美国总统特朗普：希望让现在拥有房屋的人保持较高的财富。强化房利美和房地美的地位。",
           "url": "https://wallstreetcn.com/livenews/3045037",
           "source": "华尔街见闻-快讯",
@@ -160,15 +173,16 @@
           "time_info": "07时23分"
         },
         {
-          "title": "特朗普放狠话：若民主党赢得中期选举，后果会很糟糕",
-          "url": "https://wallstreetcn.com/livenews/3045261",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普放狠话：若民主党赢得中期选举 后果会很糟糕",
+          "url": "https://flash.jin10.com/detail/20260128123413943800",
+          "source": "金十数据",
           "ranks": [
-            3
+            2,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时45分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时45分 ~ 13时29分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：（就对伊朗进行先发制人打击的可能性）特朗普总统会做出他想做的决定，以色列也会做出本国想做的决定。",
@@ -181,6 +195,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时27分 ~ 04时27分]"
+        },
+        {
+          "title": "特朗普放狠话：若民主党赢得中期选举，后果会很糟糕",
+          "url": "https://wallstreetcn.com/livenews/3045261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时45分 ~ 13时29分]"
         },
         {
           "title": "以色列总理内塔尼亚胡未否认曾要求特朗普不要攻击伊朗。",
@@ -207,16 +233,16 @@
           "time_info": "[11时46分 ~ 12时45分]"
         },
         {
-          "title": "特朗普，两天内动手？",
-          "url": "https://news.ifeng.com/c/8qGwey6pidp",
-          "source": "凤凰网",
+          "title": "为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！",
+          "url": "https://www.cls.cn/detail/2271977",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            9
+            9,
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时48分 ~ 12时45分]"
+          "time_info": "[11时46分 ~ 13时29分]"
         },
         {
           "title": "特朗普称国土安全部部长诺姆不会辞职",
@@ -267,28 +293,6 @@
           "time_info": "[03时27分 ~ 04时27分]"
         },
         {
-          "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
-          "url": "https://wallstreetcn.com/articles/3764299",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时45分]"
-        },
-        {
-          "title": "为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！",
-          "url": "https://www.cls.cn/detail/2271977",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时45分]"
-        },
-        {
           "title": "金价创历史新高、逼近5190美元，特朗普称不担心美元下跌",
           "url": "https://wallstreetcn.com/livenews/3045007",
           "source": "华尔街见闻-快讯",
@@ -299,6 +303,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时23分]"
+        },
+        {
+          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
+          "url": "https://wallstreetcn.com/articles/3764257",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 13时29分]"
         },
         {
           "title": "美国总统特朗普：希望看到利率下降。",
@@ -384,7 +399,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
         },
@@ -711,8 +726,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时23分 ~ 12时45分]"
+          "appearance_count": 7,
+          "time_info": "[07时23分 ~ 13时29分]"
         },
         {
           "title": "消息人士称，亚马逊(AMZN.O)不慎发送了一封内部电子邮件，证实周三将进行裁员。",
@@ -927,11 +942,24 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时45分]"
+          "appearance_count": 4,
+          "time_info": "[11时46分 ~ 13时29分]"
+        },
+        {
+          "title": "美元指数跌至近4年来低点",
+          "url": "https://wallstreetcn.com/livenews/3045248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时45分 ~ 13时29分]"
         },
         {
           "title": "一项新兴市场货币指数连续第四个交易日上涨，彭博追踪的22种发展中市场货币中，有16种兑美元走强。该指数纳入了利率回报因素，随着美元回落，该指数目前处于纪录高位。",
@@ -965,17 +993,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
-        },
-        {
-          "title": "美元指数跌至近4年来低点",
-          "url": "https://wallstreetcn.com/livenews/3045248",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时45分"
         },
         {
           "title": "美元指数DXY日内跌幅达1%，跌破96关口，创2022年2月以来新低。",
@@ -1047,8 +1064,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时45分]"
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 13时29分]"
         },
         {
           "title": "OpenAI：随着时间的推移，更强大的人工智能功能将通过付费的ChatGPT计划提供。",
@@ -1144,8 +1161,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时48分 ~ 12时45分]"
+          "appearance_count": 6,
+          "time_info": "[09时48分 ~ 13时29分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。 在美国，Google AI Plus月租7.99美元。",
@@ -1220,8 +1237,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 12时45分]"
+          "appearance_count": 17,
+          "time_info": "[00时32分 ~ 13时29分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
