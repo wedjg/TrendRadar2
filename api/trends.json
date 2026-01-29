@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T15:41:06.560514+08:00",
-  "total_titles_processed": 1426,
+  "generated_at": "2026-01-29T16:40:54.072973+08:00",
+  "total_titles_processed": 1535,
   "failed_sources": [],
   "trends": [
     {
@@ -92,11 +92,12 @@
           "ranks": [
             2,
             4,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时02分 ~ 15时41分]"
+          "appearance_count": 7,
+          "time_info": "[10时02分 ~ 16时40分]"
         },
         {
           "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
@@ -112,6 +113,35 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时02分 ~ 15时41分]"
+        },
+        {
+          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
+          "url": "https://www.cls.cn/detail/2273523",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时27分 ~ 16时40分]"
+        },
+        {
+          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
+          "url": "https://www.cls.cn/detail/2273531",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时27分 ~ 16时40分]"
         },
         {
           "title": "美国总统特朗普结束在“特朗普账号”活动上的发言。",
@@ -170,31 +200,17 @@
           "time_info": "[02时39分 ~ 03时30分]"
         },
         {
-          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
-          "url": "https://www.cls.cn/detail/2273523",
-          "source": "财联社热门",
+          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
+          "url": "https://www.zhihu.com/question/2000136531822794040",
+          "source": "知乎",
           "ranks": [
-            12,
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时27分 ~ 15时41分]"
-        },
-        {
-          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
-          "url": "https://www.cls.cn/detail/2273531",
-          "source": "财联社热门",
-          "ranks": [
+            14,
             11,
-            10,
-            9
+            12
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时27分 ~ 15时41分]"
+          "time_info": "[12时27分 ~ 16时40分]"
         },
         {
           "title": "美国总统特朗普赞赏财长贝森特，称自己不想失去他。",
@@ -244,19 +260,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时33分 ~ 02时39分]"
-        },
-        {
-          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
-          "url": "https://www.zhihu.com/question/2000136531822794040",
-          "source": "知乎",
-          "ranks": [
-            14,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 15时41分]"
         },
         {
           "title": "特朗普“称赞美元贬值”引发抛售后 贝森特出面救火",
@@ -846,7 +849,7 @@
     },
     {
       "keyword_group": "英伟达 NVIDIA NVDA H200",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "英伟达CEO黄仁勋：当然会与台积电首席执行官会面。",
@@ -993,6 +996,17 @@
           "time_info": "13时44分"
         },
         {
+          "title": "中方回应是否批准进口英伟达H200芯片",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E6%89%B9%E5%87%86%E8%BF%9B%E5%8F%A3%E8%8B%B1%E4%BC%9F%E8%BE%BEH200%E8%8A%AF%E7%89%87",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
           "title": "英伟达CEO黄仁勋：我们与英特尔有着强大的合作关系。",
           "url": "https://flash.jin10.com/detail/20260129133011047800",
           "source": "金十数据",
@@ -1060,11 +1074,12 @@
           "ranks": [
             3,
             7,
-            15
+            15,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 15时41分]"
+          "appearance_count": 5,
+          "time_info": "[12时27分 ~ 16时40分]"
         },
         {
           "title": "谷歌同意就与蜂窝数据处理相关的集体诉讼达成和解协议，谷歌将支付1.35亿美元作为集体诉讼和解的一部分。",
