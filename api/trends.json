@@ -1,77 +1,58 @@
 {
-  "generated_at": "2026-01-30T01:39:08.153400+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-01-30T02:47:37.138516+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 49,
       "titles": [
+        {
+          "title": "金十提示：美国总统特朗普在结束内阁会议前，没有回答任何问题。",
+          "url": "https://flash.jin10.com/detail/20260130020218038800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
         {
           "title": "美国总统特朗普讲话期间，现货黄金走高，回升至5330美元/盎司上方。",
           "url": "https://flash.jin10.com/detail/20260130011936072800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 01时39分]"
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 02时47分]"
         },
         {
           "title": "美国总统特朗普：与礼来制药老板对话。",
           "url": "https://wallstreetcn.com/livenews/3046628",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 01时39分]"
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 02时47分]"
         },
         {
           "title": "特朗普：利率应该低2到3个百分点",
           "url": "https://flash.jin10.com/detail/20260130011817239800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 01时39分]"
-        },
-        {
-          "title": "美国总统特朗普：下周将宣布美联储主席人选。",
-          "url": "https://flash.jin10.com/detail/20260130011653273800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 01时39分]"
-        },
-        {
-          "title": "美国总统特朗普：下周将宣布美联储主席人选。",
-          "url": "https://wallstreetcn.com/livenews/3046625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 01时39分]"
-        },
-        {
-          "title": "美国总统特朗普：关税本可能会更高，我们已经非常客气了。",
-          "url": "https://flash.jin10.com/detail/20260130011559284800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 01时39分]"
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 02时47分]"
         },
         {
           "title": "墨西哥总统辛鲍姆：我们（墨西哥方面/墨方和美国总统特朗普）的目标是，尽快与加拿大总理卡尼通电话。",
@@ -86,6 +67,42 @@
           "time_info": "[00时44分 ~ 01时39分]"
         },
         {
+          "title": "美国总统特朗普：下周将宣布美联储主席人选。",
+          "url": "https://flash.jin10.com/detail/20260130011653273800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 02时47分]"
+        },
+        {
+          "title": "美国总统特朗普：下周将宣布美联储主席人选。",
+          "url": "https://wallstreetcn.com/livenews/3046625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 02时47分]"
+        },
+        {
+          "title": "美国总统特朗普：关税本可能会更高，我们已经非常客气了。",
+          "url": "https://flash.jin10.com/detail/20260130011559284800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 02时47分]"
+        },
+        {
           "title": "打击伊朗的机会窗口未到，特朗普在等什么？",
           "url": "https://v.ifeng.com/c/8qJY5CqQQ7n",
           "source": "凤凰网",
@@ -93,8 +110,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时47分]"
         },
         {
           "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
@@ -104,74 +121,80 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时47分]"
         },
         {
           "title": "美国财长贝森特：100人已经签字申请“特朗普账户”（Trump Accounts）。",
           "url": "https://wallstreetcn.com/livenews/3046620",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 01时39分]"
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 02时47分]"
         },
         {
           "title": "特朗普称美方计划重新开放委内瑞拉领空",
           "url": "https://wallstreetcn.com/livenews/3046619",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 01时39分]"
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 02时47分]"
         },
         {
           "title": "特朗普称美方计划重新开放委内瑞拉领空",
           "url": "https://flash.jin10.com/detail/20260130011129338800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 01时39分]"
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 02时47分]"
         },
         {
           "title": "特朗普：普京同意停火一周",
           "url": "https://flash.jin10.com/detail/20260130011030336800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 01时39分]"
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 02时47分]"
         },
         {
           "title": "美国总统特朗普：（谈中东）哈马斯似乎即将解除武装。",
           "url": "https://flash.jin10.com/detail/20260130010707619800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 01时39分]"
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 02时47分]"
         },
         {
           "title": "美国总统特朗普：（谈中东）哈马斯是促成人质获释的重要因素。",
           "url": "https://flash.jin10.com/detail/20260130010650342800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 01时39分]"
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 02时47分]"
         },
         {
           "title": "美国总统特朗普：通用汽车、福特汽车的表现是它们从未有过的。",
@@ -383,6 +406,105 @@
           "time_info": "[01时38分 ~ 01时39分]"
         },
         {
+          "title": "金十数据1月30日讯，美国总统特朗普结束内阁会议。",
+          "url": "https://flash.jin10.com/detail/20260130020053884800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "特朗普：普京同意停火一周，以便乌方渡过严寒",
+          "url": "https://wallstreetcn.com/livenews/3046644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "美国总统特朗普：我们将开始打击陆路入境的毒品，你们很快就会看到。",
+          "url": "https://flash.jin10.com/detail/20260130015932428800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "美国总统特朗普：一支庞大的舰队正驶往中东。",
+          "url": "https://flash.jin10.com/detail/20260130015749406800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "美国总统特朗普声称：将索马里海盗列入“类似贩毒船只”清单。",
+          "url": "https://wallstreetcn.com/livenews/3046641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及发电站）我们不需要电网。",
+          "url": "https://flash.jin10.com/detail/20260130014330273800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "特朗普讲话不到一小时，现货黄金反弹100美元",
+          "url": "https://flash.jin10.com/detail/20260130014047592800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "美国总统特朗普：不想让房价下跌，将推高现存房主的住宅价值。",
+          "url": "https://flash.jin10.com/detail/20260130013218508800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "美国总统特朗普谈及发电站，称：我们不需要电网。",
+          "url": "https://wallstreetcn.com/livenews/3046634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
           "title": "美国参议院多数党领袖约翰·图恩（John Thune）：更加接近避免美国发生政府关门。 总统特朗普的白宫正与民主党研究（与移民海关执法部门ICE/国土安全部HSD相关）的预算拨款方案。 国土安全部将根据应急方案获得临时性的资金支持。 但愿、希望众议院复会，帮助避免特朗普政府自去年10月1日以来再次发生停摆。",
           "url": "https://wallstreetcn.com/livenews/3046577",
           "source": "华尔街见闻-快讯",
@@ -392,6 +514,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "美国总统特朗普：与礼来公司负责人通话，对方表示他们正在建设6家工厂。",
+          "url": "https://flash.jin10.com/detail/20260130013037529800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "特朗普：白宫仍在与民主党人协商 避免政府停摆",
+          "url": "https://flash.jin10.com/detail/20260130012842040800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "美国总统特朗普：将推高现存房主的住宅价值。 不希望住房价值缩水。",
+          "url": "https://wallstreetcn.com/livenews/3046629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
         },
         {
           "title": "墨西哥总统辛鲍姆：我们不能将加拿大排除在三边协议（美国墨西哥加拿大贸易协议/USMCA）之外。 今天，与美国总统特朗普通电话。 墨西哥设法维持三边协议。 特朗普邀请我前往美国，但我们还没有同意哪一天实现。 我们认为，（美墨边境）安全工作的进展不错。 此次通话是“热情的”。 我们讨论关税和非关税壁垒。 墨美贸易和双边关系正在推进。 并没有与特朗普讨论（墨西哥供应柴油给）古巴的问题。",
@@ -408,7 +563,7 @@
     },
     {
       "keyword_group": "美股 微软 亚马逊 博通 台积电 AMD",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
@@ -418,19 +573,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时47分]"
         },
         {
           "title": "欧洲军工股几乎全线收跌。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收跌1.58%。微软让投资者担忧AI、带动市场加速下挫之际，该ETF在北京时间23:00之前开始加速下跌。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收跌2.05%。",
           "url": "https://wallstreetcn.com/livenews/3046626",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 01时39分]"
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 02时47分]"
         },
         {
           "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
@@ -441,8 +597,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时47分]"
         },
         {
           "title": "“若GPU管够，增速早超40%！”微软电话会回应市场担忧：我们缺产能，不缺订单",
@@ -452,19 +608,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时47分]"
         },
         {
           "title": "加密货币市场在美股开盘前后加速下跌",
           "url": "https://wallstreetcn.com/livenews/3046613",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 01时39分]"
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 02时47分]"
         },
         {
           "title": "纳斯达克金龙中国指数跌超1%，彭博数据显示，美股盘初一度涨约2%。",
@@ -476,6 +633,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "金十图示：2026年01月29日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260130013122983800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "金十图示：2026年01月29日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260130013040868800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
         },
         {
           "title": "标普跌超1%，纳指跌超2%，微软重挫超11%",
@@ -536,8 +715,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时39分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时47分]"
         }
       ]
     },
@@ -550,11 +729,12 @@
           "url": "https://www.zhihu.com/question/1994095464539255007",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时39分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时47分]"
         }
       ]
     }
