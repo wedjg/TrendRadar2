@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T18:35:17.715143+08:00",
-  "total_titles_processed": 1625,
+  "generated_at": "2026-01-30T19:29:47.625761+08:00",
+  "total_titles_processed": 1725,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 90,
+      "match_count": 93,
       "titles": [
         {
           "title": "今晚官宣！报道称特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时41分 ~ 18时35分]"
+          "appearance_count": 9,
+          "time_info": "[12时41分 ~ 19时29分]"
         },
         {
           "title": "特朗普称美联储“新掌门”周五揭晓 沃什获提名概率飙升至87%！",
@@ -82,6 +82,34 @@
           "time_info": "[00时44分 ~ 05时28分]"
         },
         {
+          "title": "特朗普宣布国家紧急状态，威胁对向古巴提供石油的国家加征关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32496464",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            15,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时51分 ~ 19时29分]"
+        },
+        {
+          "title": "美元大涨、黄金暴跌！特朗普挑了位最“鹰”的鲍威尔接班人？",
+          "url": "https://www.cls.cn/detail/2275439",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时40分 ~ 19时29分]"
+        },
+        {
           "title": "特朗普：计划30日公布美联储下任主席提名",
           "url": "https://news.ifeng.com/c/8qKUiK0pwuH",
           "source": "凤凰网",
@@ -125,20 +153,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
-        },
-        {
-          "title": "特朗普宣布国家紧急状态，威胁对向古巴提供石油的国家加征关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32496464",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时51分 ~ 18时35分]"
         },
         {
           "title": "特朗普称计划同伊朗对话",
@@ -293,18 +307,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时31分 ~ 05时28分]"
-        },
-        {
-          "title": "美元大涨、黄金暴跌！特朗普挑了位最“鹰”的鲍威尔接班人？",
-          "url": "https://www.cls.cn/detail/2275439",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时40分 ~ 18时35分]"
         },
         {
           "title": "金十提示：美国总统特朗普在结束内阁会议前，没有回答任何问题。",
@@ -857,6 +859,17 @@
           "time_info": "13时47分"
         },
         {
+          "title": "特朗普挑了他？",
+          "url": "https://news.ifeng.com/c/8qKyVE4XGIc",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
           "title": "美国总统特朗普签署行政命令打击毒瘾和药物滥用，称之为“伟大的美国复苏计划”。",
           "url": "https://flash.jin10.com/detail/20260130063308194800",
           "source": "金十数据",
@@ -874,7 +887,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -929,7 +942,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -943,6 +956,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "俄方称特朗普请求普京2月1日前不对基辅发动袭击",
+          "url": "https://wallstreetcn.com/livenews/3047308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         },
         {
           "title": "美国总统特朗普：与礼来公司负责人通话，对方表示他们正在建设6家工厂。",
@@ -967,13 +991,24 @@
           "time_info": "02时47分"
         },
         {
+          "title": "古巴谴责特朗普行政令意在种族灭绝：将致水电交通医疗全瘫痪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32498277",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
           "title": "克里姆林宫：特朗普亲自请求普京在2月前暂停对基辅的打击，以创造有利的谈判条件。",
           "url": "https://flash.jin10.com/detail/20260130180045526800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -1058,7 +1093,7 @@
     },
     {
       "keyword_group": "美股 微软 亚马逊 博通 台积电 AMD",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
@@ -1068,8 +1103,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时02分 ~ 18时35分]"
+          "appearance_count": 10,
+          "time_info": "[10时02分 ~ 19时29分]"
         },
         {
           "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
@@ -1304,6 +1339,17 @@
           "time_info": "06时29分"
         },
         {
+          "title": "美股上市公司高管密集离场 是落袋为安还是预见危机？",
+          "url": "https://flash.jin10.com/detail/20260130185416724800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
           "title": "金十图示：2026年01月29日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260130013040868800",
           "source": "金十数据",
@@ -1534,7 +1580,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         }
